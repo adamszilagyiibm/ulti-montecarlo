@@ -1,0 +1,1316 @@
+{
+ "source": "Kovács Endre: Ultikodex (OCR)",
+ "stats": {
+  "proposed": 148,
+  "verified": 145,
+  "rejected": 3,
+  "unique_after_dedup": 145
+ },
+ "advice": [
+  {
+   "topic": "licit",
+   "contract": "általános",
+   "advice": "Az első körben csak a durchmars tekintetében nyilatkoznak a játékosok.",
+   "condition": "Az első körben",
+   "direction": "informacio",
+   "quote": "Az első körben csak durchmars tekintetében nyilatkoznak a játékosok (például durchmars a tök ásszal vagy passz durchmars).",
+   "pages": "20-25"
+  },
+  {
+   "topic": "licit",
+   "contract": "általános",
+   "advice": "A második környilatkozat során mondják be az egyéb, durchmarsnál kisebb értékű figurákat.",
+   "condition": "A második körben",
+   "direction": "informacio",
+   "quote": "A második környilatkozat során már bemondják az egyéb -- de a durchmarsnál kisebb értékű — figurákat (például 40-100 vagy ultimó).",
+   "pages": "20-25"
+  },
+  {
+   "topic": "kontra",
+   "contract": "általános",
+   "advice": "A játék vagy a bemondott figura kontrájára vonatkozó nyilatkozatot csak az első kijátszás után, az ütés jogának birtokában lehet megtenni.",
+   "condition": "Az első kijátszás után az ütés joga a nyilatkozó játékost illeti meg",
+   "direction": "tedd",
+   "quote": "A játék vagy a bemondott figura kontrájára vonatkozó nyilatkozatot csak akkor teszik meg, amikor az első kijátszás után az ütés joga a nyilatkozó játékost illeti meg.",
+   "pages": "20-25"
+  },
+  {
+   "topic": "kontra",
+   "contract": "általános",
+   "advice": "Kontra esetén az első ütés befejezése után ki kell várni a másik három játékos rekontra vagy passz nyilatkozatát a játék folytatása előtt.",
+   "condition": "Kontra esetén",
+   "direction": "tedd",
+   "quote": "Kontra esetén az első ütés befejezése után ki kell várni a másik három játékos nyilatkozatát — ami rekontra. vagy passz lehet és csak ezután szabad a játékot folytatni.",
+   "pages": "20-25"
+  },
+  {
+   "topic": "licit",
+   "contract": "40-100",
+   "advice": "A 40-100 vagy 20-100 bemondásának akkor van alapja, ha a hívó és partnere jó adu- és színelosztással rendelkezik.",
+   "condition": "A hívó és a partnere együttesen megfelelő lapokkal rendelkezik",
+   "direction": "tedd",
+   "quote": "A 40-100 vagy 20-100 bemondásának akkor van alapja, ha a hívó és a partnere együttesen olyan jó adu- és színelosztású lappal rendelkezik, hogy számításuk szerint az első esetben 6 ász-tízest, a második esetben pedig 8 ász-tízest képesek együtt hazavinni.",
+   "pages": "20-25"
+  },
+  {
+   "topic": "licit",
+   "contract": "ulti",
+   "advice": "Az ultimót akkor érdemes bemondani, ha a bemondó kezében legalább négy adu van az adu 7-essel, és megfelelő ütőlappal is rendelkezik.",
+   "condition": "Legalább négy adu és az adu 7-es a kézben van",
+   "direction": "tedd",
+   "quote": "Az ultimó akkor mondható be a sikeres megjátszás reményében, ha a bemondó kezében legalább négy adu van — természetesen az adu 7-eszel --, és megfelelő ütőlappal is rendelkezik.",
+   "pages": "20-25"
+  },
+  {
+   "topic": "licit",
+   "contract": "betli",
+   "advice": "Betlit csak akkor szabad bemondani, ha a bemondó igen alacsony értékű ütőlapokkal rendelkezik és lehetőleg azokból is sorozat van a kezében.",
+   "condition": "Alacsony értékű ütőlapok és sorozat van a kézben",
+   "direction": "tedd",
+   "quote": "Ez az érdekes figura csak akkor mondható be, ha a bemondó igen alacsony értékű ütőlapokkal rendelkezik és lehetőleg azokból is sorozat van a kezében.",
+   "pages": "20-25"
+  },
+  {
+   "topic": "licit",
+   "contract": "durchmars",
+   "advice": "A durchmars bemondása akkor indokolt, ha a bemondó kezében legalább 5-6 biztos ütőlap van.",
+   "condition": "A kézben legalább 5-6 biztos ütőlap van",
+   "direction": "tedd",
+   "quote": "A durchmars bemondása akkor indokolt, ha a bemondó kezében legalább 5-6 biztos ütőlap van és azt a játékost hívja segítőül, akinek a kezében a bemondó valamelyik kis értékű lapjának legmagasabb értékű ütője van.",
+   "pages": "20-25"
+  },
+  {
+   "topic": "bedobas",
+   "contract": "általános",
+   "advice": "Ha a felvevőnek igen gyenge lapja van, jogában áll indulása előtt lapjait eldobni és az ellenfelek tartoznak a kontra díjával megelégedni.",
+   "condition": "Ha a felvevőnek igen gyenge lapja van",
+   "direction": "tedd",
+   "quote": "Ha a felvevőnek igen gyenge lapja van, jogában áll indulása előtt lapjait eldobni és az ellenfelek tartoznak a kontra díjával megelégedni.",
+   "pages": "26-31"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "általános",
+   "advice": "A színre színt adás mindig kötelező, hiányában aduval kell ütni, vagy bármilyen lapot dobni.",
+   "condition": "Ha a kijátszott színnel nem rendelkezünk",
+   "direction": "tedd",
+   "quote": "A színre színt adás mindig kötelező. Ha, a kijátszott színnel nem rendelkezünk, aduval kell ütni, ha ilyen sincs, akkor bármilyen lapot dobhatunk.",
+   "pages": "26-31"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "általános",
+   "advice": "A kisebb értékű kártyát a nagyobb értékűvel felül kell ütni, ha ilyennel rendelkezünk.",
+   "condition": "Felülütés esetén",
+   "direction": "tedd",
+   "quote": "A felülütés füberelés) kötelező. Ez azt jelenti, hogy a kisebb értékű kártyát a nagyobb értékűvel felül kell ütni, ha ilvennel rendelkezünk.",
+   "pages": "26-31"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "általános",
+   "advice": "Előbb a kisebb lapokat játsszuk ki, majd húzzuk ki az ellenfelek kezében levő adukat, vagy a saját nagy aduinkat.",
+   "condition": "Játék közben",
+   "direction": "tedd",
+   "quote": "előbb a kisebb lapokat játsszuk ki, majd kihúzzuk az ellenfelek kezében levő adukat, illetve a saját nagy aduinkat húzzuk le, hogy az ellenfelek aduval ne rendelkezzenek.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "kontra",
+   "contract": "általános",
+   "advice": "Kontra esetén a rekontra csak akkor indokolt, ha biztosak vagyunk abban, hogy az ellenfelek nem vihetnek haza három 10-esnél többet.",
+   "condition": "Kontra esetén",
+   "direction": "ne_told",
+   "quote": "Kontra esetén a rekontra csak akkor indokolt, ha, teljes biztonsággal megállapíthatjuk, hogy az ellenfelek -- bármilyen aránytalan is a színelosztás — nem vihetnek haza három 10-esnél többet.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "általános",
+   "advice": "Az egy aduval rendelkező ellenfél helyes játéka, hogy amikor ütésbe kerül, az egy aduját kijátssza, hogy a színbe tízest vagy ászt kenhessen.",
+   "condition": "Ha az ellenfélnél egy adu van és a partnerével közös szín van",
+   "direction": "tedd",
+   "quote": "Ilyenkor az egy aduval rendelkező ellenfél helyes játéka az, hogy amikor ütésbe kerül, az egy aduját kijátssza, hogy az ellenfél és partnere közös színébe , kenhessen",
+   "pages": "32-37"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "általános",
+   "advice": "Olyan ászt, amelyből a 10-es nincs kézben, csak akkor szabad leadni, ha már csak ez hiányzik a bemondott figura megbuktatásához.",
+   "condition": "Ha a 10-es nincs kézben",
+   "direction": "ne_told",
+   "quote": "Olyan ászt, amelyből a 10-es nincs kézben, csak akkor szabad leadni, ha már csak ez hiányzik a bemondott figura megbuktatásához.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "20-100",
+   "advice": "A 20-100 megjátszásánál még nagyobb óvatosságra van szükség.",
+   "condition": "20-100 bemondáskor",
+   "direction": "tedd",
+   "quote": "A figura megjátszása. Lényegében azonos a 40-100 megjátszásával, de itt még nagyobb óvatosságra van szükség.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "rekontra",
+   "contract": "20-100",
+   "advice": "Kontra esetén még körültekintőbben rekontrázzunk.",
+   "condition": "Kontra esetén 20-100-nál",
+   "direction": "ne_told",
+   "quote": "Kontra esetén még körültekintőbben rekontrázzunk, mert egyetlen váratlanul kiszaladt ütésben az ellenfél elvihet egy 10-est, ami a rekontrázott 20-100 elbuktatását okozhatja.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "licit",
+   "contract": "ultimó",
+   "advice": "Az ultimó bemondása csak akkor indokolt, ha legalább 5 adu van a kezünkben és az adu 7-essel is rendelkezünk.",
+   "condition": "Legalább 5 adu és az adu 7-es birtokában",
+   "direction": "tedd",
+   "quote": "A bemondás feltétele. Az ultimó bemondása csak akkor indokolt, ha legalább 5 adu van a kezünkben, és természetesen az adu 7-essel is rendelkezünk.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "ultimó",
+   "advice": "Ha csak 4 adura mondtuk be az ultimót, célszerű aduval indulni.",
+   "condition": "Négy aduval történő bemondás esetén",
+   "direction": "tedd",
+   "quote": "A figura megjátszása. Különösen akkor kell óvatosan játszani, ha csak 4 adura mondtuk be az ultimót. Ilyenkor célszerű aduval indulni, mert így általában elkerülhető a kontra, még aránytalan aduelosztás esetén is.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "rekontra",
+   "contract": "ultimó",
+   "advice": "Kontra esetén nagyon megfontolandó a rekontrázás.",
+   "condition": "Ultimó kontrázása esetén",
+   "direction": "ne_told",
+   "quote": "Kontra esetén nagyon megfontolandó a rekontrázás, mert nem ismerjük az ellenfél kezében levő adu- és színelosztás arányát.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "ultimó",
+   "advice": "Az ultimó elleni védekezés során elsősorban arra törekszünk, hogy a bemondónál hiányzó szín kijátszásával a nála levő adukat kicsaljuk.",
+   "condition": "Ultimó elleni védekezéskor",
+   "direction": "tedd",
+   "quote": "Az ultimó elleni védekezés során elsősorban arra törekszünk mint ellenfelek, hogy a bemondónál hiányzó szín kijátszásával a nála levő adukat kicsaljuk.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "licit",
+   "contract": "betli",
+   "advice": "A betli bemondása akkor célszerű, ha alacsony értékű lapjaink vannak, többnyire sorozatban.",
+   "condition": "Alacsony értékű lapok meglétekor",
+   "direction": "tedd",
+   "quote": "A bemondás feltétele. A betli bemondása akkor célszerű, ha alacsony értékű lapjaink vannak, többnyire sorozatban.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "betli",
+   "advice": "Célszerű azzal a színnel indulni, amelyből csak egyetlen lapunk van, vagy a kézben maradt lapok már ütésveszélyt nem jelentenek.",
+   "condition": "Betli indításakor",
+   "direction": "tedd",
+   "quote": "Célszerű azzal a színnel indulni, amelyből csak egyetlen lapunk van, vagy a kézben maradt lapok már ütésveszélyt nem jelentenek (például 7-es, 8-as).",
+   "pages": "32-37"
+  },
+  {
+   "topic": "rekontra",
+   "contract": "betli",
+   "advice": "Kontrázás esetén csak egészen biztos lapra rekontrázhatunk.",
+   "condition": "Betli kontrázása esetén",
+   "direction": "ne_told",
+   "quote": "Kontrázás esetén csak egészen biztos lapra rekontrázhatunk, mert nem ismerhetjük a kontrázó lapjait és azt sem, hogy milyen a színek elosztásának aránya az ellenfelek között.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "betli",
+   "advice": "A kontrázó partnere azonnal hívja azt a színt, amelyben hosszú és foghíjas kis ütőlapjai vannak.",
+   "condition": "Betli elleni védekezésnél",
+   "direction": "tedd",
+   "quote": "Ezért a kontrázó partnere azonnal hívja azt a színt, amelyben hosszú és foghíjas kis ütőlapjai vannak.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "licit",
+   "contract": "durchmars",
+   "advice": "Durchmarsra csak akkor szabad vállalkozni, ha 10 biztos ütőlappal rendelkezünk.",
+   "condition": "10 biztos ütőlap meglétekor",
+   "direction": "tedd",
+   "quote": "A bemondás feltétele. Erre a figurára csak akkor szabad vállalkozni, ha 10 biztos ütőlappal rendelkezünk, vagy pedig — aránytalan színelosztás esetén —- legfeljebb egyetlen elfogható lapunk van.",
+   "pages": "32-37"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "durchmars",
+   "advice": "Azzal a színnel induljunk, amelyből biztos ütőlapjaink vannak, majd célszerű a színeket váltakozva lehívni.",
+   "condition": "Durchmars megjátszásakor",
+   "direction": "tedd",
+   "quote": "A figura megjátszása. Azzal a színnel induljunk, amelyből biztos ütőlapjaink vannak. Ezután célszerű a színeket váltakozva lehívni, mert így semmi támpontot nem adunk az ellenfelek számára",
+   "pages": "32-37"
+  },
+  {
+   "topic": "rekontra",
+   "contract": "durchmars",
+   "advice": "Kontra esetén itt is nagy óvatossággal, csak biztos lappal rekontrázhatunk.",
+   "condition": "Durchmars kontra esetén",
+   "direction": "ne_told",
+   "quote": "Kontra esetén itt is nagy óvatossággal, csak biztos lappal! rekontrázhatunk. Nem ismerjük az elosztás arányát!",
+   "pages": "32-37"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Az adu színét elsősorban abból a színből válasszuk meg, amelyből 7-esünk van.",
+   "condition": "Ha van 7-esünk a színben",
+   "direction": "tedd",
+   "quote": "az adu színét, mint a fenti néhány példa is mutatta, elsősorban abból a színből választjuk meg, amelyből 7-esünk, másodsorban pedig királyunk vagy felsőnk van.",
+   "pages": "38-43"
+  },
+  {
+   "topic": "bedobas",
+   "contract": "általános",
+   "advice": "Ha olyan gyenge lappal rendelkezünk, hogy a játszmanyerés is bizonytalan, indulás előtt dobjuk el a lapokat kontradíjjal.",
+   "condition": "Gyenge lap esetén, ha a játszmanyerés is bizonytalan",
+   "direction": "tedd",
+   "quote": "Ha viszont olyan gyenge lappal rendelkezünk, hogy még a játszmanyerés is bizonytalan, leghelyesebb indulás előtt a lapokat kontradíjjal eldobni.",
+   "pages": "38-43"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Ha a felvevő a letett talon lapjait felborítja, jogában áll azokat más lappal kicserélni.",
+   "condition": "A talon lapjainak felborítása esetén",
+   "direction": "tedd",
+   "quote": "Ha felvevő a letett talon egyik vagy mindkét lapját véletlenül vagy figyelmetlenségből felborítja, jogában áll azt vagy azokat más lappal vagy lapokkal kicserélni.",
+   "pages": "38-43"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Ha a talon lapjait nem cseréli ki a felvevő a felborítás után, helyes taktika úgy tenni, mintha kicserélné, és a lapok közé helyezni azokat.",
+   "condition": "A talon lapjainak felborítása és nem cserélése esetén",
+   "direction": "tedd",
+   "quote": "Ha viszont nem cseréli ki, az előny az ellenfél játékosai-nak. Ez utóbbi esetben is az a helyes taktika, ha úgy tesz, mintha kicserélné: vagyis lapjai közé helyezi és esetleg ugyanazokat a lapokat teszi le a talonba.",
+   "pages": "38-43"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "A felvevő saját mehet vagy passz közlése előtt bemondását megváltoztathatja, és a letett talon lapjait kicserélheti.",
+   "condition": "Saját mehet vagy passz közlése előtt",
+   "direction": "tedd",
+   "quote": "Jogában áll a felvevőnek saját , mehet\" vagy , passz\" közlése előtt bemondását megváltoztatni és ennek megfelelően a már letett talon lapjait kicserélni.",
+   "pages": "38-43"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "40-100",
+   "advice": "Nevezett játékban kerüld a nem aduval való indulást, mert az ellenfél kontrázhat.",
+   "condition": "40-100 bemondásakor",
+   "direction": "ne_told",
+   "quote": "Csaba legnagyobb hibája az volt, hogy nem aduval indult. Ha aduval indul, nem kapott volna kontra 40-100-at !",
+   "pages": "44-49"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "ulti",
+   "advice": "A hívott színbe adott kisebb lapokkal jelezhetjük, ha sok van belőle.",
+   "condition": "Ha a hívott színbe olyan lapot teszünk be, amivel jelzést adunk",
+   "direction": "tedd",
+   "quote": "Albert nagyon helyesen játszott, amikor a Dénes által hozott TÖKBE a ZÖLD 7-est tette be, amivel jelzést adott arra, hogy neki sok ZÖLDJE van.",
+   "pages": "50-55"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "általános",
+   "advice": "Óvatosan kell kezdeni egy közepes adu ütővel, hogy esetleges harmadlagos adu elosztásnál az aduból az irányítás a kézben maradjon.",
+   "condition": "Harmadlagos adu elosztás",
+   "direction": "tedd",
+   "quote": "Nagyon óvatosan játszott, ezért kezdett egy közepes ZÖLD ütővel, hogy esetleges harmadlagos ZÖLD elosztásnál is az aduból az irányítás a kezében maradjon.",
+   "pages": "56-60"
+  },
+  {
+   "topic": "licit",
+   "contract": "kontra játék",
+   "advice": "A más által jelentett 40 után a kontra játék jogos, ha olyan lapok vannak a kézben, amelyekből legalább két 10-es a más lapjába smírelhető.",
+   "condition": "Más által jelentett 40 után",
+   "direction": "tedd",
+   "quote": "A Béla által jelentett 40 után Csaba kontra játéka is jogos volt, mert nekik olyan lapok voltak a kezében, amelyekből legalább két 10-est Béla lapjába , smírelhetett\".",
+   "pages": "56-60"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "általános",
+   "advice": "Amíg nem láttuk a 10-est, addig az ásztól elmenni vagy azt elkenni nem szabad.",
+   "condition": "A 10-es még nem volt látható",
+   "direction": "ne_told",
+   "quote": "Aranyszabály: amíg nem láttuk a 10-est, addig az ásztól elmenni vagy azt elkenni nem szabad.",
+   "pages": "56-60"
+  },
+  {
+   "topic": "bedobas",
+   "contract": "ulti",
+   "advice": "Kedvezőtlen, erős ellenféllel szembeni lap esetén célszerűbb a sima kontra játék kifizetésével eldobni a lapot.",
+   "condition": "ha a felvevő ellen igen nagy lap volt az ellenfelek kezében aránytalan megoszlásban",
+   "direction": "tedd",
+   "quote": "Ilyen esetben sokkal! célszerűbb a felvevő részéről a sima kontra játék kifizetésével eldobni a lapot. minthogy ilyen drágán fizessen a felvételért.",
+   "pages": "61-66"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "ulti",
+   "advice": "Nem biztonságos ultimónál feltétlenül célszerűbb aduval kezdeni a játékot, mint a vezető színnel.",
+   "condition": "nem biztonságos ultimónál",
+   "direction": "tedd",
+   "quote": "Ebből a játszmából tehát az lehet a végső tanulság. hogy a nem biztonságos ultimónál feltétlenül célszerűbb aduval kezdeni a játékot, mint a vezető színnel, mert még aránytalan adu- és színelosztás esetén is, kontra nélkül , úszhatja meg\" a bemondó az ultimót.",
+   "pages": "61-66"
+  },
+  {
+   "topic": "kontra",
+   "contract": "ulti",
+   "advice": "A vezető szín hiányában igen kockázatos az ultimót megkontrázni, mert a kontrázó is könnyen elbukhatja.",
+   "condition": "ha nincs támpont abban a tekintetben, hogy melyik a hajtó, illetve vezető szín",
+   "direction": "ne_told",
+   "quote": "Márpedig ennek hiányában igen kockázatos lett volna az ultimót megkontrázni, mert a kontra ultimót a, kontrázó is könnyen elbukhatja!",
+   "pages": "61-66"
+  },
+  {
+   "topic": "bedobas",
+   "contract": "parti",
+   "advice": "A gyenge lapot okvetlenül el kellett volna dobni.",
+   "condition": "gyenge lap esetén",
+   "direction": "tedd",
+   "quote": "az ilyen gyenge lapot okvetlenül el kellett volna dobni és így megúszta volna a kontra játék díjával.",
+   "pages": "61-66"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "ulti",
+   "advice": "A felvevőnek aduval vagy kis aduval érdemes indulnia az adu elosztásának feltérképezésére, ha a többi adu lehúzónak van a kezében.",
+   "condition": "Ha a felvevőnél a fő adu ásznak és 10-esnek megvan a birtoklása.",
+   "direction": "tedd",
+   "quote": "Albert nagyon okosan indult a TÖK alsóval, mert egyrészt kíváncsi volt a kint levő aduk elosztására, másrészt pedig a két major adut - az ászt és a 10-est - - lehúzónak tartotta a kezében.",
+   "pages": "67-72"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "ulti",
+   "advice": "Nem szabad azonnal kihozni az adu ászát, hanem ügyelni kell arra, hogy a megfelelő színnel (zölddel) találjuk meg a partnert.",
+   "condition": "Kontrázott ultimó esetén a védő részéről.",
+   "direction": "ne_told",
+   "quote": "Csaba nagyon okosan játszott, amikor nem hozta ki az adu ászát — amit egyesek ilyenkor kijátszanak - mert akkor bukott volna a kontrázott ultimó.",
+   "pages": "67-72"
+  },
+  {
+   "topic": "rekontra",
+   "contract": "általános",
+   "advice": "Amikor a felvevő rekontrázik, az igen nagy lapot jelent a kezében, ezért a szubkontrázás előtt nagyon alaposan mérlegelni kell a további nyilatkozatokat.",
+   "condition": "Ha a felvevő rekontrázott.",
+   "direction": "ne_told",
+   "quote": "A tanulság ebből a játszmából mindenesetre az lehet. hogy amikor már a felvevő rekontrázik, akkor igen nagy lap van a kezében, ezért a szubkontrázás előtt nagyon alaposan mérlegelni kell a további nyilatkozatokat.",
+   "pages": "67-72"
+  },
+  {
+   "topic": "licit",
+   "contract": "általános",
+   "advice": "Minden bemondás csak akkor indokolt, ha alapos.",
+   "condition": "Olyan lappal rendelkezünk, amely legalább 75-80%-os sikerrel kecsegtet.",
+   "direction": "tedd",
+   "quote": "Minden bemondás csak akkor indokolt, ha alapos, ha olyan lappal rendelkezünk, amely legalább 75--80X-os sikerrel kecsegtet.",
+   "pages": "73-78"
+  },
+  {
+   "topic": "licit",
+   "contract": "ulti",
+   "advice": "Ultimót legalább 5 aduval vagy meghatározott egyéb feltételekkel célszerű bemondani.",
+   "condition": "Legalább 5 aduval, köztük ásszal vagy királyos 10-essel és egy-két idegen major ütőlappal rendelkezünk, vagy négy adu esetén 3 adu major ütőlappal és rendkívül nagy erejű ütőlappal, továbbá legalább négy tagú vezető színnel.",
+   "direction": "tedd",
+   "quote": "Ultimó bemondása csak akkor célszerű, ha legalább 5 aduval, köztük ásszal vagy királyos 10-essel és egy-két idegen major ütőlappal (ásszal) rendelkezünk.",
+   "pages": "73-78"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "40-100",
+   "advice": "40-100 bemondása esetén célszerű aduval indulni az aduk elosztásának tisztább látása érdekében.",
+   "condition": "40-100 bemondása esetén.",
+   "direction": "tedd",
+   "quote": "A 40-100 bemondása esetén is célszerű aduval indulni, mert ebben az esetben tisztábban látjuk az ellenfelek kezében levő aduk elosztásának arányát.",
+   "pages": "73-78"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "40-100",
+   "advice": "Hosszú, vezető színünkkel akkor indokolt indulni 40-100 esetén, akármikor a smírelési lehetőséget akarjuk elhárítani.",
+   "condition": "Az esetleges smírelési lehetőséget akarjuk elhárítani.",
+   "direction": "tedd",
+   "quote": "Hosszú, vezető színünkkel akkor indokolt indulni, ha az esetleges , smírelési ' lehetőséget akarjuk elhárítani.",
+   "pages": "73-78"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "durchmars",
+   "advice": "Durchmarsnál olyan lappal kell indulnunk, hogy abból az ellenfél az elfogható színre ne tudjon következtetni.",
+   "condition": "Durchmars játékban.",
+   "direction": "tedd",
+   "quote": "Durchmarsnál olyan lappal kell indulnunk, hogy ebből az ellenfél az elfogható színre ne tudjon következtetni.",
+   "pages": "73-78"
+  },
+  {
+   "topic": "kontra",
+   "contract": "általános",
+   "advice": "A kontra bemondása a saját lap és a partner jelentéseinek figyelembevételével történhet.",
+   "condition": "A kontrázó játékos kezében levő lap és a partner által esetleg bemondott jelentések figyelembevételével.",
+   "direction": "tedd",
+   "quote": "Kontra bemondása mindig a kontrázó játékos kezében levő lap és a partner által esetleg bemondott jelentések (20, 40 atb.) figyelembevételével történhet.",
+   "pages": "73-78"
+  },
+  {
+   "topic": "rekontra",
+   "contract": "általános",
+   "advice": "Rekontra és szubkontra csak akkor indokolt, ha biztosak vagyunk a sikeres megjátszásban.",
+   "condition": "Biztosak vagyunk abban, hogy az általunk bemondott magasabb kontrák lapunkból sikeresen megjátszhatók.",
+   "direction": "tedd",
+   "quote": "Rekontra és szubkontra csak akkor indokolt, ha biztosak vagyunk abban, hogy az általunk bemondott magasabb kontrák lapunkból sikeresen megjátszhatók.",
+   "pages": "73-78"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "általános",
+   "advice": "A játékot soha se az ellenfél játékához, hanem saját és partnerünk lapja szerint irányítsuk.",
+   "condition": "Játék közben.",
+   "direction": "tedd",
+   "quote": "Ezért játékunkat soha sem az ellenfél játékához, hanem saját és partnerünk lapja szerint irányítsuk.",
+   "pages": "73-78"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "általános",
+   "advice": "Az osztó ne nézzen bele sem a felvevő, sem a védők lapjaiba.",
+   "condition": "",
+   "direction": "ne_told",
+   "quote": "Helyes továbbá az a gyakorlat is, hogy az osztó nem nézhet bele sem a felvevő, sem pedig a védők lapjaiba.",
+   "pages": "79-84"
+  },
+  {
+   "topic": "egyeb",
+   "contract": "általános",
+   "advice": "A lap birtokosának a lapjába beleszólni vagy tanácsot adni nem szabad.",
+   "condition": "",
+   "direction": "ne_told",
+   "quote": "A lap birtokosának a lapjába beleszólnia, vagy tanácsot adni nem szabad, csak a játék végén mondhat véleményt!",
+   "pages": "79-84"
+  },
+  {
+   "topic": "licit",
+   "contract": "általános",
+   "advice": "Mindenképpen mellőzzük a passzt helyettesítő kopogást, mert ez félreértésekre adhat okot.",
+   "condition": "",
+   "direction": "ne_told",
+   "quote": "Mindenképpen mellőzzük a passzt helyettesítő kopogást, mert ez félreértésekre és ebből eredő kellemetlen vitákra adhat okot.",
+   "pages": "79-84"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "általános",
+   "advice": "A játékot mindig a felvevő kezdi meg.",
+   "condition": "",
+   "direction": "tedd",
+   "quote": "A játékot mindig a felvevő kezdi meg.",
+   "pages": "79-84"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "általános",
+   "advice": "A játék során felülütési kötelezettség van, és színre színt kell tenni.",
+   "condition": "ha nincs szín, adut kell tenni",
+   "direction": "tedd",
+   "quote": "A játék során felülütési ( überelési) kötelezettség van, és színre színt kell tenni. Ha nincs szín, akkor adut kell tenni, ha az sincs, akkor bármilyen színű és rendű lap dobható az ütésbe.",
+   "pages": "79-84"
+  },
+  {
+   "topic": "rablas",
+   "contract": "általános",
+   "advice": "A rabló játékos értékben magasabb egységű játékot köteles vállalni a felvevőnél vagy előző rablónál.",
+   "condition": "",
+   "direction": "tedd",
+   "quote": "Az átvétel egyetlen és legfőbb szabálya, hogy a , rab- ló",
+   "pages": "79-84"
+  },
+  {
+   "topic": "kontra",
+   "contract": "20-100",
+   "advice": "A 20-100 bemondásakor csak akkor kontra indokolt, ha biztosan látjuk a lapunkból, hogy az ellenfélnek nincs 20-a, vagy olyan erős lapunk van, hogy legalább két 10-est haza tudunk vinni.",
+   "condition": "20-100 bemondása esetén",
+   "direction": "tedd",
+   "quote": "Ezért itt a kontra csak akkor indokolt, ha a kontrázó biztosan látja lapjából, hogy a bemondónak 20-a nem lehet, vagy olyan erős lappal rendelkezik, hogy legalább két 10-est haza tud vinni.",
+   "pages": "85-90"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "20-100",
+   "advice": "Ha kétséges a bemondó 20-a, a játék végén célszerű megkérdezni, hogy az melyik színből volt.",
+   "condition": "Ha kétséges a bemondó 20-a",
+   "direction": "tedd",
+   "quote": "Ha kétséges a bemondó 20-a, akkor a játék végén célszerű megkérdezni — ha előbb nem derült ki - -, hogy az melyik színből volt.",
+   "pages": "85-90"
+  },
+  {
+   "topic": "licit",
+   "contract": "általános",
+   "advice": "A redurchmars és a rebetli bevezetése teljesen indokatlan, ezért alkalmazásukat nem tartjuk célszerűnek.",
+   "condition": "Redurchmars vagy rebetli vállalása esetén",
+   "direction": "ne_told",
+   "quote": "Hangsúlyozzuk, hogy a redurchmars és a rebetli bevezetése teljesen indokatlan. Akinek a fenti figurákban biztos lap van a kezében, az nyilván terített durchmarsot, illetve betlit vállal.",
+   "pages": "85-90"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "A skartolás, illetve talonletétel során arra kell törekedni, hogy minél kevesebb színű lap maradjon a kezünkben.",
+   "condition": "Talonletétel során",
+   "direction": "tedd",
+   "quote": "A skartolás, illetve talonletétel során arra kell törekedni, hogy minél kevesebb színű lap maradjon a kezünkben.",
+   "pages": "85-90"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "A kézben maradt tízeseket a legnagyobb kísérő lappal, lehetőleg királlyal vagy felsővel fedezzük.",
+   "condition": "Ha tízesek maradnak a kézben",
+   "direction": "tedd",
+   "quote": "A kézben maradt tízeseket pedig a legnagyobb kísérő lappal (lehetőleg királlyal, vagy felsővel) fedezzük.",
+   "pages": "85-90"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Rendkívül óvatosan kell választani a talonba kerülő két lapot, mert a rabló játékos ezzel igyekszik feljavítani a lapját.",
+   "condition": "A talonba kerülő két lap kiválasztásakor",
+   "direction": "ne_told",
+   "quote": "Rendkívül óvatosan kell azonban választani a talonba kerülő két lapot, mert a , rabló",
+   "pages": "85-90"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "A talonba lehetőleg ne tegyünk hetest, királyt, felsőt és piros színű kártyalapot.",
+   "condition": "A talonba helyezéskor",
+   "direction": "ne_told",
+   "quote": "A talonba lehetőleg nem teszünk 1. hetest, királyt és felsőt : 2. piros színű kártvalapot.",
+   "pages": "85-90"
+  },
+  {
+   "topic": "licit",
+   "contract": "parti",
+   "advice": "Mellőzzük a bemondás nélküli sima partik lejátszását.",
+   "condition": "",
+   "direction": "tedd",
+   "quote": "hogy mellőzzük a bemondás nélküli sima partik lejátszását.",
+   "pages": "91-96"
+  },
+  {
+   "topic": "licit",
+   "contract": "piros szín",
+   "advice": "Ha a felvevő ismét passzol, fizeti a kontra díját és a lapokat összedobják.",
+   "condition": "A felvevő első passza után a két következő játékos passzol, majd a felvevő ismét passzol",
+   "direction": "ne_told",
+   "quote": "Ha a felvevő ismét passzol, akkor kifizeti az egyszerű játszma kontra díját és a lapokat összedobják.",
+   "pages": "91-96"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "40-100",
+   "advice": "Az adu színében hosszú kéz esetén az adukat kell játszani, míg hajtó szín esetén azt kell hozni az aduban rövidítés érdekében.",
+   "condition": "A 40-100 figura megjátszásakor",
+   "direction": "tedd",
+   "quote": "Az első esetben az adukat játsszuk ki mindaddig, amíg az ellenfelek kezében adu van. A második esetben a hosszú színünket hozzuk ki, hogy ezáltal az ellenfeleket aduban rövidítsük, magunkat pedig aduban kíméljük.",
+   "pages": "91-96"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "négy ász",
+   "advice": "Ászos 5 lap esetén ne induljunk ásszal, hanem középértékű lappal, mert az ellenfél leütheti.",
+   "condition": "Amikor a bemondó kezében valamelyik színből ászos 5 lap van",
+   "direction": "ne_told",
+   "quote": "Amikor a bemondó kezében valamelyik színből ászos 5 lap van, nem célszerű ásszal indulni. mert esetleg az ellenfelek egyike aduval leüti azt.",
+   "pages": "91-96"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "ultimó",
+   "advice": "Hajtó színre épülő ultimónál is célszerű előbb egy adut kijátszani a kontra elkerülésére.",
+   "condition": "Amikor egy hosszú, ún. hajtó színre építjük az ultimó sikerét",
+   "direction": "tedd",
+   "quote": "Amikor egy hosszú, ún. , hajtó",
+   "pages": "91-96"
+  },
+  {
+   "topic": "kontra",
+   "contract": "betli",
+   "advice": "A betlignél és a színnélküli durchmarsnál a kontra személyenként számít, így a partnerre nem hat ki.",
+   "condition": "betli vagy színnélküli durchmars esetén",
+   "direction": "informacio",
+   "quote": "Megjegyezzük, hogy a színnélküli durchmars kontrája — akár a betliben — személyenként számít, vagyis a partnerrra nem hat ki.",
+   "pages": "97-102"
+  },
+  {
+   "topic": "kontra",
+   "contract": "durchmars",
+   "advice": "A színben vállalt durchmarsnál a kontra kihat a kontrázó partnerére is.",
+   "condition": "színben vállalt durchmars esetén",
+   "direction": "informacio",
+   "quote": "A színben vállalt durchmarsnál viszont a kontra kihat a kontrázó partnerére is.",
+   "pages": "97-102"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "terített betli",
+   "advice": "Terített betli vagy terített durchmars esetén a felvevő az első ütés után tartozik valamennyi lapját kiteríteni.",
+   "condition": "terített betli vagy terített durchmars felvételekor",
+   "direction": "tedd",
+   "quote": "Ha a felvétel terített betli vagy — akár színjátékban, akár adu nélküli játékban — terített durchmars, a felvevő az első ütés után tartozik valamennyi lapját kiteríteni maga elé és ezt követően a védők is kiterítik lapjaikat.",
+   "pages": "97-102"
+  },
+  {
+   "topic": "kontra",
+   "contract": "általános",
+   "advice": "Kontrázni a lap hozzáadása előtt kell, a rekontrát és a további kontrákat pedig az első ütés után, de a második ütés kijátszása előtt adjuk.",
+   "condition": "kontrázás vagy rekontrázás során",
+   "direction": "tedd",
+   "quote": "Kontrázásra minden játékos akkor jogosult, amikor laphozzáadásra sorra kerül. Kontrázni a lap hozzáadása előtt kell. A rekontrát és a további kontrákat az első ütés után, de a második ütés kijátszása előtt adjuk.",
+   "pages": "97-102"
+  },
+  {
+   "topic": "kontra",
+   "contract": "általános",
+   "advice": "A partnernek ugyanazt a figurát, amelyet játékostársa már kontrázott, nem kell és nem is szabad kontráznia.",
+   "condition": "ha a partner már kontrázta a figurát",
+   "direction": "ne_told",
+   "quote": "A partnernak tehát ugyanazt a figurát, amelyet játékostársa már kontrázott, nem kell és nem is szabad kontráznia.",
+   "pages": "97-102"
+  },
+  {
+   "topic": "kontra",
+   "contract": "általános",
+   "advice": "Ha a második helyen ülő védő gondolkodott a kontrán, a partnere csak akkor kontrázhat, ha a kontra megnyerését a saját lapja külön önállóan is biztosítja.",
+   "condition": "ha a partner gondolkodott a kontrán",
+   "direction": "ne_told",
+   "quote": "Abban az esetben, ha a második helyen ülő védő gondolkozott azon, hogy kontrázzon-e vagy sem, partnere csak akkor kontrázhat, ha a kontra megnyerését a saját lapja külön önállóan is biztosítja.",
+   "pages": "97-102"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "A talonból kapott, célra nem használható lapokat is a lapok közé kell helyezni, hogy az ellenfelek ne következtethessenek semmire.",
+   "condition": "ha a talonból rossz lapot kapunk",
+   "direction": "tedd",
+   "quote": "Amikor a felvevő olyan lapot vagy lapokat kap a talonból, amelyet vagy amelyeket célja érdekében használni nem tud, még ebben az esetben is lapjai közé kell helyeznie a talon lapjait, hogy játékából az ellenfelek semmi következtetést ne tudjanak levonni.",
+   "pages": "97-102"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "A felvevő bemondása közvetlenül a talonletétel után következzen szünet nélkül.",
+   "condition": "talonletétel után",
+   "direction": "tedd",
+   "quote": "A felvevő bemondása közvetlenül a talonletétel után következzen, semmi szünetet ne tartson, mert ezzel lehetőséget nyújt a következő játékosnak arra, hogy passzoljon vagy a talonért nyúljon, illetve raboljon.",
+   "pages": "97-102"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "A rabló játékos részére mindig a legkevésbé várt lapokat fektessük le a talonba.",
+   "condition": "A talonba kerülő lapok kiválasztásánál",
+   "direction": "tedd",
+   "quote": "a talonba kerülő lapok kiválasztásánál elsősorban azt a, célt tartsuk szem előtt, hogy a , rabló\" játékos részére mindig a legkevésbé várt lapokat fektessük le.",
+   "pages": "103-108"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Piros színű lapot általában ne tegyünk a talonba.",
+   "condition": "",
+   "direction": "ne_told",
+   "quote": "Piros színű lapot általában nem teszünk a talonba.",
+   "pages": "103-108"
+  },
+  {
+   "topic": "rablas",
+   "contract": "általános",
+   "advice": "A passz piros érdekében történő rablás rendkívül helytelen játék, mert kis értékű felvétel érdekében benyúlva, a többi játékos részére esetleg nagyon értékes talont teszünk le.",
+   "condition": "passz piros érdekében",
+   "direction": "ne_told",
+   "quote": "A passz piros érdekében történő rablás ugyanis rendkívül helytelen játék, mert kis értékű felvétel érdekében benyúlva, a többi játékos részére esetleg nagyon értékes talont teszünk le.",
+   "pages": "103-108"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Piros színű kártyát is tehetünk a talonba, ha a hetes a kezünkben van és olyan piros lapjaink vannak, hogy arra a rabló nem számít.",
+   "condition": "ha a hetes a kezünkben van és olyan piros lapjaink vannak, hogy ilyen színű lapokra a rabló játékos semmiképp nem számít",
+   "direction": "tedd",
+   "quote": "Kivételesen azonban piros színű kártyát is tehetünk a talonba, ha a hetes a kezünkben van és olyan piros lapjaink vannak (például ász, 10, király), hogy ilyen színű lapokra a , rabló",
+   "pages": "109-114"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Ha egy színből csak egy-két lapunk van, lehetőleg ne helyezzük a talonba.",
+   "condition": "Ha egy színből csak egy-két lapunk van",
+   "direction": "ne_told",
+   "quote": "Ha egy színből csak egy-két lapunk van, lehetőleg ne helyezzük a talonba, mert valószínűleg a , rabló",
+   "pages": "109-114"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Ászt, 10-est, hetest lehetőleg ne tegyünk a talonba.",
+   "condition": "általános",
+   "direction": "ne_told",
+   "quote": "Ászt, 10-est, hetest lehetőleg ne tegyünk a talonba, mert ezek a lapok a , rabló",
+   "pages": "109-114"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Ha aduból a kezünkben van a hetes, de ultimóra sincs esélyünk, leghelyesebb ebből a színből talont választani.",
+   "condition": "Ha aduból a kezünkben van a hetes, de ultimó bemondására, sőt csendes ultimóra sincs esélyünk",
+   "direction": "tedd",
+   "quote": "Ha aduból a kezünkben van a hetes, de ultimó bemondására, sőt csendes ultimóra sincs esélyünk, akkor leghelyesebb ebből a színből talont választani.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "talon",
+   "contract": "durchmars",
+   "advice": "Durchmars esetén a legmagasabb értékű nélkülözhető lapokat tegyük a talonba.",
+   "condition": "Durchmars esetén",
+   "direction": "tedd",
+   "quote": "Durchmars esetén a legmagasabb értékű nélkülözhető lapokat tegyük a talonba, hogy a betlire építő , rabló",
+   "pages": "109-114"
+  },
+  {
+   "topic": "talon",
+   "contract": "betli",
+   "advice": "Betli esetében a legkisebb értékű nélkülözhető lapokat tegyük a talonba.",
+   "condition": "Betli esetében",
+   "direction": "tedd",
+   "quote": "Betli esetében a legkisebb értékű nélkülözhető lapokat tegyük a talonba, hogy a durchmars bemondása érdekében történő rablás ne szerezzen , örömet",
+   "pages": "109-114"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Ha újabb és újabb rablásra van kilátás, a rabló által legkevésbé várt lapokat helyezzük a talonba.",
+   "condition": "Ha a körülményekből azt látjuk, hogy újabb és újabb rablásra van kilátás",
+   "direction": "tedd",
+   "quote": "Ha a körülményekből azt látjuk, hogy újabb és újabb rablásra van kilátás, akkor -—- még saját vállalásunk feláldozásával is — a , rabló",
+   "pages": "109-114"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Általában a leghelyesebb az alsó, a 9-es és a 8-as lapokat a talonba helyezni.",
+   "condition": "kivéve, ha az alatta vagy a felette levő sorozat a rabló kezében van",
+   "direction": "tedd",
+   "quote": "Általában a leghelyesebb az alsó, a 9-es és a 8-as lapokat a talonba helyezni, mert ezek sem a durchmars-nak, sem a betlinek nem kedveznek",
+   "pages": "109-114"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Ha a rabolni készülő olyan talont tett le, ami a lapunkba nem illik, tegyük vissza ugyanezt a két lapot a talonba.",
+   "condition": "Amikor a talont letevő játékosról úgy véljük, hogy ismét rabolni fog és olyan talont tett le, amely a mi lapunkba egyáltalában nem illik bele",
+   "direction": "tedd",
+   "quote": "Amikor a talont letevő játékosról úgy véljük, hogy ismét rabolni fog és olyan talont tett le, amely a mi lapunkba egyáltalában nem illik bele, akkor leghelyesebb. ha ugyanezt a két lapot tesszük vissza a talonba.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "rablas",
+   "contract": "általános",
+   "advice": "Többszörös rablás esetén nem szabad erőltetni a további rablást.",
+   "condition": "Többszörös rablás esetén, különösen akkor, amikor a rablásban mindhárom játékos részt vett",
+   "direction": "ne_told",
+   "quote": "Többszörös rablás esetén, különösen akkor, amikor a rablásban mindhárom játékos részt vett, nem szabad erőltetni a további rablást, mert ilyenkor akaratlanul is olyan kedvező talont tehetünk le",
+   "pages": "109-114"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Gyengén fedezett 10-est 7-essel és 8-assal célszerű a talonba tenni.",
+   "condition": "Ha gyengén fedezett 10-esünk van, 7-es, 8-as van mellette",
+   "direction": "tedd",
+   "quote": "Ha gyengén fedezett 10-esünk van, 7-es, 8-as van mellette, akkor célszerű ezt a, 10-est a talonba tenni, mert ilyen úton esetleg az ászt hazahozzuk.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "talon",
+   "contract": "parti",
+   "advice": "Ha felvevőként nincs esélyünk a játszmanyerésre, célszerű az aduból választani a talont.",
+   "condition": "Ha mint felvevők igen gyenge lappal rendelkezünk és még játszmanyerésre sincs esélyünk",
+   "direction": "tedd",
+   "quote": "Ha mint felvevők igen gyenge lappal rendelkezünk és még játszmanyerésre sincs esélyünk, célszerű az aduból választani a talont, mert erre a , rabló",
+   "pages": "109-114"
+  },
+  {
+   "topic": "talon",
+   "contract": "betli",
+   "advice": "Egy 20-ast is letehetünk a talonba, ha betlire van rablási veszély.",
+   "condition": "ha úgy néz ki a lapunk, hogy betlire van rablási veszély",
+   "direction": "tedd",
+   "quote": "Nem kell sajnálni a nagyobb lapokat sem, sőt egy 20-ast is letehetünk, ha úgy néz ki a lapunk, hogy betlire van rablási veszély.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Ha a figura sikerére nincs esélyünk, a rabló dolgát kell megnehezítenünk ellentétes lapok letételével.",
+   "condition": "Amikor az általunk választott figura sikerére már semmi esélyünk nincs a rossz rablás miatt",
+   "direction": "tedd",
+   "quote": "Amikor az általunk választott figura sikerére már semmi esélyünk nincs a rossz rablás miatt, akkor már — a , minden mindegy",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "parti",
+   "advice": "Az egyszerű játszmában a leghosszabb színnel vagy olyan színnel kell indulni, amelyből a lapunk erejére a védők nem tudnak következtetni.",
+   "condition": "Az egyszerű játszma",
+   "direction": "tedd",
+   "quote": "A leghosszabb színnel, vagy olyan színnel kell indulni, amelyből a lapunk erejére a védők nem tudnak következtetni.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "rekontra",
+   "contract": "40-100",
+   "advice": "Ha 40-ünk van és elég jó ütőlapunk, célszerű a 40-et elhallgatni és kontra esetén a játékot rekontrázni.",
+   "condition": "Ha 40-nel rendelkezünk és a 40-100 bemondására lapunk nem alkalmas, de elég jó ütőlapunk van a játszma megnyeréséhez",
+   "direction": "tedd",
+   "quote": "Ha 40-nel rendelkezünk és a 40-100 bemondására lapunk nem alkalmas, de elég jó ütőlapunk van a játszma megnyeréséhez, akkor célszerű a 40-et elhallgatni és egy esetleges kontra esetén a játékot rekontrázni.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "20-100",
+   "advice": "Hosszú szín esetén a hosszú szín ászának és 10-esének mellől a legnagyobb lapot játsszuk a kenés megakadályozására.",
+   "condition": "Ilyen vállalás bemondásakor, különösen akkor, valamelyik színből hosszúak vagyunk",
+   "direction": "tedd",
+   "quote": "Célszerű a hosszú szín ászának és 10-ese mellől a legnagyobb lapot játszani, hogy egyoldalú, illetve aránytalan elosztás esetén a , kenést",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "20-100",
+   "advice": "Ha egy színből egyetlen kis lap van a kezünkben, azt mielőbb játsszuk ki.",
+   "condition": "Ha valamelyik színből egyetlen kis lap van a kezünkben",
+   "direction": "tedd",
+   "quote": "Ha valamelyik színből egyetlen kis lap van a kezünkben, azt mielőbb játsszuk ki, hogy az ászos védő azt esetleg lazsálja és így a lazsáló ászt később aduval elvihetjük.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "20-100",
+   "advice": "A szóló 10-esünket csak a játék vége felé hozzuk ki.",
+   "condition": "Az esetleges plank tízesünket viszont csak a játék vége felé hozzuk ki",
+   "direction": "tedd",
+   "quote": "Az esetleges plank tízesünket viszont csak a játék vége felé hozzuk ki, mert közben a védők annak ászát esetleg elkenik vagy eldobják és az így felszabadult szóló tízesünket hazavihetjük.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "20-100",
+   "advice": "Hosszú színből előbb a legkisebb lapot játsszuk ki.",
+   "condition": "Ha egy színből hosszúak vagyunk",
+   "direction": "tedd",
+   "quote": "Ha egy színből hosszúak vagyunk (például zöld ász, király, alsó, 8-as), akkor célszerű előbb a legkisebb lapot kijátszani, hogy az ellenfelek 10-ese mielőbb kiessen",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "4 ász",
+   "advice": "Négy ász esetén legcélszerűbb az adu ásszal kezdeni a játékot.",
+   "condition": "Négy ász vállalásakor",
+   "direction": "tedd",
+   "quote": "Legcélszerűbb, ha az adu ásszal kezdjük a játékot, mert egy esetleges idegen ászt az ellenfelek már az első ütésben elvisznek és kontrával elbukjuk a négy ászt.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "4 ász",
+   "advice": "Hosszú királyos szín esetén az ász mellől egy kisebb figurát játsszunk ki, ne a 10-est.",
+   "condition": "Ha van egy ún. hosszú, királyos színünk",
+   "direction": "tedd",
+   "quote": "Ilyenkor azonban ne az ászt fedező 10-est, hanem egy kisebb figurát játsszunk ki.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "ulti",
+   "advice": "Ultinál a leghosszabb hajtószínnel kezdjünk, vagy ha nincs ilyen, a legmagasabb ütőértékű aduval, ásszal vagy királlyal.",
+   "condition": "Ultinál",
+   "direction": "tedd",
+   "quote": "Célszerű a leghosszabb ún. , hajtó",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "ulti",
+   "advice": "Az úr ütőket a játék vége felé érvényesítsük az aduk kiugratására.",
+   "condition": "Egyébként úgy vezessük a játékot",
+   "direction": "tedd",
+   "quote": "Egyébként úgy vezessük a játékot, hogy az ún. , úr",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "ulti",
+   "advice": "Ha öt adunk van 10, király vagy felső nélkül, célszerű egy közepes adut kijátszani.",
+   "condition": "Ha öt adu van a kezünkben 10-es és király vagy felső nélkül",
+   "direction": "tedd",
+   "quote": "ha öt adu van a kezünkben 10-es és király vagy felső nélkül, akkor célszerű egy közepes adut kijátszani, hogy hátrányos aduelosztás esetén az ászt kellő időben lehúzhassuk.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "ulti",
+   "advice": "Ha az ultimó nem teljesíthető, irányítsuk úgy a játékot, hogy az adu 7-es ne maradjon a játék végére.",
+   "condition": "Amikor az indulás után úgy látjuk, hogy az ultimót semmiképp sem tudjuk teljesíteni",
+   "direction": "tedd",
+   "quote": "célszerű játékunkat úgy irányítani, hogy az adu 7-es ne maradjon a játék végére.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "betli",
+   "advice": "Betli esetén olyan lappal kezdjünk, amely legkevésbé nyújt alapot a kontrára, vagy abból a színből, amiből csak egy lapunk van.",
+   "condition": "Betli vállalása esetén",
+   "direction": "tedd",
+   "quote": "Betli vállalása esetén olyan lappal kezdjük a játékot, amely a legkevésbé nyújt alapot a védőknek a kontrára. Ellenkező esetben még az a védő is kontrázza a betlit, aki egyébként nem kontrázna.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "durchmars",
+   "advice": "Durchmarsban csak biztos ütővel szabad indulni, és az ászok lehívása után rapszodikusan hívjuk a többi ütőt.",
+   "condition": "Durchmars játékban",
+   "direction": "tedd",
+   "quote": "Ebben a játékban csak biztos ütővel szabad indulni. Ezután az ütőlapok lehívását úgy variáljuk, hogy a, védők ne találják meg a támpontot a durchmars buktatására.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "durchmars",
+   "advice": "A buktató lapot csak a játék végén játsszuk ki.",
+   "condition": "Durchmars játékban",
+   "direction": "tedd",
+   "quote": "Azt a lapot, amellyel elbukhatjuk a durchmarsot, csak a játék végén játsszuk ki, mert addig a védők esetleg nem tudják. hogy melyik színre tartsanak",
+   "pages": "109-114"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "általános",
+   "advice": "Ha a védő nem képes a felvevő bemenő vállalását akadályozni, partnere hosszú színét hozza.",
+   "condition": "Amikor az egyik védő a saját lapja szerint a bemenő vállalását nem képes akadályozni vagy buktatni",
+   "direction": "tedd",
+   "quote": "partnere, vagyis védőtársa hosszú színét hozza, amiből a, felvevő minden bizonnyal rövid vagy színtelen.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "általános",
+   "advice": "Végső esetben a védő inkább a saját rövid színét hozza ki.",
+   "condition": "Végső esetben",
+   "direction": "tedd",
+   "quote": "Végső esetben a védő inkább a saját rövid színét hozza ki, mint esetlegesen hosszú színével védőtársát aduban találja.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "általános",
+   "advice": "A védőnek célszerű rövid színét kijátszania, hogy színteleníthesse lapjait és kenési lehetősége nyíljon.",
+   "condition": "ha nincs aduja",
+   "direction": "tedd",
+   "quote": "A védőjátékosnak azért is célszerű rövid színét kijátszania — ha nincs aduja --, mert ezzel , színtelenítheti",
+   "pages": "109-114"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "általános",
+   "advice": "Ha a felvevő nem hozza a 10-est az ász után, a védő igyekezzék azt megfelelő lap alájátszásával kihajtani.",
+   "condition": "Ha a felvevő a hosszú színének ászát hozta ki és utána a 10-est nem hozza, mert leütés veszélye fenyegeti",
+   "direction": "tedd",
+   "quote": "akkor a védő igyekezzék ezt a 10-est megfelelő lap alájátszásával kihajtani, hogy azt védőtársa aduval elüthesse.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "20-100",
+   "advice": "Ha a felvevő 20-at jelentett, a védő ne dobja be védőtársa ászos ütésébe a 10-est.",
+   "condition": "Ha a felvevő 20-at jelentett",
+   "direction": "ne_told",
+   "quote": "Ha a felvevő 20-at jelentett, a védő az ütések során ne dobja be védőtársa ászos ütésébe a 10-est, mert ezzel a felvevő királyát vagy felsőjét biztosan ütni tudja.",
+   "pages": "109-114"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "20-100 és 40-100",
+   "advice": "A védőjátékosok ellenjátékát az irányítsa, akinél ütőlap, több adu vagy a bemondó hosszú színével egyező lap van.",
+   "condition": "20-100 és 40-100 ellenjáték esetén",
+   "direction": "tedd",
+   "quote": "A védőjátékosok ellenjátékát mindig az ütőlappal, több aduval, vagy a bemondó hosszú színével egyező lapokkal rendelkező védőtárs irányítsa.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "20-100 és 40-100",
+   "advice": "A buktatni nem képes védőtárs ne akarjon a saját lapja szerint játszani.",
+   "condition": "Ha a védőtárs nem képes buktatni a bemondást",
+   "direction": "ne_told",
+   "quote": "Nagyon lényeges, sőt döntő körülmény, hogy a bemondást buktatni nem képes védőtárs ne akarjon a saját lapja szerint játszam, mert ebben az esetben sikeres védőjáték nem alakulhat ki.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "20-100 és 40-100",
+   "advice": "A kevés aduval rendelkező védő igyekezzék mentesíteni magát aduban, hogy partnere ütéseibe kenhesse az ászt vagy tízest.",
+   "condition": "Kevés, egy-két aduval rendelkezik a védő, és hosszú színben egyezik a felvevővel",
+   "direction": "tedd",
+   "quote": "Kevés — egy-két — aduval rendelkező védő igyekezzék saját magát mielőbb mentesíteni aduban, hogy védőtársa ütéseibe ászt vagy 10-es , kenhessen\".",
+   "pages": "115-120"
+  },
+  {
+   "topic": "kontra",
+   "contract": "20-100 és 40-100",
+   "advice": "A vállalás kontrázása akkor indokolt, ha a védők valamelyikének kétszínű lapja vagy sok aduja van, és ütőlappal vagy a felvevő hosszú színéből elég sok lappal rendelkezik.",
+   "condition": "A védőknél kétszínű lap, sok adu, ütőlap vagy a felvevő hosszú színéből elegendő lap van",
+   "direction": "tedd",
+   "quote": "Ennek a vállalásnak a kontrázása akkor indokolt, ha a védők valamelyikének két színű lapja vagy sok aduja van, és ezenkívül ütőlappal, vagy a felvevő hosszú színéből elég sok lappal rendelkezik.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "négy ász",
+   "advice": "Az ásszal rendelkező játékos igyekezzék mielőbb mentesíteni magát aduban, vagy ha nincs aduja, a legrövidebb színét hozza.",
+   "condition": "Ha nincs mind a négy ász a felvevő kezében",
+   "direction": "tedd",
+   "quote": "Abban az esetben, ha nincs mind a négy ász a felvevő kezében, az ásszal rendelkező játékos igyekezzék mielőbb. : i aduban mentesíteni magát. Ha pedig aduja nincs, akkor a legrövidebb színét hozza mielőbb.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "négy ász",
+   "advice": "Ha a király és a tízes a védőnél van, játssza az adu királyt a felvevő alá, hogy kihajtsa az ászt, majd húzza le az adu tízest.",
+   "condition": "Az aduval rendelkező ellenfél, illetve védőjátékos kezében van a király és a 10-es",
+   "direction": "tedd",
+   "quote": "Az aduval rendelkező ellenfél, illetve védőjátékos, ha . nála van a király és a 10-es, az adu királyt játssza a felvevő alá, hogy az adu ászt kihajtsa. Ezután — amennyiben már partnere aduval nem rendelkezik — húzza le a nála levő adu 10-est, hogy abba a partnere a nála levő ászt beletehesse.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "rablas",
+   "contract": "négy ász",
+   "advice": "Célszerű a védőnek kijátszania a nála levő ászt, nehogy a mellőle való kijátszás miatt a felvevő megcsinálja a négy ászt.",
+   "condition": "A rabló rossz talont kap, de négy ászt kénytelen bemondani, és az ász mellett csak egy lapja van",
+   "direction": "tedd",
+   "quote": "Célszerű ilyenkor, ha a védő kijátssza a nála levő ászt, nehogy a mellőle való kijátszás következtében a fel- vevő megcsinálja a négy ászt.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "kontra",
+   "contract": "négy ász",
+   "advice": "Jogosan kontrázható a négy ász, ha az ellenfelek kezében csak kétszínű lap van, az egyikben ásszal.",
+   "condition": "Az ellenfelek kezében csak kétszínű lap van, az egyikben ásszal",
+   "direction": "tedd",
+   "quote": "Végül, ha az ellenfelek kezében csak kétszínű lap van. az egyikben ásszal, akkor jogosan kontrázhatja meg a négy ászt, mert minden valószínűség szerint ezt az ászt partnere valamelyik ütésébe könnyen , elkenheti\".",
+   "pages": "115-120"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "ulti",
+   "advice": "A játék irányítását bízzuk a hosszú, három-négy aduval rendelkező védőtársra, a másik védő pedig rendelje alá a játékát.",
+   "condition": "Ultimó bemondása esetén",
+   "direction": "tedd",
+   "quote": "A játék irányítását bízzuk a hosszú - három-négy -— aduval rendelkező védőtársra. Ilyenkor a másik védő köteles játékát teljesen alárendelni partnere érdekeinek.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "ulti",
+   "advice": "Olyan legyen a színjátszásunk, hogy védőtársunkat aduban ne rövidítsük, inkább olyan színt hozzunk, ami a felvevőt sem találja aduban.",
+   "condition": "Ultimó ellenjátékakor",
+   "direction": "tedd",
+   "quote": "Olyan legyen a színjátszása, hogy legalábbis védőtársát aduban ne rövidítse. Támpont lehet az a szín, amelyre partnere felvette a játékot vagy amire rabolt. Ha ilyen nincs, illetve nem volt, akkor a kártyaösztönre kell hallgatni! Inkább hozzunk olyan színt, amelyik a felverőt 116 sem találja aduban, mint olyat, amely védőtársunkat aduban rövidíti.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "ulti",
+   "advice": "Ha csak egy-két aduval rendelkezünk, de a felvevő hajtó színével egyezünk, magunkra kell játszani, mert így elbuktathatjuk az ultimót.",
+   "condition": "Egy-két adu van, de a felvevő hajtó színével egyezünk",
+   "direction": "tedd",
+   "quote": "Ha viszont csak egy-két aduval rendelkezünk, de a felvevő hosszú, ún. , hajtó\" színével egyezünk, és így a felvevő a , hajtó\" színével nem rövidíthet bennünket aduval, akkor magunkra kell játszanunk. Ilyen esetben elbuktathatjuk az ultimót akár egy aduval is.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "kontra",
+   "contract": "ulti",
+   "advice": "Az ultimó kontrázása akkor indokolt, ha legalább három nagy ütőértékű aduval és megfelelő ütőlappal, valamint hajtó színnel rendelkezünk.",
+   "condition": "Legalább három nagy ütőértékű adu, megfelelő ütőlap és hajtó szín van",
+   "direction": "tedd",
+   "quote": "Az ultimó kontrázása akkor indokolt, ha legalább három nagy ütőértékű aduval és megfelelő ütőlappal rendelkezünk. Főleg akkor érvényes ez, ha bennünket hajtani nem lehet, nekünk pedig megfelelő hajtó színünk van.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "betli",
+   "advice": "A védőtársak játéka arra irányuljon, hogy egyikük valamelyik színből – lehetőleg amivel a felvevő rendelkezik – mielőbb színtelen legyen.",
+   "condition": "Betli vállalása esetén",
+   "direction": "tedd",
+   "quote": "betli vállalása esetén a védőtársak játéka mindenekelőtt arra irányuljon, hogy egyikük valamelyik színből - lehetőleg abból, amivel a felvevő rendelkezik —-- mielőbb színtelen legyen.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "betli",
+   "advice": "Óvatosan kell játszani, olyan színt hozzon le a védőtárs, amiből a felvevőnél is vannak lapok, nehogy a felvevő is eldobhassa terhes lapjait.",
+   "condition": "A színtelenítés közben a felvevő ne dobhassa el a veszélyes lapjait",
+   "direction": "ne_told",
+   "quote": "Itt azonban óvatosan kell játszani, nehogy ugyanakkor a felvevő is eldobhassa a számára , terhes\" lapot vagy lapokat, mert akkor ellenjátékunk sikertelen lesz. Tehát a védőtárs olyan színt hozzon le lehetőleg, amelyből a felvevőnél is vannak lapok és így abba veszélyes lapjait bedobni nem tudja.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "betli",
+   "advice": "Amikor a védőtársat sikerült színteleníteni, hojjuk ki ennek a színnek a kezünkben levő legkisebb ütőértékű lapját.",
+   "condition": "Sikerült a védőtársat színteleníteni",
+   "direction": "tedd",
+   "quote": "Amikor védőtársunkat valamelyik színből sikerült színteleníteni, akkor hozzuk ki ennek a színnek a kezünkben levő legkisebb ütőértékű lapját.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "kijatszas",
+   "contract": "betli",
+   "advice": "Sok esetben célszerű tízest vagy alsót a felvevő alá játszani, mert kénytelen felülütni, amit a védőtárs nem tud átütni.",
+   "condition": "Betli ellenjátékban",
+   "direction": "tedd",
+   "quote": "Sok esetben célszerű 10-est vagy alsót a felvevő alá ját- szant, mert még ilyen lapot is kénytelen felülütni, amit a védőtárs már átütni nem tud és így a felvevő bemondása megbukik.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "betli",
+   "advice": "Ha nagy lappal rendelkezünk, feltétlenül adjuk át az ütés jogát védőtársunknak, mert a nagy lappal nem tudjuk buktatni a betlit, sőt a társat is akadályozzuk.",
+   "condition": "Nagy lappal rendelkezünk a betli ellenjátékban",
+   "direction": "tedd",
+   "quote": "Ha nagy lappal rendelkezünk, feltétlenül adjuk át az ütés jogát védőtársunknak. A nagy ütőlappal bíró védő ugyanis a betlit buktatni nem tudja, sőt ilyenkor a védőtársát is akadályozza ebben.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "kontra",
+   "contract": "betli",
+   "advice": "A betlit akkor kontrázhatjuk siker reményében, ha kétszínű lapunk van, vagy aránytalan a színelosztás a védők kezében, esetleg színhiány esetén is.",
+   "condition": "Kétszínű lap, aránytalan színelosztás vagy színhiány esetén",
+   "direction": "tedd",
+   "quote": "A betlit akkor kontrázhatjuk siker reményében, ha két-színű lapunk van, vagy aránytalan a színelosztás a védők kezében, esetleg színhiány esetén is.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "vedekezes",
+   "contract": "durchmars",
+   "advice": "A védőtársak között teljes összhang legyen az egyes színek eldobása és megtartása tekintetében.",
+   "condition": "Durchmars ellenjátékában",
+   "direction": "tedd",
+   "quote": "A figura ellenjátékában a legdöntőbb, hogy a védőtársak között teljes összhang legyen az egyes színek eldobása és meg- tartása tekintetében.",
+   "pages": "115-120"
+  },
+  {
+   "topic": "rablas",
+   "contract": "általános",
+   "advice": "A rabló a talonban levő hibát csak addig kifogásolhatja, amíg a talon lapjait be nem illesztette saját lapjai közé.",
+   "condition": "Ha valamelyik játékos rabol",
+   "direction": "informacio",
+   "quote": "A rabló a talonban levő hibát csak addig kifogásolhatja, amíg a talon lapjait be nem illesztette saját lapjai közé.",
+   "pages": "121-126"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "A felvevő játékos a talonnal kapcsolatban elkövetett hibáját a bemondás előtt következmények nélkül kijavíthatja.",
+   "condition": "A bemondás előtt",
+   "direction": "tedd",
+   "quote": "A felvevő játékos — akár az első felvevő, akár a rabló — a talonnal kapcsolatban elkövetett hibáját a bemondás előtt következmények nélkül kijavíthatja.",
+   "pages": "121-126"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "A felvevőnek joga van az ő mehet vagy passz közlése előtt bemondásait megváltoztatni és a talon lapjait kicserélni.",
+   "condition": "A mehet vagy passz közlése előtt",
+   "direction": "tedd",
+   "quote": "Jogában áll a felvevőnek az ő , mehet” vagy , passz” közlése előtt bemondásait megváltoztatni és ennek megfelelően, a már általa letett talon lapjait kicserélni.",
+   "pages": "121-126"
+  },
+  {
+   "topic": "licit",
+   "contract": "általános",
+   "advice": "A vállalás bemondása, valamint a mehet vagy passz elhangzása után a felvevő már nem nyúlhat a talonhoz.",
+   "condition": "A bemondás, mehet vagy passz elhangzása után",
+   "direction": "ne_told",
+   "quote": "A felvevő vállalásának bemondása, és az általa közölt , mehet” vagy , passz” elhangzása után már nem nyúlhat a talonhoz, mert a bemondás után a talon már nem az ő lapja.",
+   "pages": "121-126"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Benyúlás esetén a rabló játékos a talon kijavítását követelheti, a hibásan letevő pedig köteles a hibát kijavítani.",
+   "condition": "Benyúlás esetén",
+   "direction": "tedd",
+   "quote": "Benyúlás esetén a rabló játékos a talon kijavítását követelheti, a hibásan letevő a hibát kijavítani tartozik.",
+   "pages": "121-126"
+  },
+  {
+   "topic": "licit",
+   "contract": "általános",
+   "advice": "Elégtelen bemondás esetén a játékosok a rabló játékost a bemondás kellő értékű kiegészítésére kötelezik.",
+   "condition": "Elégtelen bemondás esetén",
+   "direction": "tedd",
+   "quote": "Nem renonsz! A játékosok a rabló játékost a bemondás kellő értékű kiegészítésére kötelezik.",
+   "pages": "121-126"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "A felvevő a bemondások után vagy passz esetén a talont nem nézheti meg újra.",
+   "condition": "A közölt vállalás után, illetve mehet vagy passz elhangzásának pillanatától",
+   "direction": "ne_told",
+   "quote": "A felvevő a közölt vállalás után, illetve , mehet\" vagy , passz\" elhangzásának pillanatától a letett talont többé meg nem nézheti. Amennyiben megnézi, renonszot követ el.",
+   "pages": "127-132"
+  },
+  {
+   "topic": "talon",
+   "contract": "általános",
+   "advice": "Mindenfajta lapot le lehet tenni a talonba, így 10-est és ászt is.",
+   "condition": "",
+   "direction": "tedd",
+   "quote": "Nézetünk szerint ebben a játékban mindenfajta lapot le lehet tenni a talonba, tehát 10-est is, sőt ászt is.",
+   "pages": "133-136"
+  },
+  {
+   "topic": "kontra",
+   "contract": "betli",
+   "advice": "A betli és a színnélküli durchmars valamennyi fokozatánál a kontra, rekontra egyéni.",
+   "condition": "A betli vagy színnélküli durchmars esetén",
+   "direction": "informacio",
+   "quote": "A betli és a színnélküli durchmars valamennyi fokozatánál a kontra, rekontra stb. egyéni.",
+   "pages": "133-136"
+  },
+  {
+   "topic": "bedobas",
+   "contract": "sima parti",
+   "advice": "A sima, 1 pontos partit ne játsszák le, hanem három passz után a felvevő fizesse ki a kontra parti díját és új osztás kövessen.",
+   "condition": "Három passz utáni sima 1 pontos parti esetén",
+   "direction": "tedd",
+   "quote": "Kialakult az a helyes gyakorlat is, hogy a sima, 1 pontos partit nem játsszák le, hanem három passz után a felvevő kifizeti a kontra parti díját — a 2 egységet — és új osztás következik.",
+   "pages": "133-136"
+  }
+ ]
+}

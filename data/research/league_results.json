@@ -1,0 +1,172 @@
+{
+ "rounds": [
+  {
+   "round": 1,
+   "rows": 20139,
+   "gather_s": 116,
+   "eval_s": 87,
+   "cand_vs_champion": {
+    "n": 600,
+    "mean": -2.1417,
+    "ci95": 3.7432,
+    "declares_test": 0.483,
+    "declares_base": 0.333,
+    "concede": 0.0
+   },
+   "cand_vs_js": {
+    "n": 600,
+    "mean": 0.94,
+    "ci95": 2.1378,
+    "declares_test": 0.673,
+    "declares_base": 0.333,
+    "concede": 0.0
+   },
+   "champion_vs_js": {
+    "n": 600,
+    "mean": 2.7167,
+    "ci95": 1.3556,
+    "declares_test": 0.628,
+    "declares_base": 0.333,
+    "concede": 0.0
+   },
+   "accepted": false
+  },
+  {
+   "round": 2,
+   "rows": 40567,
+   "gather_s": 113,
+   "eval_s": 86,
+   "cand_vs_champion": {
+    "n": 600,
+    "mean": -3.765,
+    "ci95": 4.5488,
+    "declares_test": 0.483,
+    "declares_base": 0.333,
+    "concede": 0.0
+   },
+   "cand_vs_js": {
+    "n": 600,
+    "mean": 1.2533,
+    "ci95": 2.3147,
+    "declares_test": 0.64,
+    "declares_base": 0.333,
+    "concede": 0.0
+   },
+   "champion_vs_js": {
+    "n": 600,
+    "mean": 2.7167,
+    "ci95": 1.3556,
+    "declares_test": 0.628,
+    "declares_base": 0.333,
+    "concede": 0.0
+   },
+   "accepted": false
+  },
+  {
+   "round": 3,
+   "rows": 61046,
+   "gather_s": 126,
+   "eval_s": 92,
+   "cand_vs_champion": {
+    "n": 600,
+    "mean": -0.5017,
+    "ci95": 1.3705,
+    "declares_test": 0.34,
+    "declares_base": 0.333,
+    "concede": 0.0
+   },
+   "cand_vs_js": {
+    "n": 600,
+    "mean": 3.055,
+    "ci95": 1.3608,
+    "declares_test": 0.62,
+    "declares_base": 0.333,
+    "concede": 0.0
+   },
+   "champion_vs_js": {
+    "n": 600,
+    "mean": 2.7167,
+    "ci95": 1.3556,
+    "declares_test": 0.628,
+    "declares_base": 0.333,
+    "concede": 0.0
+   },
+   "accepted": false
+  },
+  {
+   "round": 4,
+   "rows": 81372,
+   "gather_s": 127,
+   "eval_s": 92,
+   "cand_vs_champion": {
+    "n": 600,
+    "mean": -1.2267,
+    "ci95": 1.4984,
+    "declares_test": 0.348,
+    "declares_base": 0.333,
+    "concede": 0.0
+   },
+   "cand_vs_js": {
+    "n": 600,
+    "mean": 2.7717,
+    "ci95": 1.3461,
+    "declares_test": 0.622,
+    "declares_base": 0.333,
+    "concede": 0.0
+   },
+   "champion_vs_js": {
+    "n": 600,
+    "mean": 2.7167,
+    "ci95": 1.3556,
+    "declares_test": 0.628,
+    "declares_base": 0.333,
+    "concede": 0.0
+   },
+   "accepted": false
+  }
+ ],
+ "final": {
+  "note": "Végső mérés a tanításban és a kapu-mérésben nem látott leosztásokon (seed 30_000_000+). A jelölt = learned_league.json (a 3. kör: --lam 30 --blend 0.5), amit a kapu NEM fogadott el bajnoknak.",
+  "candidate_vs_learned_policy": [
+   {
+    "n": 900,
+    "mean": 0.2589,
+    "ci95": 0.9709
+   },
+   {
+    "n": 1050,
+    "mean": -0.0876,
+    "ci95": 1.1078
+   }
+  ],
+  "candidate_vs_learned_policy_pooled": {
+   "n": 1950,
+   "mean": 0.072,
+   "ci95": 0.73
+  },
+  "candidate_vs_js": {
+   "n": 1050,
+   "mean": 1.6505,
+   "ci95": 1.0256
+  },
+  "learned_policy_vs_js": {
+   "n": 1050,
+   "mean": 1.3143,
+   "ci95": 1.1058
+  },
+  "verdict": "NEGATÍV: a liga-tanítás nem javította a motort. A jelölt a bajnokkal statisztikailag egyenrangú (+0,07 ± 0,73), a JS ellen sem mérhetően jobb (+1,65 vs +1,31, mindkettő ±1,0 körül). A learned_policy.json marad."
+ },
+ "config": {
+  "init": "/Users/szilagyiadam/Downloads/ulti_szimulator/learned_policy.json",
+  "rounds": 4,
+  "deals": 4000,
+  "eval": 200,
+  "eps": 0.15,
+  "js_weight": 2.0,
+  "champ_weight": 2.0,
+  "lam": 30.0,
+  "blend": 0.5,
+  "resume": true,
+  "workers": 3
+ }
+}

@@ -1,0 +1,950 @@
+{
+ "1": {
+  "example": 1,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Béla felvételéhez és bemondásához, a TÖK ultimóhoz nem kell magyarázatot fűzni, mert ez , terített\" vállalás volt. Csaba rablása is indokolt volt. A talon felvétele előtti lapban is volt már egy kb. 504-os PIROS ultimó. Szeren- csés talont kapott, mert a két MAKK nagyszerűen alakí- totta lapját két színűre: a talon letétele után 5-5 PIROS és MAKK maradt a kezében. Az ilven lapra azt szokták mondani, hogy ideális kártya. Dénes indokoltan kontrázta a játékot. mert a 20 jelen- téssela kontra játék megnyerése szinte biztosnak látszott. Remélni lehetett, hogy partnere Béla egy, esetleg két 10-est A TÖKBŐL . .smírelni\"\" tud és akkor már a játszmára nincs gond. Béla még újabb 20-at jelentett, a két TÖKÖT, az ászt és 1(-est elkente és így csendes 100-at is elértek az ellen- felek. Dénes az ultimót azért nem kontrázta meg, mert egyrészt nem remélte, hogy MAKKBÓL két ütése lesz, másrészt pedig félt a TÖK hívástól, amiből ő skart (szín- hiányos) volt és azonnal található lett volna aduban. Ez az aggálya igen alapos volt. Csabának még szerencséje volt a rossz elosztás ellenére abban, hogy a játékot nem MAKKAL, hanem PIROSSAL, illetve aduval kezdte. Ha MAKKAL indul, akkor Dénes az ultimót is kontrázza, mert biztos lett volna a két MAKK ütésben. Ez pedig a jelen esetben a PIRoSs ultimó buk- tatásához éppen elég lett volna, még akkor is, ha (sabá- nak egy vagy két ZÖLDJE van.",
+  "lesson": "Amennyiben nem 1009-os a vállalás, leg- helyesebb aduval indulni, mert egy aránytalan szín- 141 elosztás esetén, a vezető színnel való indulás alapján könnyen kaphat a bemondó kontra ultimót, ami már elég drága mulatság. j",
+  "result_text": "Csaba elbukta a PIROS ultimót: 16 pont Béla-Dénes párt nyerte a kontra PIRos játszmát 100-zal: 8 pont Összesen : 24-24 pontot. 142",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Csaba",
+   "first_declarer": "Béla",
+   "components": [
+    "ulti"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [
+    {
+     "player": "Dénes",
+     "what": "kontra",
+     "part": "jatek"
+    }
+   ],
+   "book_abs_per_opponent": 24,
+   "declarer_won_overall": false,
+   "note": "",
+   "contract_index": 14
+  },
+  "book_net": 24,
+  "book_abs": 24,
+  "book_abs_model": 24
+ },
+ "2": {
+  "example": 2,
+  "runs": 5,
+  "valid": 3,
+  "explanation": "Csaba felvétele, talonletétele és benondá- sa helyes volt. Dicséret illeti azért, mert a PIROS 7-est megtartotta és bár enélkül lapja egyenesebb lett volna. mégis a hosszú vezető színből tett le két közepes lapot. Nem volt hajlandó egy rendkívül drága sanszot adni a következő rablónak. Albert rablása is indokolt volt, mert lényegében már a kezében volt a tervezett bemondáshoz szükséges kártya. Ez egy esetleges kedvező talonlappal csak javulhatott volna. A talont nem tudta használni, ezért változatlanul visszatette. ; Albert lapjában benne volt a PiRos 20-104. amelyet a szerencsétlen színelosztás miatt vesztett el. Végzetes hibát követett el azzal, hogy MAKKAL indult és nem PIROSSAL, illetve aduval. IHyen esetben, de egyéb- ként sem szabad színnel indulni akkor, amikor egyetlen ütésen, illetve a színelosztás mikéntjén áll vagy bukik a bemondott vállalás sikeres megjátszása. A színnel való indulás esetében az ellenfelek már tá- jékozottak lesznek a színelosztás aránya tekintetében és könnyen megállapíthatják, hogy van-e lehetőség legalább két 10-es vagy ász hazavitelére. Csaba-Dénes ellenpárt a MAKK király kijátszása után már biztos volt abban, hogy Dénes MAKKBAN még fel- tétlenül üt egyet vagy kettőt és abba Csaba legalább egy ZÖLDET, az ászt vagy a 10-est elkeni. Ez Így is történt. Albert éppen azzal, hogy színnel indult, kitette magát egy kontra PIROS 20-100-nak, ami helytelen taktikai játék volt, mert ezt a kontrát biztosan elkerülhette volna, ha az aduval indul. Ebben az esetben az ellenfelek nem tudták volna meg Albert vezető színét és így nem látták volna, hogy van-e smírelési lehetőség.",
+  "lesson": "A játékosnak olyan színnel kell indulnia, hogy az ellenfelek semmire se tudjanak következtetni.",
+  "result_text": ": Albert elbukta a kontra PIRoSs 20-100-at. amit a Csaba-Dénes párt nyert meg: 24-24 pontot. 144",
+  "status": "ok",
+  "votes": 3,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Albert",
+   "first_declarer": "Csaba",
+   "components": [
+    "20-100"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [
+    {
+     "player": "Dénes",
+     "what": "kontra",
+     "part": "jatek"
+    }
+   ],
+   "book_abs_per_opponent": 24,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 21
+  },
+  "book_net": 24,
+  "book_abs": 24,
+  "book_abs_model": 24
+ },
+ "3": {
+  "example": 3,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Dénes nagyon okosan tette le a talont. mert a PIROS felsőt, amely egyedüli PIROSKÉNT volt a ke- zében, megtartotta. Ha véletlenül vagy gondatlanul a PIROS felsőt a talonba teszi és Albert is visszateszi. akkor Bélának terített PiRos betlije lett volna. Albert szerencsés kézzel nyúlt be, mert a tervezett adu színéből, aA ZÖLDBŐL még két lapot kapott és így biztos 40-100-a és ultimója lett volna. Bár Béla a MAKK ütésbe a PIROSAT elkente volna, de a 40-100 huktatásához még ez sem lett volna elég. Béla a két közepes MAKKOT nem tudta használni. ezért azokat változatlanul visszatette a talonba és bemondotta a PIRos betlit. Egyetlen bukható lapja a ZÖLD 9-es volt, mert az ellenfelek kezében levő nyolcadik PIROSAT — a felsőt --- az indulással ki kellett hajtani. Bélának két lehetősége volt az indulásnál: elindulha- tott egy kis PIROSSAL, hogy a PIRos felsőt kihajtsa. vagy a ZÖLD 9-essel. Az utóbbival abban a reményben. hogy az egyetlen PIROSAT, amely elég nagy ütőértékű volt, az ellenfél eldobja egy idegen hiányzó -- - színbe. Ha Béla történetesen a ZÖLD 9-essel indul, akkor Dénes, akinek egyetlen ZÖLDIJR sem volt, szinte biztosan bele- dobja a PIROS felsőt a ZÖLD ütésbe és akkor Béla PIROS betlije nem bukik meg. Nézetem szerint ez az indulás lett volna a jelen esetben a célszerű, mégpedig azért, mert Albert ZÖLDBŐL 40-100-at és ultimót mondott be. Ebből pedig okszerűen következett, hogy az ő kezében igen sok ZÖLD volt.",
+  "lesson": "Amikor már két vagy ennél több felvétel, illetve rablás történt, igen sokszor egy-egy játékos kezébe 6-7 azonos színű lap kerül. Ezért egyrészt ilyenkor a vállalások nagy óvatosságot követelnek, másrészt pedig döntő módon figyelembe kell venni a bemondásnál, az indulásnál és a játék során. hogy előzőleg milyen figurákat mondtak be a játékosok.",
+  "result_text": "A PiROS betli elbukása 10-10 pontba került. 146 !",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Béla",
+   "first_declarer": "Dénes",
+   "components": [
+    "betli"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [],
+   "book_abs_per_opponent": 10,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 15
+  },
+  "book_net": 10,
+  "book_abs": 10,
+  "book_abs_model": 10
+ },
+ "4": {
+  "example": 4,
+  "runs": 5,
+  "valid": 4,
+  "explanation": "Dénes helyesen licitált és jól skartolt. Bemondása azonban igen vakmerő volt, mert 4 aduval — ász és 10-es nélkül — nagyon nehéz ultimót csinálni. Í A jelen esetben ez a vállalás megbukott volna, mert Béla kezében 4 adu volt és azonnal találta volna Dénest aduban, bármelyik színét is hozta volna. Albert rablása teljesen indokolt volt és talonletétele is helyesnek mondható. 5-5 adu és vezető szín — a TÖK — általában kedvező lapállásnak tekinthető. Béla kezében azonban három PIROS volt a, 10-essel és 3 olyan TÖK volt. amivel három ütést is haza tudott vinni! Éppen ezen a harmadik kis TÖKÖN, a TÖK alsón bukott meg az ultimó. Dénes játszma elleni kontrája is indokolt. volt a kétszer 20-as jelentés alapján, mert már az első ütésből látta, hogy úgy TÖKBEN, mint aduban, a nála levő ászokat és 10-est haza tudja küldeni partnerének. Ez a terv annyira sikerült, hogy még csendes 100-at is tudtak csinálni. Albertnek még egy kis szerencséje is volt, mert Béla . csak azért nem kontrázhatta a PIROS ultimót, mert egyetlenegy MAKKJA sem volt és ez a színhiány akadá- Ilyozta a kontrát.",
+  "lesson": "Ilyen 1004-ban szélsőséges elosztás ellen sajnos nincs orvosság. De még ilyenkor is célszerűbb aduval indulni, nem pedig vezető színnel, hogy a kontrát elkerüljük. .",
+  "result_text": "Béla-Dénes párt megnyerte a kontra PIROS játszmát, csendes 100-at is csinált és meg- . nyerte a PIROS ultimót, vagyis összesen —— 24-24 pon- tot nyert. 148",
+  "status": "ok",
+  "votes": 3,
+  "distinct": 2,
+  "facts": {
+   "final_declarer": "Albert",
+   "first_declarer": "Dénes",
+   "components": [
+    "40-100",
+    "ulti"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [
+    {
+     "player": "Dénes",
+     "what": "kontra",
+     "part": "jatek"
+    }
+   ],
+   "book_abs_per_opponent": 24,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 31
+  },
+  "book_net": 24,
+  "book_abs": 24,
+  "book_abs_model": 24
+ },
+ "5": {
+  "example": 5,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Béla felvétele és talonletétele nagyon he- lyes volt, mert gyenye lapjára semmit sem vállalhatott. Okosan választotta ki a talonba helyezett lapokat. Dénes rablása is indokolt volt, mert legalább egyetlen jó lapot remélhetett a talonból, amivel esetleg betlit tudott volna vállalni. De nem kapott egyetlen jó lapot sem, ezért mérgében a PIROS alsót és 9-est tette a talonba, mert abból a helyes következtetésből indult ki, hogy Béla nem ment PIROSRA, Csaba pedig nem rabolt, amiből nagyon valószínű, hogy a PIROSAK arányosan vannak el- osztva Béla és Csaba kezében. Ezért helyesen tette le a talonba a PIROS alsót és 9-est, mert ez a két lap egyetlen \"kiálló\" figurához, illetve színhez sem lehetett kedvező. Amint Dénes számította, a PIROSAK valóban arányo- san voltak elosztva, Béla és Csaba kezében, viszont a szí- nek elosztása is olyan arányú volt, hogy ezek kijátszása során Béla és Csaba kezében levő aduk mind kiestek. Természetesen Dénes a játék indulásakor nem gondol- ta, hogy ő egyetlen aduval ultimót tud csinálni. Azonban menet közben már érezte, hogy ilyen kedvező elosztás mellett neki lehetősége nyílik ennek a rendkívüli kár- tyabravúrnak a sikeres megjátszására. Dénes egyetlen aduval teljesítette a PIRos ultimót.",
+  "lesson": "Nem mindig az a jó lap, amikor sok adu van a kezünkben, hanem az, amikor a színelosztás legjobban kedvez az ultimó eléréséhez. Tudunk példát arra, hogy 6 aduval is el lehet bukni az ultimót, viszont ez az érdekes elosztás ennek az ellenkezőjét példázza.",
+  "result_text": "Dénes csendes PIROS ultimót csinált : 4 pont Béla-Csaba nyerte a PIRos kontra játékot : 4 pont Egyik sem fizet a másiknak: , kutvakefe\", 156",
+  "status": "ok",
+  "votes": 3,
+  "distinct": 2,
+  "facts": {
+   "final_declarer": "Dénes",
+   "first_declarer": "Béla",
+   "components": [
+    "parti"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [
+    {
+     "player": "Csaba",
+     "what": "kontra",
+     "part": "jatek"
+    }
+   ],
+   "book_abs_per_opponent": 0,
+   "declarer_won_overall": null,
+   "note": null,
+   "contract_index": 1
+  },
+  "book_net": 0,
+  "book_abs": 0,
+  "book_abs_model": 0
+ },
+ "6": {
+  "example": 6,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Ebben az érdekes játékban valamennyi játékos szabályosan rabolt, mondott be figurákat és ki- fogástalan volt a talon kiválasztása is. Itt egy egészen ritka eset fordult elő a talon tekinteté- ben: az eredeti talont — a felvevőn kívül még két játé- kos -- mint rabló felvette és mindhárom játékos változat- lanul helyezte vissza a talonba! Albert igen helyesen fektetett talont, mert a 6 PIROoS- SAL szinte elbukhatatlan ultimója volt. Ehhez igen oko- san 4 TÖKÖT mint vezető színt tartott meg. Az elosztás szeszélyessége azonban minden reális számítást halomra döntött. Így következett azután be, hogy Csaba a két adujával és négy TÖK színlapjával, hat ütést tudott hazavinni és egyúttal 4 ZÖLDJÉVEL négy adut hajtott ki Alberttől. Albert viszont, akinek 6 aduja volt, ezzel a látszólagos nagy lappal mindössze 4 ütést tudott elvinni. Különös játéka az elosztásnak, hogy ha Albert vélet- lenül a két kis MAKKOT — az alsót és a 8-ast — megtart- ja, biztos ultimója lett volna. Ugyanis Csabának egyet- len MAKKJA sem volt és ezzel a két kis MAKKAL Csaba mindkét aduja kihajtható lett volna. Természetesen egyetlen kártyajátékos sem tett volna le másként talont, mint ahogy ezt Albert tette, mert 6 adu birtokában és 4 TÖK kísérőlappal nem gondolhatta, hogy a két kis MAKK számára kedvezőbb eredményt 152 jelentene. Ilyen szélsőséges elosztásra számítani nem lehetett. Végül egyetlen jelentős körülményt kell még meg- jegyeznünk: amikor már többszörös rablás történt, akkor a színek elosztása igen gyakran olyan aránytalan lesz, hogy emiatt még az ún. biztos figurák is megbuk- hatnak.",
+  "lesson": "Az aránytalan elosztás ellen védekezninem lehet!",
+  "result_text": "Csaba-Dénes párt megnyerte a kontra PIROS játszmát : 4 pont Egyúttal csendes 100-at értek el: 4 pont Elfogták a PIRosS ultimót : 16 pont Nyertek összesen : 24-24 pontot 153",
+  "status": "ok",
+  "votes": 3,
+  "distinct": 2,
+  "facts": {
+   "final_declarer": "Dénes",
+   "first_declarer": "Csaba",
+   "components": [
+    "ulti"
+   ],
+   "open": false,
+   "trump": "M",
+   "kontra": [
+    {
+     "player": "Dénes",
+     "what": "kontra",
+     "part": "jatek"
+    }
+   ],
+   "book_abs_per_opponent": 24,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 4
+  },
+  "book_net": 24,
+  "book_abs": 24,
+  "book_abs_model": 24
+ },
+ "7": {
+  "example": 7,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "A rablás, a talonok kiválasztása és a bemondások nem kifogásolhatók. Albert lapjaiban reális számítás szerint és arányos adu- és színelosztás esetén benne volt a PIRos 40-100 bemon- dás. Ebből a lapból valójában a PIRos ász hiányzott és amennyiben ez a lap is Albert kezében van, durchmars lett volna lapjában. Arányos elosztás esetén Albert ellen mindössze 3 tízes állt ki. Ez is olyan módon, hogy a piros ászba a partner egy 10-est elken. Ezenkívül még egy 10-es vagy ász el- kenésére volt esélyük az ellenfeleknek, amit a harmadla- gos TÖK királlyal vihettek el. Ezzel a reális számítással szemben Béla 5 ütést vitt haza és ebben az 5 ütésben 6 tízes volt az utolsó ütéssel együtt. Ilyen rendkívül aránytalan színelosztásra nem lehetett számítani. Ezért, ha ebben a játszmában az ellenjátéko- sok kontrázták volna a PIRos 40-100-at, azt Albertnak semmiképp sem lett volna szabad rekontráznia, mert az ellenfelek lapelosztása tekintetében semmi támpontja nem volt. Ebben az érdekes játszmában még arra sem lehet utalni. hogy a többszörös rablás során a játékosok kezé- ben levő lapok színelosztása nagyon aránytalanná válik. mert itt egyetlen rablás történt.",
+  "lesson": "Az aránytalan elosztás felborít minden szá- mítást és ez ellen csaknem lehetetlen a védekezés.",
+  "result_text": "Albert elbukta a 40-100-at úgy, hogy az ellenfelek $0-at csináltak és így nekik lett vona 100-uk. ha 40-et jelentettek volna. 155",
+  "status": "ok",
+  "votes": 3,
+  "distinct": 2,
+  "facts": {
+   "final_declarer": "Albert",
+   "first_declarer": "Dénes",
+   "components": [
+    "40-100"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [],
+   "book_abs_per_opponent": 0,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 10
+  },
+  "book_net": null,
+  "book_abs": null,
+  "book_abs_model": 0
+ },
+ "8": {
+  "example": 8,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Béla és Csaba felvétele, illetve rablása, valamint talonletétele nem kifogásolható. A bemondások is alaposak és reálisak voltak. Dénes rablása is indokolt volt. A PIROS ultimó már rablása előtt is kb. 80X-ban lapjában volt. Ehhez még kedvező talont is kapott, mert a ZÖLD 9-es és 8-as által igen jó vezető színné lépett elő a ZÖLD (4 ZÖLD, ásszal és 10-essel). A baj csupán ott volt, hogy hiányzott a PIROS 10-es és TÖKBŐL nem maradt a kezében egyetlen lap sem. Dénes túlságosan magabiztos volt, amikor nemcsak a PIROS ultimót, hanem a 40-100-at is bemondta. Ez utóbbi viszont már csak kedvező színelosztás esetén lehetett volna meg. (Kiadó volt a MAKK ász, a PIROS 10-es és ebbe egy idegen ász vagy 10-es smírelése.) Béla ultimó kontrája teljesen jogos volt, mert rendel- kezett egy idegen ásszal. Igaz ugyan, hogy TÖKBŐL csak egy lapja volt, de miután Csaba TÖK ultimót mondott, minden valószínűség szerint Dénesnél sok TÖK nem lehetett. Csaba 40-100 kontrája is indokolt volt, mert PIROSBÓL és ZÖLDBŐL skart volt és így szinte biztosra vehette, hogy a két TÖKÖT, az ászt és a 10-est partnere ZÖLD vagy PIROS ütéseibe el tudja kenni, illetve haza tudja küldeni. Ez valóban sikerült is. Az osztás érdekessége és különös játéka volt ez a játsz- ma, mert reálisan még smíreléssel is csak három 10-es állt ki az ellenfelek javára. mégis összesen 6 tízest vittek haza. 157",
+  "lesson": "Többszöri rablás után arányos színelosz- tásra csak kivételes esetben számíthatunk. Ezért ilyen ; esetben a vállalások bemondása során rendkívül óvato- san kell eljárni ég inkább kevesebbet mondjunk be, mint többet. De sokszor még azt sem, ami a lapunkban benne J van. Itt az egyetlen jó tanácsadó a kártyaösztön, amivel nézetem szerint minden kártvajátékos többé-kevésbé rendelkezik! :",
+  "result_text": "j Béla-Csaba párt megnyerte a kontra PIROS j ultimót : 24 pont d , Megnyerte a kontra PIRoS 40-100-at : 16 pont ! Összesen : 40-40 pont i ; I ! i ) 4 ! t 158",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Dénes",
+   "first_declarer": "Béla",
+   "components": [
+    "40-100",
+    "ulti"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [
+    {
+     "player": "Béla",
+     "what": "kontra",
+     "part": "ulti"
+    },
+    {
+     "player": "Csaba",
+     "what": "kontra",
+     "part": "jatek"
+    }
+   ],
+   "book_abs_per_opponent": 40,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 31
+  },
+  "book_net": 40,
+  "book_abs": 40,
+  "book_abs_model": 40
+ },
+ "9": {
+  "example": 9,
+  "runs": 5,
+  "valid": 2,
+  "explanation": "Ebben a játszmában nem követett el hibát egyik játékos sem. A felvétel és a rablás, valamint a talonletétel és a bemondások minden tekintetben helytállóak voltak. Béla lapjában a zöLp 40-100 vállalása benne volt és reális elosztás esetén az ellenfelek ütési lehetősége csak három 10-es erejéig állott fenn. Béla nem gondolhatott arra, hogy Albert kezében a 4 ZÖLDÖN kívül 4 TÖK van és a PIROS ász és 10-es Csaba j kezében lesz, akinek sem aduja, sem TÖK színe nem volt. Ezért a smírelési lehetősége szinte korlátlan volt. Ilyen elosztásban Béla bemondott ZÖLD 40-100-a bár- milyen okos játékvezetés mellett elbukott volna. Ezért Béla részéről igen helyes volt az a mértéktartó magatartás, hogy a kontra 40-100 után passzolt, mert az első TÖK kijátszás után már látta, hogy valamennyi TÖK és ZÖLD Albert kezében van, ezért a bemondott és kontrázott 40-100-at már semmiképp meg nem nyerheti. Csaba nagyon helyesen nem kontrázta a 40-100-at, mert nem tudta, hogy Albert kezében van-e annyi ász és 10-es, amennyi a 40-100 buktatásához elég. Albertnek viszont a két színű lapja — PIROS ásszal és 10-essel - - teljes mértékben indokolta a kontra bemondását. Az elosztás tehát rendkívül aránytalan volt.",
+  "lesson": "A kártyában is tudni kell szépen veszíteni!",
+  "result_text": "Albert-Csaba párt megnyerte a kontra 40-100-at és összesen 6 tízest vitt haza! 8-8 pontot nyertek. 160",
+  "status": "ok",
+  "votes": 2,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Béla",
+   "first_declarer": "Albert",
+   "components": [
+    "40-100"
+   ],
+   "open": false,
+   "trump": "Z",
+   "kontra": [
+    {
+     "player": "Albert",
+     "what": "kontra",
+     "part": "jatek"
+    }
+   ],
+   "book_abs_per_opponent": 8,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 2
+  },
+  "book_net": 8,
+  "book_abs": 8,
+  "book_abs_model": 8
+ },
+ "10": {
+  "example": 10,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Béla felvétele, talonletétele és TÖK ultimó bemondása indokolt volt és ehhez magyarázat nem szük- séges. Csaba rabolt, és miután , kényszerhelyzetben\" volt, magasabb vállalást kellett bemondania, mint amennyit Béla vállalt. Ezért kénytelen volt a PIROS ultimót bemondani. Csabának ehhez a figurához elég gyengécske lapja volt: a 4 PIRos — ász és király nélkül — nem volt meg- nyugtató. Csupán a 4 ZÖLD mint vezető szín jelentett egy kis reményt arra, hogy ha nem túlságosan aránytalan az elosztás, akkor talán sikerülhet az ultimó. Csaba indulása igen okos és óvatos volt, nehogy egy esetleges aránytalan ZÖLD és PIROS elosztásnál még kontra ultimónak is kitegye magát. Ezért PIROSSAL indult és így a kontra ultimót elkerülte. j Dénes kezében 4 ZÖLD és 3 PIROS volt az ásszal! Csaba nagyon óvatosan irányította a játékot, mert miután a második ütésnél már látta, hogy Dénes kezében 4 ZÖLD van, a saját kezében levő 4 ZÖLDBŐL egyszer sem hozott színt. Tudta ugyanis, hogy a ZÖLDEKET Dénes folyton játszani fogja. Ez valóban így is történt. Dénes hozta a ZÖLDEKET, amit Csaba ütött és a PIROSAT. illetve egyéb színeket hozott, de ZÖLDET soha! A 8. ütés volt az ultimó fordulópontja, mert Csaba igen okosan a MAKKOT hozta, remélve, hogy Dénes majd hozza a kezében levő negyedik ZöÖLDET. Ez így is történt és így sikerült Csabának ezt a nagyon nehéz PIROS ulti- mót teljesítenie.",
+  "lesson": "Igen sokszor az induláson múlik, hogy vala- melyik figura sikerül vagy elbukik-e. Ha nem vagyunk biztos hajtó szín birtokában — ász, 10-es stb. —, akkor helyesebb az adut játszani. Ilyenkor esély van arra, hogy 162 az ellenfél az általa hozott hajtó színnel , belejátszik\" a mi hajtó színünkbe és akkor már baj nem lehet a bemondott figurával. De egyébként is ebben az esetben a játék irányítása már nagymértékben megkönnyebbül a figurát vállaló játékos számára.",
+  "result_text": "A PIROS ultimót Csaba teljesítette : 8 pont A PIROS játékot elvesztette : — 2 pont Csaba nyert összesen : 6-6 pontot \"\" 163",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Csaba",
+   "first_declarer": "Béla",
+   "components": [
+    "ulti"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [],
+   "book_abs_per_opponent": 6,
+   "declarer_won_overall": true,
+   "note": "",
+   "contract_index": 14
+  },
+  "book_net": -6,
+  "book_abs": 6,
+  "book_abs_model": 6
+ },
+ "11": {
+  "example": 11,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Béla felvétele és talonletétele nagyon he- lyes volt, mert abból indult ki, hogy esetleg rablás során egy közepes betlire lehetősége nyílik. Éppen ezen okból : tette a talonba a két királyt. Csupán Béla bemondása mi- att nem rabolt, mert egyrészt a PIROS 20-100-zal szemben neki már terített PIRos betlit kellett volna mondania, másrészt pedig éppen a PIROS bemenetel következtében jó lapot a talonból nem remélhetett. A PIROS 7-est semmi- képp sem kaphatta, a zöLD 7-es pedig mint egyetlen lehetőség, kevés volt a betlihez. Ezzel szemben Béla helyzete elég könnyű volt, mert Dénes volt a felvevő, aki MAKKRA vette fel a talont és passzolt. Albert viszont nem rabolt. Ilyen előzmények után a legnagyobb valószínűsége olyan PIRos lapelosz- tásnak volt, hogy egy-egy ellenjátékos kezében 3-3 PIROS lehet. Ez valóban így is volt. Ezek után már csak azért kellett szurkolnia Bélának, hogy az ellenfelek kezében, a másik három színből is legyen legalább 2-2 lap, hogy ilyen módon az ászt és a 10-est hazavihesse. A színek is így voltak elosztva! A védők nem kontráztak, ami csaknem biztos jele volt annak, hogy a 4 piros nem lehet egy kézben, de még annak is, hogy aránytalan színelosztás nincs. Ilyen elosztás után már a játszma lejátszása nem is lehetett nehéz feladat, mert Béla kezében volt — a PIROS szín kivételével — valamennyi ütőlap. Minthogy állan- dóan ő került ütésbe, könnyen és biztosan tudta irányí- tani a játékot.",
+  "lesson": "A lapelosztás döntő volt ebben a játékban.",
+  "result_text": "Béla megnyerte a PIROS 20-100-at : 12 pont és csendes PIROS ultimót ért el: 4 pont Béla nyeresége összegen : 16 pont 165",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Béla",
+   "first_declarer": "Dénes",
+   "components": [
+    "20-100"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [],
+   "book_abs_per_opponent": 8,
+   "declarer_won_overall": true,
+   "note": "",
+   "contract_index": 21
+  },
+  "book_net": -16,
+  "book_abs": 16,
+  "book_abs_model": 8
+ },
+ "12": {
+  "example": 12,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Csaba és Dénes felvétele, illetve rablása, valamint a talonletétel és bemondásaik az adott helyzet- ben célszerűek voltak. Dénes nagyon okosan cselekedett, amikor a talonba a két MAKKOT tette le. Abból a helyes okfejtésből indult ki ugyanis, hogy Csaba ment be MAKKRA és ebből ultimót is mondott, tehát ez a két MAKK Albertnek nem, leg- feljebb Csabának lett volna használható. Albertnek valóban nagyon rosszul jött ez a két közepes MAKK, ezért ezektől okvetlenül szabadulnia kellett, még az indulás előtt. Így visszatette a talonba. Albert nem tarthatott a kezében indulási célra sem MAKKOT, mert a hét PIROS birtokában a PIROS felsőt ok- vetlenül el kellett küldenie, erre pedig csak a kihívás adott lehetőséget. Ezért indulása a kis PIRos volt. Albert kezében ezek után az egyetlen bukható lap a ZÖLD 8-as volt. Ez általában 9994-os lap, hacsak az el- osztás ezt a valószínűséget fel nem borítja. A zörp szín azonban most szerencsétlenül alakult Albert szempontjából, mert Dénes kezében hét ZöLD volt a 7-essel, és ez már a betli biztos bukását jelentette.",
+  "lesson": "Többszöri rablás után — mint már emlí- tettük — még az ilyen nagyszerű lapra is óvatosan kell vállalni, mert ha aránytalan a színelosztás, egy árva 8-assal is bukni lehet egy igen drága vállalást. Itt ismételten a kártyaösztönre hivatkozunk ; néhány játszma után azonban már minden játékosnak éreznie kell, hogy ezen a napon milyen , viszonyban\" van a kár- tyaszerencsével. Ha jól futnak a vállalásai, akkor bát- rabb játékot folytathat, ellenkező esetben pedig még a biztosnak látszó lappal is legyen nagyon óvatos! 167 ]",
+  "result_text": "",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Albert",
+   "first_declarer": "Csaba",
+   "components": [
+    "betli"
+   ],
+   "open": true,
+   "trump": null,
+   "kontra": [],
+   "book_abs_per_opponent": null,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 41
+  },
+  "book_net": null,
+  "book_abs": null,
+  "book_abs_model": 8
+ },
+ "13": {
+  "example": 13,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Dénes felvétele és Albert rablása teljesen indokolt volt. Dénes rablása már kicsit kockázatosnak tűnt, mert a TÖK uúltimó után sem PIROSAT, sem pedig ászt vagy 10-est nem remélhetett a talonból. Szerencséje volt abban, hogy a MAKK felsőt vette a talonból és így 5 MAKKAL igen jó vezető színe lett a 4 PIRos mellett. A zöLp ász szintén biztos ütőlap volt. Dénes számára éppen a fenti MAKK felső jelentette a rekontra PIROS ultimó sikerét! Ha a talonból pl. két ZÖLDET kapott volna, akkor a PIRos ultimót biztosan elbukja, mert Dénes 3 aduját nem tudta volna kihajtani. Béla ultimó kontrája teljesen jogos volt, mert 3 MAK- KAL és 3 PIROSSAL — közöttük az ásszal —- biztosra vehette, hogy Dénes ultimóját képes megakadályozni. Dénes rekontra ultimója is jogos volt: az elért ered- mény őt teljesen igazolta. Albert játékában csupán annyi hiba volt, hogy a ZÖLDET hozta, holott neki TÖKKEL kellett volna jönnie. ZÖLDDEL csak akkor, ha ász van a kezében. Ezzel a ZÖLD hívással még Dénest segítette, mert újabb ütést hozott számára. Dénes rekontrája tehát az ötödik MAKKON és a ZÖLD ászon múlott. Minthogy ezek a lapok a kezében voltak, így a 3 adus Béla a jelen elosztásban az ultimót nem akadályozhatta meg. Dénes PrIRos ultimója még akkor is sikeres lett volna. ha Béla kezében 4 PIROS van és azonos színű kísérő lap. ami ezúttal nem volt. 169",
+  "lesson": "ha nincs biztos tájékozódásunk az ellenfél kezében levő színek elosztásáról, akkor csak saját lapunk erejére támaszkodhatunk.",
+  "result_text": "I Dénes megnyerte a PIRoS rekontra, ultimót: 32 pont j megnyerte a PIROS játékot is: 2 pont i Dénes nyeresége összegen : 34-34 pont ii 170",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Dénes",
+   "first_declarer": "Dénes",
+   "components": [
+    "ulti"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [
+    {
+     "player": "Béla",
+     "what": "kontra",
+     "part": "ulti"
+    },
+    {
+     "player": "Dénes",
+     "what": "rekontra",
+     "part": "ulti"
+    }
+   ],
+   "book_abs_per_opponent": 34,
+   "declarer_won_overall": true,
+   "note": null,
+   "contract_index": 14
+  },
+  "book_net": -34,
+  "book_abs": 34,
+  "book_abs_model": 34
+ },
+ "14": {
+  "example": 14,
+  "runs": 5,
+  "valid": 5,
+  "explanation": ": Béla felvétele és bemondása helyes volt, viszont igen helytelenül tette a talonba a két PIROSAT. Ha véletlenül Csabának még egy PTROSA lett volna, akkor a PIRos ultimó sikerül. 171 Í Csaba rablása és bemondása teljesen indokolt volt. Itt már nem volt hiba a PIROS 9-es és 8-as talonba he- lyezése, mert a kezében maradt a PIROS felső és 7-es, vagyis sem 40-100-at, sem ultimót senki nem mondhatott be PIROSBÓL. Ez az egyetlen kivétel -- mondhatjuk: szabályt erősítő kivétel —, amikor PIRoS színű lap is letehető a talonba. Csaba részéről — nyolc zöLp birtokában és egy 7-essel a kezében — a terített PIRos betli bemondása teljesen indokolt volt. Ez a bemondás , egyenes\" volt, vagyis megbukhatat- lan, mert a PIROS felső kijátszása után Csaba kezében csak a 8 ZÖLD ÉS a PIROS 7-es maradt , amivel nem üthetett. : Éppen ezért további rablásra nem volt lehetőség, ! mert ennél magasabb értékű figurát vagy figurákat egyik játékos sem tudott volna vállalni, mert ilyen nem volt sem Dénes, sem Béla lapjában.",
+  "lesson": ". Az aránytalan elosztás olyan elemi csapás u kártyában, mint a tavaszi vetésre a jégeső! Ez ellen véde- kezni nem lehet.",
+  "result_text": "Csaba megnyerte a bemondott PIROS te- rített betlit, kapott Dénestől és Bélától 20 —20 — 40 pontot! I I il j 172 j",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Csaba",
+   "first_declarer": "Béla",
+   "components": [
+    "betli"
+   ],
+   "open": true,
+   "trump": "P",
+   "kontra": [],
+   "book_abs_per_opponent": 20,
+   "declarer_won_overall": true,
+   "note": null,
+   "contract_index": 41
+  },
+  "book_net": -20,
+  "book_abs": 20,
+  "book_abs_model": 20
+ },
+ "15": {
+  "example": 15,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Ebben a játszmában rendkívül érdekes és ritka eredeti elosztás volt. Ez kezdettől éreztette hatá- sát a bemondásokban és a játékban is. Igen ritka eset, talán azt mondhatjuk, hogy ezer játsz- j mából egyszer fordul elő, hogy az első elosztásban már li olyan lapokat kapnak a játékosok, hogy kettőjüknek 8-8 lapja van egy-egy színből, a harmadiknak pedig hét! Ugyanakkor két játékosnak két színű lapja van, a, har- madiknak pedig egyetlen lap híján van két színű lapja. Helyes volt valamennyi játékos felvétele, illetve rab- lása, valamint a bemondásaik. Csaba volt az egyetlen játékos, aki kisebb értékű be- mondást vállalt, mint ami a lapjában volt. Játszhatott volna terített betlit, amit nem lehetett volna elbukni. Ebben az esetben Dénes nem rabolhatott volna. Albert rablása során a talonból kapta volna a PIROS alsót és így még a ZÖLD felsőt is a talonba tehette volna. Ezzel a lappal pedig a PIROS 40-100 ultimón kívül , terített\" durchmarsot és 4 ászt is vállalhatott volna, sikeresen. Dénesnek valójában nem volt terített betli a lapjában (ZÖLD 9-es és 8-as). De azért vállalt nagyobb értékű be- mondást, mert ezzel kívánta elhárítani a további rab- lások veszélyét. Sajnos ez a reménye nem vált valóra. Albertnak egészen kivételesen nagy szerencséje volt, mert ebben az aránytalan színelosztású játszmában éppen a ZÖLD volt arányosan elosztva és Így a zZöLD felső biztos ütés lett.",
+  "lesson": "Az eredményes kártyajátékhoz nemcsak jó kombinatív készség, gyors gondolkodás és cselekvés. 174 Új rutin, de az a bizonyos , kártyaszerencse? is kell, ami : nélkül sikeres kártyajáték nincsen!",
+  "result_text": "Albert megnyerte a PIROS 40-100-at : 8 pont a PIROS ultimót : 8 pont és a durchmarsot : 14 pont Albert nyeresége összesen : 30-30 pont ; ! 3 175",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Albert",
+   "first_declarer": "Csaba",
+   "components": [
+    "40-100",
+    "ulti",
+    "durchmars"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [],
+   "book_abs_per_opponent": 30,
+   "declarer_won_overall": true,
+   "note": null,
+   "contract_index": 60
+  },
+  "book_net": -30,
+  "book_abs": 30,
+  "book_abs_model": 30
+ },
+ "16": {
+  "example": 16,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Csaba felvétele helyes volt, és miután lapjában semmi , fantázia\" nem volt, nagyon okosan választotta ki a talonba helyezendő lapokat. Makkra ment be és így a MARK királyra nem lesz egyik rablónak sem szüksége. Albert igen szerencsés kézzel nyúlt a talonhoz, mert MAKK 20-at jelentett számára és kiegészítette a MAKK lapjait. A ZöLD 8-ast visszatette a ZÖLD 9-essel együtt. Albert bátor bemondását meg kell! dicsérni, amikor két PIROS, a 10-es ég a 7-es birtokában bemondta a 20-100-at. Okfejtése rendkívül logikus volt. Abból, hogy Csaba nem ment be PIROSRA, Dénes pedig nem rabolt, arra következtetett, hogy a kint levő hat PIRos két kézben van arányosan elosztva. Ez így is volt. Albertnek az az elképzelése is bevált, hogy ha az ellenfelek kezében a másik három színből legalább 2-2 lap van, ezen színeknek a kezében levő ászát és 10-esét is hazaviheti. Így történhetett meg az a ritka és kivételes eset, hogy két PiRossal — 10-essel és 7-essel — a kezében teljesítette a 20-100 vállalást és még csendes ultimója is volt.",
+  "lesson": "Ez a nagyon érdekes játszma ismét igazolja : a kártyában a legnagyobb mester az elosztás!",
+  "result_text": "Albert megnyerte a PIROS 20-100-at : 12 pont és csendes PIROS ultimót teljesített : 4 pont Albert nyeresége összesen : 16-16 pont lés 177",
+  "status": "ok",
+  "votes": 3,
+  "distinct": 2,
+  "facts": {
+   "final_declarer": "Albert",
+   "first_declarer": "Csaba",
+   "components": [
+    "20-100"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [],
+   "book_abs_per_opponent": 16,
+   "declarer_won_overall": true,
+   "note": null,
+   "contract_index": 21
+  },
+  "book_net": -16,
+  "book_abs": 16,
+  "book_abs_model": 16
+ },
+ "17": {
+  "example": 17,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Béla játéka a 4 ász érdekében igen óvatos volt. A hosszú TÖK színéből eljátszott az ász mellől — a felsővel — , és így biztosan kihajtotta az ellenfelek kezében levő TÖK 10-est. Aránytalan TÖK és PIROS elosztás esetén ez veszélyt jelenthetett volna a 4 ászra. j 178 Csaba helyesen játszotta vissza a TÖKÖT, mert abból volt a legrövidebb és mielőbb ütni akart PIROSSAL. Ezzel azonban nem sokra ment, mert a, nála levő ZÖLD ászt semmiképp sem tudta volna leadni Dénesnek. He- lyes játék volt mindhárom játékos részéről.",
+  "lesson": "Még jó játék esetén sem képesek a játékosok a felvevő vállalását buktatni, ha ehhez a lapelosztás nem nyújt segítséget.",
+  "result_text": "Béla nyeresége : PFROS 40-100 8 pont PIROS 4 ász 8 pont Összesen : 16-16 pont ; 3",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Béla",
+   "first_declarer": "Béla",
+   "components": [
+    "40-100",
+    "4asz"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [],
+   "book_abs_per_opponent": 16,
+   "declarer_won_overall": true,
+   "note": null,
+   "contract_index": 32
+  },
+  "book_net": -16,
+  "book_abs": 16,
+  "book_abs_model": 16
+ },
+ "18": {
+  "example": 18,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Albert kontrája alapos volt, mert abból ! indult ki, hogy a zöld színbe, melyből skart volt, bizto- ! san beteheti a makk ászt. Ez a terv sikerült is. j Dénes rekontrája is indokolt lett volna, ha nála van a i piros és a zöld király. Viszont ebben az esetben durch- , mars lap lett volna a kezében. Dénes most is rosszul ját- ! szott, mert nem tudta, hogy Albert mire kontrázta a i 4 ászt. Kis zölddel kellett volna indulnia. Mivel azonban a piros király beleesett a 10-esbe, Dénes lapja egyenes ; lett. Ekkor már nyilvánvaló volt, hogy Albert szín- hiányra kontrázott és ez csak zöld lehetett. i Dénes rekontrája nem volt alapos, mert Albert két színből is lehetett színhiányos : pirosból és zöldből. Ebben az esetben Albert kontrája 10096-os lett volna. Ezért kimondhatjuk, hogy egy drága vállalást rekontrázni csak biztos lappal szabad. Ilyen lappal pedig Dénes nem rendelkezett.",
+  "lesson": "Bizonytalan lappal rekontrázni nem szabad, mert nem ismerjük a kontrázók kezében levő lapok elosztásának arányát.",
+  "result_text": "a rekontra piros 4 ászt az Albert-Csaba párt megnyerte: 32 pont Dénes megnyerte a PIROS ultimót és a partit: 10 pont Albert-Csaba párt fejenként kapott : 22-22 pontot 3 181",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Dénes",
+   "first_declarer": "Csaba",
+   "components": [
+    "4asz",
+    "ulti"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [
+    {
+     "player": "Albert",
+     "what": "kontra",
+     "part": "4asz"
+    },
+    {
+     "player": "Dénes",
+     "what": "rekontra",
+     "part": "4asz"
+    }
+   ],
+   "book_abs_per_opponent": 22,
+   "declarer_won_overall": true,
+   "note": null,
+   "contract_index": 33
+  },
+  "book_net": -22,
+  "book_abs": 22,
+  "book_abs_model": 22
+ },
+ "19": {
+  "example": 19,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Ebben a játszmában valamennyi játékos felvétele, bemondása és talonletétele helyes volt. : Meg kell azonban dicsérni a rabló játékosokat is, mert valamennyinek a lapjában volt rablási fantázia, de ahhoz, hogy a tervezett bemondás sikerüljön, mindig kellett még valami kis segítség. amit a talon lapjaitól reméltek. I. Béla nagyon helyesen tette le a talonba a MAKK felsőt és a TÖK alsót, és okosan tartotta meg a TÖK ki- rályt. Ha ugyanis a TÖK királyt és alsót tette volna le, akkor Csaba az ultimó mellett még 40-100-at és terített durchmarsot is tudott volna vállalni! Amiből igen kevés lapunk van, azt nem szabad letenni, mert abból a másik játékosnak nyilván sok lehet, esetleg sorozata van és éppen egy-két hiányzó lapra , les\". 2. Béla nagyon okosan mellőzte a PIROS felső letételét annak ellenére, hogy ezzel saját vállalásának sikerét tette kockára. Viszont ha a PIROS felsőt a talonba teszi, akkor Béla még a 40-100-at is bemondja. 3. Béla újabb rablása is indokolt volt, mert neki már csak egyetlen lapra volt szüksége, ami különösen a betli vállalása után remélhető volt.",
+  "lesson": "A játékosok okosan tettek talont. Megfelelő j lapokkal raboltak, a többszöri rablás után Béla lapja mégis annyira feljavult, hogy terített PiRos durchmarsra és 4 ászra tudott vállalkozni, amit sikeresen teljesített. A többszöri rablásnak vannak előnyei és hátrányai is!",
+  "result_text": "Béla megnyerte a PIROS terített durch- marsot : 28 pont és a 4 ászt: 8 pont Béla nyeresége összegen : 36-36 pont 183",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Béla",
+   "first_declarer": "Béla",
+   "components": [
+    "durchmars",
+    "4asz"
+   ],
+   "open": true,
+   "trump": "P",
+   "kontra": [],
+   "book_abs_per_opponent": 36,
+   "declarer_won_overall": true,
+   "note": null,
+   "contract_index": 67
+  },
+  "book_net": -36,
+  "book_abs": 36,
+  "book_abs_model": 36
+ },
+ "20": {
+  "example": 20,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Ebben a játékban Albert kettős hibát követett el, mert az első rabláskor nagyon helytelenül tette a talonba a MAKK 8-ast és 7-est. Ezzel Dénes lapját annyira feljavította, hogy betlit tudott vállalni. A másik nagy hibája Albertnek az volt, hogy 20 egy- ségnél nagyobb bemondásra rabolt, holott a talonból kedvező lapokat reális számítás szerint már nem remél- hetett. Csaba ugyanis PIROS ultimót mondott be. Albert második rablása erőltetett volt, ezért a , kártya- sors\" jogosan büntette bukással. Csaba ellen ezeket a figurákat nem lehetett megcsinál- ni, de ezenkívül még 20-a sem volt Albertnek, ami már magában véve a figura elvesztését jelentette volna! Albert eljárását egyetlen elgondolással lehet csak men- teni, nevezetesen azzal, hogy az előtte ülő Dénes csak egyszer rabolt és annak eredményeként terített betlit vállalt. Ebből a vállalásból lehetett arra következtetni. hogy Dénes egy, legalább közepes lapot, mondjuk királyt vagy felsőt tesz le a talonba. Egészen ritka eset az, hogy a betlít vállaló egy 8-ast tegyen a talonba.",
+  "lesson": "A rablást nem szabad erőltetni, mert annak ilyen bukás lehet a következménye!",
+  "result_text": "Csaba-Dénes párt megnyerte a kontra PIROS 20-100-at: 24 pont j valamint a kontra PIROS durchmarsot: 28 pont Csaba-Dénes párt nyeresége: 52-52 pont! 185",
+  "status": "ok",
+  "votes": 2,
+  "distinct": 4,
+  "facts": {
+   "final_declarer": "Dénes",
+   "first_declarer": "Csaba",
+   "components": [
+    "betli"
+   ],
+   "open": true,
+   "trump": null,
+   "kontra": [
+    {
+     "player": "Csaba",
+     "what": "kontra",
+     "part": "20-100"
+    },
+    {
+     "player": "Csaba",
+     "what": "kontra",
+     "part": "durchmars"
+    }
+   ],
+   "book_abs_per_opponent": 52,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 41
+  },
+  "book_net": 52,
+  "book_abs": 52,
+  "book_abs_model": 52
+ },
+ "21": {
+  "example": 21,
+  "runs": 5,
+  "valid": 3,
+  "explanation": "Ebben a nagyon érdekes játszmában Dénes rablása után úgy alakult a lapok megoszlása, hogy Dénes a PIROS ultimót semmiképp sem teljesíthette. Rendkívül kedvező elosztás volt a védők szempontjá- ból és a legkedvezőtlenebb a PIROS ultimót vállaló rabló tekintetében. Általában hat adu és egy vezető négyes szín, ásszal, már 959-os esélyt jelent a bemondott ultimó sikeres megjátszására. Itt azonban úgy alakult a lapok megosz- lása, hogy egy kézben volt a két major PIROS adu ütő és az ultimót bemondó vezető színének másik négy lapja is. Ebből az utóbbiból a védő játékos három ütést tudott megszerezni és egyet az adu királlyal. Így négyszer tudta aduban találni Dénest és ez már elég volt az ultimó buk- tatásához. Dénes még a kedvezőtlen lapelosztás ellenére is jól járt, mert ha történetesen MAKKAL indult volna és Albert lapja Csaba kezében van, akkor még az ultimót is kontrázhatta volna. Az első ütésben már látható lett volna, hogy Dénesnek MAKK a vezető színe. Dénes tehát igen okosan tette, hogy nem MAKKAL, hanem PIROSSAL indult, mert így a kontra ultimót mindenképpen el- kerülte. Ezért hangsúlyozzuk általában, hogy bizonytalan ul- ; timó bemondása esetén célszerű aduval indulni, mert ilyen esetben az ellenfél nem ismeri az ultimót bemondó vezető színét. 187",
+  "lesson": "Ebben az érdekes kártyajátékban csak az a biztos lap, amelyik kiterítve sem buktatható meg!",
+  "result_text": "Albert-Csaba párt megnyerte a PIROS ultimót : 16 pont és a kontra PIROS játékot : 4 pont Albert-Csaba párt nyert összegen : 20-20 pontot 188",
+  "status": "ok",
+  "votes": 2,
+  "distinct": 2,
+  "facts": {
+   "final_declarer": "Dénes",
+   "first_declarer": "Csaba",
+   "components": [
+    "40-100",
+    "ulti"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [
+    {
+     "player": "Csaba",
+     "what": "kontra",
+     "part": "jatek"
+    }
+   ],
+   "book_abs_per_opponent": 20,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 31
+  },
+  "book_net": 20,
+  "book_abs": 20,
+  "book_abs_model": 20
+ },
+ "22": {
+  "example": 22,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Dénes és Albert bemondásai és talon- letételei helyesek voltak. Dénes igen okosan gondolkodott, amikor nem tette a talonba a ZÖLD 7-est. (Ebben az esetben Albert zöLD 40-100-at és ultimót tudott volna mondani). Albert kissé bátortalan játékos volt, mert lapjában 907-os 20-100 és ultimó volt. De ő nem merte ezt a nagyobb kockázattal járó vállalást bemondani. Béla kezében — miután a talon nem javított semmit a lapjain — 5-5 PIROS és TÖK maradt. Mindkét színből hiányzott azonban az ász és a 10-es. Ez igen nagy hát- rányt jelentett, mert ún. , lehúzó\" lap nem volt egyik színből sem a kezében és így csaknem mindig az ellen- felek tudtak színt hozni, amiben őt találták. Béla elkövetett egy másik, ún. taktikai hibát is. Ez pe- dig a TÖK indulása volt. Ha történetesen PIROSSAL, tehát aduval indul, akkor egyáltalán nem biztos, hogy Dénes kontrázza az ultimót, mert a két kis MAKK nem volt meg- nyugtató szín a kezében, ebben őt könnyen találni, illetve hajtani lehetett volna aduban. A TÖK indulás után azonban már látható volt, hogy Bélának ez a vezető színe és ebből Dénes kétszer tud ütni. Mivel pedig Albert MAKK ultimót mondott, ebből a színből Béla nemigen tarthatott. Ezzel Béla sorsa meg volt pecsételve!",
+  "lesson": "Ha olyan vezető színre épül részben vagy egészben az ultimó, amelyből több nagy ütő van az ellenfélnél, akkor legcélszerőbb előbb adut kijátszani. Ez esetben az ellenfelek a vezető színről nem szereznek tudomást és nem áll módjukban az ultimót megkontráz- ni. Öt adu esetében az aduval való indulás egyébként sem 190 ! I jelent hátrányt a felvevőre, mert legalább tájékozódik arról, hogy az ellenfelek kezében levő 3 adu miként osz- lik meg. i",
+  "result_text": "Dénes-Albert párt megnyerte a kontra PIROS ultimót : 24 pont és 20-szal 100-at értek el, megnyerték a játékot: 8 pont Dénes-Albert párt nyert összegen : 32-32 pontot . 191",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Béla",
+   "first_declarer": "Dénes",
+   "components": [
+    "ulti"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [
+    {
+     "player": "Dénes",
+     "what": "kontra",
+     "part": "jatek"
+    },
+    {
+     "player": "Dénes",
+     "what": "kontra",
+     "part": "ulti"
+    }
+   ],
+   "book_abs_per_opponent": 32,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 14
+  },
+  "book_net": 32,
+  "book_abs": 32,
+  "book_abs_model": 32,
+  "manual_fix": "a szöveg csak az ultimó kontrázását írja, de a könyv eredménye (24+8) a játék kontráját is feltételezi; a 'mind' kontrával pontosan kijön"
+ },
+ "24": {
+  "example": 24,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Albert első felvétele illetve rablása, vala- mint talonletétele és bemondásai helyesek voltak. Tud- hatta volna azonban, hogy Csaba újra benyúl, mert egy- részt Béla állandó passzolása igazolta, hogy az ő kezében rablásra alkalmas lap nincs, másrészt pedig Albert saját lapjából következtethetett arra, hogy Csabának a kezé- ben értékes lapok vannak. Albertnek már a rablása is helytelen volt, de a hibát még tetézte, amikor a PIROS és a ZÖLD ászt tette a talon- ba. Ezzel a rendkívül meggondolatlan cselekedettel Csaba kártyáit annyira feljavította, hogy bemondhatta az említett igen drága vállalást és sikeresen meg is játszotta. Itt ismét hangsúlyozzuk, hogy egészen kis (7-es, 8-as) j vagy egészen nagy (ász, 10, k) ütőértékű lapokat rend- kívül kockázatos a talonba helyezni! Két ász — köztük még a PIROS ász is — talonba helyezése pedig kedvező esetben még egy közepes lapot is nagy értékű vállalás teljesítésére javít fel. Külön hiba volt, hogy a PIRos ász is a talonba került, ami a vállalás értékét pontosan a duplájára emelte. I Helyesebb lett volna Albert részéről a Csaba által első ízben vállalt TÖK 40-100 és ultimó passzolása, mert ez összesen csak 8 egységű játék volt. Mohósága következ- tében azonban ennek az értéknek pontosan a hatszorosát kellett viselnie a mindenben ártatlan védőtársával együtt. Ilyen esetben indokolt a szemrehányás a védőtárs részéről! 197 195",
+  "lesson": "Amikor pl. PiRos ászt kellene a talonba le- tenni, akkor inkább mondjunk le a tervezett figura vál- lalásáról, ne adjunk rendkívüli esélyt a következő rabló nagyobb értékű vállalására ! A kártyában is érvényesül a mértékletesség! A túlzók rendszerint ráfizetnek erőszakos játékukra és még az ártatlan partnerüket is egy drága játszma elvesztésébe sodorják.",
+  "result_text": "Csaba megnyerte a PIRos 20-100-at : 12 pont a 4 ászt: 8 pont a terített durchmarsot : 28 pont Csaba nyeresége összesen : 48148 pont 196",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Csaba",
+   "first_declarer": "Albert",
+   "components": [
+    "20-100",
+    "4asz",
+    "durchmars"
+   ],
+   "open": true,
+   "trump": "P",
+   "kontra": [],
+   "book_abs_per_opponent": 48,
+   "declarer_won_overall": true,
+   "note": null,
+   "contract_index": 75
+  },
+  "book_net": -48,
+  "book_abs": 48,
+  "book_abs_model": 48
+ },
+ "25": {
+  "example": 25,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Csaba kezében valóban olyan lap volt, amely egy talonból vett kedvező lappal akár terített durchmarsra ís feljavulhatott volna. Igen érdekes volt Csaba elgondolása, mert kockáztatta, hogy ha esetleg nem lesz rablás, akár csupán egy szerény PIRosS ultimóval és játszmanyerésseel kell beérnie. De nem csalódott a rab- lásokban. Annak ellenére sem javult fel azonban a lapja, hogy utána még ketten raboltak, sőt a bemondott PIROS durchmarsot is elbukta. Ismét hangsúlyozzuk a többszöri rablás leggyakoribb velejáróját: a játékosok kezében a lapok elosztása na- gyon aránytalanná válik. Ilyenkor már csak ún. ,,biz- tos\" lappal szabad nagyobb értékű figurát bemondani, az elbukás veszélye nélkül. Ez a játszma érdekes volt, azért is mert a TÖK alsót valamennyi játékos letette, illetve visszatette a talonba, tehát ez a lap ötször került a talonba. Ez is igazolja azt a tételünket, hogy ebben a játékban az alsót szokás leg- inkább a talonba helyezni. 198",
+  "lesson": "A többszöri rablás után már igen nagy koc- kázattal jár olyan figura vállalása, amely nincs kiterí- tett lapként a kezünkben.",
+  "result_text": "Csaba megnyerte a PIROS ultimót : 8 pont elbukta a PIRos durchmarsot : 14 pont Albert-Dénes párt nyert összesen: 6-6 pontot 199",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Csaba",
+   "first_declarer": "Csaba",
+   "components": [
+    "ulti",
+    "durchmars"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [],
+   "book_abs_per_opponent": 6,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 47
+  },
+  "book_net": 6,
+  "book_abs": 6,
+  "book_abs_model": 6
+ },
+ "26": {
+  "example": 26,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Albert két ász birtokában és ZÖLD szín hiányában kontrázta a 4 ászt. Abból indult ki, hogy a i ZÖLDBE elkenheti a PIROS vagy a TÖK ászt. Sajnos ebben a játszmában erre nem volt lehetősége. Dénes ügyesen játszott, mert az adu színébőlnem hozta a nagyokat. Bízott abban, hogy a ZÖLD színben való já- téka során kialakul a helyzet: látni fogja. milyen irány- ban kell folvtatni a játékot. 200 J Albert veszte éppen az volt, hogy 8 aduval rendelkezett és ZÖLDBŐL skart volt. Így nem volt lehetősége arra, hogy I valamelyik ászát idegen színbe partnerének, Bélának leadja. Ha Albertnek nem lett volna aduja, akkor biztosan nyerte volna a kontrázott 4 ászt. Túlságosan elbizakodot- tá tette őt a kezében levő 2 ász. Dénes nem rekontrázta a 4 ászt, mert nem tudott a színek elosztásának arányáról. Végül, ha Albert alaposan mérlegelte volna a helyze- tet — azt, hogy Dénes őt hosszú ZÖLDJÉVEL esetleg aduban kihajtja és akkor már nincs lehetőség a 4 ász buktatására — nem kontrázott volna.",
+  "lesson": ". A négy ász igen szép, de nem könnyű figura!",
+  "result_text": "Dénes nyerte a kontra 4 ászt: 8 pont a 40-100-at és 4 pont az ultimót : 4 pont Összesen : 16-16 pont 201 i",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Dénes",
+   "first_declarer": "Dénes",
+   "components": [
+    "40-100",
+    "ulti",
+    "4asz"
+   ],
+   "open": false,
+   "trump": "M",
+   "kontra": [
+    {
+     "player": "Albert",
+     "what": "kontra",
+     "part": "4asz"
+    }
+   ],
+   "book_abs_per_opponent": 16,
+   "declarer_won_overall": true,
+   "note": null,
+   "contract_index": 22
+  },
+  "book_net": -16,
+  "book_abs": 16,
+  "book_abs_model": 16
+ },
+ "27": {
+  "example": 27,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Albert kezében egyetlen adu sem volt, és csak kétféle színnel rendelkezett. Ebből a lapból biz- tosra vehette, hogy Csaba adu ütésébe — miután Béla 40-100-at nem mondott -- bele tudja tenni — nála levő PIROS ászt. ; 202 l Béla kezében lehetett volna TÖKBŐL a 3 major ütő: ász, 10, király. Ebben az esetben Csabának aduban nincs ütése. Viszont szinte biztosra vehető volt, hogy Bélának a zörD a hosszú, ún. , hajtó\" színe és ebben a színben Csabának minden bizonnyal legalább egy ütése lesz. amibe Albert a PIRos ászt bele tudja tenni. Tehát Albertnek a kontra 4 ász megnyeréséhez két esélye is volt, de egy szinte biztosan. j Rekontrázni ilyenkor csak nagyon óvatosan szabad, mert az ellenfelek lapjainak elosztását nem ismerjük, különösen akkor nem, amikor előzőleg nem történt egy-két rablás.",
+  "lesson": "A négy ász igen szép, érdekes és egyúttal nehéz figura akkor, ha mind a 4 ász nincs a bemondó kezében.",
+  "result_text": "Béla nyerte a bemondott ultimót: 4 pont Béla elvesztette a kontra 4 ászt: 8 pont Albert és Csaba nyert : 4-4 pontot 203",
+  "status": "ok",
+  "votes": 3,
+  "distinct": 2,
+  "facts": {
+   "final_declarer": "Béla",
+   "first_declarer": "Albert",
+   "components": [
+    "ulti",
+    "4asz"
+   ],
+   "open": false,
+   "trump": "T",
+   "kontra": [
+    {
+     "player": "Albert",
+     "what": "kontra",
+     "part": "4asz"
+    }
+   ],
+   "book_abs_per_opponent": 4,
+   "declarer_won_overall": true,
+   "note": null,
+   "contract_index": 12
+  },
+  "book_net": -4,
+  "book_abs": 4,
+  "book_abs_model": 4
+ },
+ "28": {
+  "example": 28,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Ebből a rendkívül érdekes lapelosztásból is megállapítható, hogy a kézben levő aduk számának jelentősége — általában — nagyon változó. Albert kezében összesen 3 adu lett volna, ha mérgében nem teszi a talonba a két MAKKOT. Ezzel a 3 aduval aligha tudott volna ultimót csinálni (bár tudunk ilyen esetet is). Ha ugyanis Albert megtartja a 3 aduját, akkor nincs a kezé- ben az a két nagyszerű hajtó szín, amivel az ellenfelek kezében levő 5 adut ki tudta hajtani. Természetesen ehhez a sikerhez Albertnek az ütőlapok- ra is szüksége volt. Így került állandóan ütésbe és tudta hívni újra és újra a hajtó színeit. Ilyen esetben még az adu talonba helyezése is célszerű lehet - különösen, ha major adukkal nem rendelkezünk, amiket lehúz- hatnánk —, mert a színek hívása kapcsán az ellenfelek, akaratlanul is, egymást ütik felül mind színben, mind aduban, ha az elosztás arányos. Még egy jelentős körülmény : az ellenfelek nem számí- tottak arra, hogy adu vagy aduk fekszenek a talonban. Ellenkező esetben egyetlen adu hívásával már meg- akadályozhatták volna a csendes ultimót !",
+  "lesson": "A kártyaszerencse is egy olyan tényezője a kártyajátéknak, amely nélkül különleges sikert elérni nem lehet!",
+  "result_text": "Albert csendes ultimót csinált és megnyerte a játékot is: 3-3 pontot nyert 203 14",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Albert",
+   "first_declarer": "Albert",
+   "components": [
+    "20-100"
+   ],
+   "open": false,
+   "trump": "M",
+   "kontra": [],
+   "book_abs_per_opponent": 3,
+   "declarer_won_overall": true,
+   "note": null,
+   "contract_index": 6
+  },
+  "book_net": -3,
+  "book_abs": 3,
+  "book_abs_model": 3
+ },
+ "29": {
+  "example": 29,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Dénes felvétele és MAKK ultimó vállalása lapjának minden tekintetben megfelelt. Indokolt volt Albert rablása is, mert kezében volt egy bukhatatlan terített betli lap, amit mégis elbukott, mégpedig az egyik \" ellenfél, Dénes által megkontráz va. 206 : Albert rablása előtt a sokat beszélő Dénes tett egy olyan megjegyzést, hogy a talon majd elrontja a lapját ! Erre Albert a nagyszerű lap birtokában túlzottan elbízta magát és kijelentette, hogy a talont meg sem nézi, hanem kezéből bemondja a terített betlit. Albert megfeledkezett arról a lehetőségről, hogy a 8. PIRos, az alsó, a talonban is lehet. Ha Dénesnek a játékra vonatkozó megjegyzését szi- gorúan bíráljuk, az renonsznak számít. Albert a nagyobb vállalás reményében azonban nem érvényesítette a re- nonsz-szabályt, holott ehhez joga lett volna! Természe- tesen a rablás eszközlése előtt! Kérhette volna az előző bemondás, vagyis a MAKK ultimó kontrájának a meg- fizetését, de ezzel a jogával nem élt.",
+  "lesson": ". Ez az eget is azt bizonyítja, sem ebben, sem egyéb kártyajátékban nem szabad semmiféle, a játékra vonatkozó és azt befolyásoló megjegyzést tenni. Már- pedig Dénes megjegyzése feltétlenül ilyen jellegű meg- nyilvánulás .volt. Ezenfelül még Dénes korrektsége is kétséges, mert miután az ő megjegyzése következtében bukott meg Albert magas értékű bemondása, nem volt sportszerű, hogy éppen ő kontrázta meg a terített betlit! Egyetlen játékosnak sem szabad elbizakodottnak len- nie, mert az megbosszulja magát. Albert tévedett, ami- kor azt hitte, hogy biztos terített betlije van. Ez csak akkor lett volria biztos, ha a PIROS alsó i8 a kezében van. i Ennek a megszerzésére meg is volt a lehetősége, de er- ről könnyelműen lemondott és a kártyasors, mondhat- nánk, éppen ezért kegyetlen volt hozzá és elég drága tan- díjat kellett fizetnie a könnyelmű eljárásáért. Összegezve a mondottakat: kotyogni sem szabad egy komoly parti- ban, könnyelműen sem szabad játszani, mert az ultiban 32 lap van, amiről Albert megfeledkezett !",
+  "result_text": "Albert Bélának terített betlit fizetett: 20 pontot : Dénesnek pedig kontra terített betlit : 40 pontot j Albert vesztesége összesen: 60 — pont t 207 j",
+  "status": "ok",
+  "votes": 5,
+  "distinct": 1,
+  "facts": {
+   "final_declarer": "Albert",
+   "first_declarer": "Dénes",
+   "components": [
+    "betli"
+   ],
+   "open": true,
+   "trump": null,
+   "kontra": [
+    {
+     "player": "Dénes",
+     "what": "kontra",
+     "part": "betli"
+    }
+   ],
+   "book_abs_per_opponent": 30,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 41
+  },
+  "book_net": null,
+  "book_abs": null,
+  "book_abs_model": 30
+ },
+ "30": {
+  "example": 30,
+  "runs": 5,
+  "valid": 5,
+  "explanation": "Albert ZöLD 40-100 vállalását az arányv- talan elosztás miatt simán elbukta volna. Csaba szinte biztos PIROos 40-100-zal indult, de a PIROS és a TÖK aránytalan elosztása miatt ezt nem tudta tel- jesíteni, sőt kontrával bukta el. Albert PIRos 40-100 kontrája nem volt egészen biztos, mert ha Csaba lehúzta volna az adukat, akkor sikeres lett volna a bemondása, sőt azt kontrával nyerte volna meg. Sajnos azonban nagyon elbízta magát a szóló MAKK ászt illetően, és ez lett a veszte. Ezzel az óvatosságot nélkülöző játékkal nemcsak a kontrázott PIROS 40-100-at bukta el, hanem az ellenfelek ráadásul csendes PIROS ultimót is csináltak, ami igen fájdalmasan, mondhat- nánk szégyenletesen festett Csaba 5 adujával szemben!",
+  "lesson": "Bármilyen jó vezető szín van a kezünkben, legcélszerűbb a major aduval indulni. Ebben az esetben egyrészt már látjuk az aduk elosztását, másrészt elke- rülünk egy esetleges kontra bemondást.",
+  "result_text": "Albert-Béla párt nyerte a kontra PIROS 40-100-at és a csendes ultimót: 16-4-4— 20 pontot \"4 209 3 GYAKORLATI TANÁCSOK A II. PÉLDATÁRHOZ I 1. Amikor a felvevő semmiféle vállalást nem tesz vagy a rabló , passz pirosat\" mond csupán, igen kevés kilátás van arra, hogy pirosat, különösen ászt vagy 7-est kap- junk a talonból. Rablásunk során tehát ezt a jelentős c körülményt vegyük figyelembe. 2. Amikor a felvevő vagy rabló ultimót, 40-100-at I vagy egyéb vállalást mond be, akkor már lényegesen több esélyünk van , kedvező\" lap vételére a talonból. c mintha vállalás nem történt volt. (A bemondó esetleg kénytelen vállalásának sikere érdekében letenni olyan I lapot vagy lapokat, amelyeket egyébként nem tett volna ; le.) : 2. Ha lapunkban semmi bemondási lehetőség nincs. akkor feltétlenül olyan lapot (lapokat) tegyünk a talon- ba, amelyeket számításunk szerint a rabló legkevésbé tud használni. Pirosat például csak végső esetben és akkor, ha ellenünk ebben a színben nincs bemondási lehetőség: az ász, a király vagy felső, a, 7-es a kezünkben van. E négy lap egyikét sem szabad a talonba fektetni! Egyéb színből, akkor, ha a 7-es és a király-felső egyike a kezünkben van. Ha betlire van kilátás, akkor nagy lapot tegyünk le abból a színből, amelynek kis lapjai a kezünk- ben vannak; ha durchmarsra van esély, akkor fordítva. 4. Ha 10-esünk mellett olyan kis lapunk van, hogy annak hazavitele kilátástalan, akkor helyes eljárás a ; 10-est a talonba fektetni és ha ebből a színből még marad lap a kezünkben, akkor ez lehetőleg kis lap legyen, pl. 7-9, hogy az ellenfél ászával lazsálni tudjon. Iyenkor az ellenfél ászát hazavihetjük és lényegében az elvesztett 10-es — mely a talonban van és az ellenfélnek számít — ezúton visszatérül. ő. Amikor valamelyik játékos betlit mondott, a kö- , vetkező rabló nyilván ennél nagyobb értékű vállalásra, esetleg durchmarsra készül. Ezért a talonba lehetőleg 210 olyan lapokat tegyünk, amelyekre nem számít, illetve lapjába nem illeszkedik be. 6. Rendkívül veszélyes a talonba tenni azt a lapot, amelyből egyetlen van a kezünkben, mert nagyon való- színű, hogy a rabló játékosnál sorozat van belőle. Ezért az egyetlen színlapot csak végső esetben szabad a talonba tenni (pl. 32 egységű vállalásnál). 7. Ultimó vállalásnál feltétlenül úgy induljunk, hogy az ellenfél az első hívásból ne tudjon következtetni vezető lapunk színére, mert Így egy esetleges kontrát elkerülhetünk. Játékunk általában olyan legyen, hogy az ellenfél a kezünkben levő lapokról a legkevésbé tudjon értesülni. Ilyenkor a legcélszerűbb aduval indulni, 8. Abban a helyzetben, amikor rendkívül kellemetlen lapot vagy lapokat veszünk a talonból és tervezett válla- lásunk sikerére semmi kilátásunk nincs, az a leghelye- sebb, ha a , legártalmasabb\" lapokat helyezzük a talon- ba. Ha utánunk durchmarsra van kilátás, akkor két olyan lapot teszünk le, amelyik színnek a nagy lapjai a kezünkben vannak. Ha pedig betlire van kilátás, akkor két nagy értékű lapot abból a színből, amelynek kis lapjai a kezünkben vannak. 9. Ha olyan biztos lappal rendelkezünk, hogy válla- lásunk 10096-osnak tekinthető, akkor célszerű olyan lapokat a talonba tenni, amelyre a rabló semmiképp nem számíthat (pl. 6 aduból és biztos kísérő lapból 2 adut teszünk a talonba). Erre mondják, hogy , gutaütésre\" tette le a talont! 10. A rablóultiban a lapjárás után a legnagyobb je- lentősége a skartolásnak van, mert a talon jó kiválasz- tásával a rabló játékos nagyobb egységű vállalásainak esélyeit nagymértékben csökkenthetjük. Ez pedig jelen- tősen befolyásolja a játékosok között mutatkozó tudás- beli vagy játékbeli különbséget. Éppen ez okból fekte- tünk igen nagy súlyt a talon lapjainak kiválasztására. 11. Se hangos szóval, se asztal- vagy kártyacsapkodás- sal ne jelezzük lapunk erejét, vagy partnerünk játékára 1 211 vonatkozó eltérő véleményünket. Minden játékos csak saját lapjának erejére kontrázhat! 12. Tévedésünket azonnal lássuk be, mert ezzel a fe- lesleges vitákat eleve elkerüljük. Játékunk módját vagy alkalmazott játékbeli elgondolásunkat csak jól szabad indokolni! 13. Minden játékos tévedhet, mert tévedni emberi dolog! Legyünk elnézőek egymás hibáival szemben! Minden igyekezetünk a békés, baráti légkör kialakítására irányuljon, hogy a játék mindig kellemes és szórakoztató legyen! i",
+  "status": "ok",
+  "votes": 3,
+  "distinct": 2,
+  "facts": {
+   "final_declarer": "Csaba",
+   "first_declarer": "Albert",
+   "components": [
+    "40-100"
+   ],
+   "open": false,
+   "trump": "P",
+   "kontra": [
+    {
+     "player": "Albert",
+     "what": "kontra",
+     "part": "jatek"
+    }
+   ],
+   "book_abs_per_opponent": 20,
+   "declarer_won_overall": false,
+   "note": null,
+   "contract_index": 10
+  },
+  "book_net": 20,
+  "book_abs": 20,
+  "book_abs_model": 20
+ }
+}

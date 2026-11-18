@@ -1,0 +1,396 @@
+{
+  "lead_preferences": {
+    "lead_trump_when_declarer": 40.0,
+    "lead_singleton_for_defense": 35.0,
+    "lead_high_card_first": 45.0,
+    "lead_safe_ten": 30.0
+  },
+  "defense_weights": {
+    "feed_ten_or_ace_to_partner": 45.0,
+    "save_trump_seven_for_last": 50.0,
+    "keep_stoppers_in_betli": 48.0
+  },
+  "card_eval_bias": {
+    "Rank.ASZ": 50.0,
+    "Rank.X": 45.0,
+    "Rank.KIRALY": 35.0,
+    "Rank.FELSO": 30.0,
+    "Rank.ALSO": 25.0,
+    "Rank.IX": 15.0,
+    "Rank.VIII": 10.0,
+    "Rank.VII": 5.0
+  },
+  "contracts": [
+    {
+      "name": "Passz (makk–zöld-tök)",
+      "base_points": 1,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 2,
+      "conditions": "Több pontot vinni el ütésekben és bemondásokban mint az ellenfelek"
+    },
+    {
+      "name": "Piros passz",
+      "base_points": 2,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 2,
+      "conditions": "Partinyerés piros adussal"
+    },
+    {
+      "name": "40-100 (makk–zöld-tök)",
+      "base_points": 4,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 3,
+      "conditions": "Aduszín felső-király párral 100 pont elvitele"
+    },
+    {
+      "name": "Ulti (makk–zöld-tök)",
+      "base_points": 5,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 2,
+      "conditions": "Utolsó ütés elvitele az adu VII-nel"
+    },
+    {
+      "name": "Betli",
+      "base_points": 5,
+      "is_piros": false,
+      "min_trumps_recommended": 0,
+      "required_stoppers_or_aces": 0,
+      "conditions": "Egyetlen ütést sem szerezni"
+    },
+    {
+      "name": "Durchmars (makk–zöld-tök) – Ász, X vagy szín nélküli Ász, Király",
+      "base_points": 6,
+      "is_piros": false,
+      "min_trumps_recommended": 0,
+      "required_stoppers_or_aces": 8,
+      "conditions": "Minden ütés elvitele"
+    },
+    {
+      "name": "40-100 ulti (makk–zöld-tök)",
+      "base_points": 8,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 3,
+      "conditions": "40-100 és ultimó együttes teljesítése"
+    },
+    {
+      "name": "20-100 (makk–zöld-tök)",
+      "base_points": 8,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 3,
+      "conditions": "Nem adu felső-király párral 100 pont elvitele"
+    },
+    {
+      "name": "Piros 40-100",
+      "base_points": 8,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 3,
+      "conditions": "40-100 piros adussal"
+    },
+    {
+      "name": "Piros ulti",
+      "base_points": 10,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 2,
+      "conditions": "Ultimó piros adussal"
+    },
+    {
+      "name": "40-100 + durchmars (makk–zöld-tök)",
+      "base_points": 10,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 5,
+      "conditions": "40-100 és durchmars együttes teljesítése"
+    },
+    {
+      "name": "Ulti + durchmars (makk–zöld-tök)",
+      "base_points": 10,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 5,
+      "conditions": "Ultimó és durchmars együttes teljesítése"
+    },
+    {
+      "name": "Piros betli",
+      "base_points": 10,
+      "is_piros": true,
+      "min_trumps_recommended": 0,
+      "required_stoppers_or_aces": 0,
+      "conditions": "Betli piros jelöléssel"
+    },
+    {
+      "name": "Ulti + 20-100 (makk–zöld-tök)",
+      "base_points": 12,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 4,
+      "conditions": "Ultimó és 20-100 együttes teljesítése"
+    },
+    {
+      "name": "Szín nélküli durchmars – Ász-Király",
+      "base_points": 12,
+      "is_piros": false,
+      "min_trumps_recommended": 0,
+      "required_stoppers_or_aces": 8,
+      "conditions": "Durchmars adu nélkül"
+    },
+    {
+      "name": "Piros durchmars – Ász, X",
+      "base_points": 12,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 8,
+      "conditions": "Durchmars piros adussal"
+    },
+    {
+      "name": "Terített durchmars (makk–zöld-tök) – Ász, X",
+      "base_points": 12,
+      "is_piros": false,
+      "min_trumps_recommended": 0,
+      "required_stoppers_or_aces": 8,
+      "conditions": "Durchmars terített változatban"
+    },
+    {
+      "name": "40-100 + ulti+ durchmars (makk–zöld-tök)",
+      "base_points": 14,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Hármas összetett vállalás"
+    },
+    {
+      "name": "20-100 + durchmars (makk–zöld-tök)",
+      "base_points": 14,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "20-100 és durchmars együtt"
+    },
+    {
+      "name": "40-100 + terített durchmars (makk–zöld-tök)",
+      "base_points": 16,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "40-100 és terített durchmars"
+    },
+    {
+      "name": "Ulti + terített durchmars (makk–zöld-tök)",
+      "base_points": 16,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Ulti és terített durchmars"
+    },
+    {
+      "name": "Piros 40-100 + ulti",
+      "base_points": 16,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 4,
+      "conditions": "Piros 40-100 és ulti"
+    },
+    {
+      "name": "20-100 + ulti + durchmars (makk–zöld-tök)",
+      "base_points": 18,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Hármas összetett vállalás"
+    },
+    {
+      "name": "40-100 + ulti +terített durchmars (makk–zöld-tök)",
+      "base_points": 20,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Hármas összetett terített"
+    },
+    {
+      "name": "20-100 + terített durchmars (makk–zöld-tök)",
+      "base_points": 20,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "20-100 és terített durchmars"
+    },
+    {
+      "name": "Piros 40-100 + durchmars",
+      "base_points": 20,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Piros 40-100 és durchmars"
+    },
+    {
+      "name": "Piros ulti + durchmars",
+      "base_points": 20,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Piros ulti és durchmars"
+    },
+    {
+      "name": "Terített betli",
+      "base_points": 20,
+      "is_piros": false,
+      "min_trumps_recommended": 0,
+      "required_stoppers_or_aces": 0,
+      "conditions": "Betli nyitott lapokkal az első ütés után"
+    },
+    {
+      "name": "20-100 + ulti + terített durchmars (makk–zöld-tök)",
+      "base_points": 24,
+      "is_piros": false,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Összetett terített"
+    },
+    {
+      "name": "Piros 20-100 + ulti",
+      "base_points": 24,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 4,
+      "conditions": "Piros 20-100 és ulti"
+    },
+    {
+      "name": "Szín nélküli terített durchmars – Ász, Király",
+      "base_points": 24,
+      "is_piros": false,
+      "min_trumps_recommended": 0,
+      "required_stoppers_or_aces": 8,
+      "conditions": "Szín nélküli durchmars terítve"
+    },
+    {
+      "name": "Piros terített durchmars – Ász, X",
+      "base_points": 24,
+      "is_piros": true,
+      "min_trumps_recommended": 0,
+      "required_stoppers_or_aces": 8,
+      "conditions": "Piros durchmars terítve"
+    },
+    {
+      "name": "Piros 40-100 + ulti + durchmars",
+      "base_points": 28,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Piros hármas kombináció"
+    },
+    {
+      "name": "Piros 20-100 + durchmars",
+      "base_points": 28,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Piros 20-100 és durchmars"
+    },
+    {
+      "name": "Piros 40-100 + terített durchmars",
+      "base_points": 32,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Piros 40-100 terített durchmarssal"
+    },
+    {
+      "name": "Piros ulti + terített durchmars",
+      "base_points": 32,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Piros ulti terített durchmarssal"
+    },
+    {
+      "name": "Piros 20-100 + ulti + durchmars",
+      "base_points": 36,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Piros összetett"
+    },
+    {
+      "name": "Piros 40-100 + ulti + terített durchmars",
+      "base_points": 40,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Piros összetett terített"
+    },
+    {
+      "name": "Piros 20-100 + terített durchmars",
+      "base_points": 40,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Piros 20-100 terített durchmarssal"
+    },
+    {
+      "name": "Piros 20-100 + ulti + terített durchmars",
+      "base_points": 48,
+      "is_piros": true,
+      "min_trumps_recommended": 4,
+      "required_stoppers_or_aces": 6,
+      "conditions": "Maximális piros összetett terített vállalás"
+    }
+  ],
+  "hand_combinations": [
+    {
+      "contract": "Ulti",
+      "description": "4-5 adu és néhány ütőlap",
+      "min_trumps": 4,
+      "min_aces_or_tens": 1,
+      "needs_trump_seven": true,
+      "needs_trump_marriage": false
+    },
+    {
+      "contract": "40-100",
+      "description": "4 vagy több adu ásszal és tízessel, 2-3 ütőlappal",
+      "min_trumps": 4,
+      "min_aces_or_tens": 2,
+      "needs_trump_seven": false,
+      "needs_trump_marriage": true
+    },
+    {
+      "contract": "20-100",
+      "description": "Legalább 4-5 biztos ütőértékű adu, ász, nem adu 20",
+      "min_trumps": 4,
+      "min_aces_or_tens": 2,
+      "needs_trump_seven": false,
+      "needs_trump_marriage": false
+    },
+    {
+      "contract": "Betli",
+      "description": "Alacsony rangú VII-X lapok egyszínű sorozata, esetleg egy felső vagy király",
+      "min_trumps": 0,
+      "min_aces_or_tens": 0,
+      "needs_trump_seven": false,
+      "needs_trump_marriage": false
+    }
+  ],
+  "odds_notes": [
+    {
+      "topic": "aduelosztás 3-0",
+      "statement": "Ritka esemény, de előfordul, számolni kell vele",
+      "estimated_probability": 0.15
+    },
+    {
+      "topic": "aduelosztás 4-0",
+      "statement": "Nagyon ritka, de lehetséges veszélyforrás",
+      "estimated_probability": 0.05
+    },
+    {
+      "topic": "aduelosztás 2-2",
+      "statement": "A legvalószínűbb leosztás 4 adu birtokában",
+      "estimated_probability": 0.4
+    }
+  ]
+}

@@ -1,0 +1,5549 @@
+{
+ "1": {
+  "example": 1,
+  "issues": [],
+  "tricks_played": 10,
+  "dealer": "Albert",
+  "order": [
+   "Béla",
+   "Csaba",
+   "Dénes"
+  ],
+  "initial": {
+   "Béla": [
+    8,
+    9,
+    10,
+    11,
+    14,
+    15,
+    21,
+    22,
+    24,
+    25
+   ],
+   "Csaba": [
+    0,
+    1,
+    3,
+    4,
+    6,
+    13,
+    20,
+    26,
+    28,
+    31
+   ],
+   "Dénes": [
+    2,
+    5,
+    7,
+    16,
+    17,
+    19,
+    23,
+    27,
+    29,
+    30
+   ]
+  },
+  "talon_rows": [
+   [
+    12,
+    18
+   ],
+   [
+    25,
+    24
+   ],
+   [
+    13,
+    20
+   ]
+  ],
+  "final": {
+   "declarer": "Csaba",
+   "contract": "Piros ulti",
+   "trump": 0
+  },
+  "kmult": [
+   {
+    "parti": 2
+   },
+   {},
+   {
+    "parti": 2
+   }
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Csaba",
+      6
+     ],
+     [
+      "Dénes",
+      7
+     ],
+     [
+      "Béla",
+      15
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Dénes",
+      23
+     ],
+     [
+      "Béla",
+      18
+     ],
+     [
+      "Csaba",
+      1
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Csaba",
+      31
+     ],
+     [
+      "Dénes",
+      29
+     ],
+     [
+      "Béla",
+      8
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Csaba",
+      28
+     ],
+     [
+      "Dénes",
+      27
+     ],
+     [
+      "Béla",
+      11
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Dénes",
+      16
+     ],
+     [
+      "Béla",
+      21
+     ],
+     [
+      "Csaba",
+      4
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Csaba",
+      26
+     ],
+     [
+      "Dénes",
+      30
+     ],
+     [
+      "Béla",
+      9
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Dénes",
+      17
+     ],
+     [
+      "Béla",
+      22
+     ],
+     [
+      "Csaba",
+      3
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Csaba",
+      25
+     ],
+     [
+      "Dénes",
+      2
+     ],
+     [
+      "Béla",
+      10
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Dénes",
+      5
+     ],
+     [
+      "Béla",
+      12
+     ],
+     [
+      "Csaba",
+      0
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Dénes",
+      19
+     ],
+     [
+      "Béla",
+      14
+     ],
+     [
+      "Csaba",
+      24
+     ]
+    ],
+    "winner": "Dénes"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": -48,
+   "per_opponent": [
+    24,
+    24
+   ],
+   "rows": [
+    {
+     "k": "parti",
+     "v": 2,
+     "win": false,
+     "delta": -2
+    },
+    {
+     "k": "ulti",
+     "v": 8,
+     "win": false,
+     "delta": -16
+    },
+    {
+     "k": null,
+     "v": 0,
+     "win": false,
+     "delta": -4
+    }
+   ]
+  },
+  "book_net": 24,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Béla",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 1
+   },
+   {
+    "player": "Csaba",
+    "contract": "Piros ulti",
+    "ci": 14,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "2": {
+  "example": 2,
+  "issues": [],
+  "tricks_played": 3,
+  "dealer": "Béla",
+  "order": [
+   "Csaba",
+   "Dénes",
+   "Albert"
+  ],
+  "initial": {
+   "Csaba": [
+    0,
+    8,
+    9,
+    10,
+    12,
+    13,
+    16,
+    19,
+    22,
+    23
+   ],
+   "Dénes": [
+    6,
+    14,
+    15,
+    17,
+    18,
+    20,
+    24,
+    25,
+    28,
+    31
+   ],
+   "Albert": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    26,
+    27,
+    29,
+    30
+   ]
+  },
+  "talon_rows": [
+   [
+    11,
+    21
+   ],
+   [
+    12,
+    10
+   ],
+   [
+    12,
+    10
+   ]
+  ],
+  "final": {
+   "declarer": "Albert",
+   "contract": "Piros 20-100",
+   "trump": 0
+  },
+  "kmult": [
+   {
+    "c20": 2
+   },
+   {
+    "c20": 2
+   },
+   {}
+  ],
+  "tricks_in_text": 3,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Albert",
+      30
+     ],
+     [
+      "Csaba",
+      0
+     ],
+     [
+      "Dénes",
+      24
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Csaba",
+      21
+     ],
+     [
+      "Dénes",
+      17
+     ],
+     [
+      "Albert",
+      1
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Albert",
+      29
+     ],
+     [
+      "Csaba",
+      23
+     ],
+     [
+      "Dénes",
+      31
+     ]
+    ],
+    "winner": "Dénes"
+   }
+  ],
+  "status": "részleges",
+  "steps": [
+   {
+    "player": "Csaba",
+    "contract": "40-100 ulti",
+    "ci": 9,
+    "trump": 2
+   },
+   {
+    "player": "Albert",
+    "contract": "Piros 20-100",
+    "ci": 21,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "3": {
+  "example": 3,
+  "issues": [],
+  "tricks_played": 3,
+  "dealer": "Csaba",
+  "order": [
+   "Dénes",
+   "Albert",
+   "Béla"
+  ],
+  "initial": {
+   "Dénes": [
+    9,
+    12,
+    13,
+    15,
+    17,
+    24,
+    26,
+    27,
+    30,
+    31
+   ],
+   "Albert": [
+    11,
+    14,
+    16,
+    19,
+    21,
+    22,
+    23,
+    25,
+    28,
+    29
+   ],
+   "Béla": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    10,
+    18
+   ]
+  },
+  "talon_rows": [
+   [
+    5,
+    20
+   ],
+   [
+    20,
+    17
+   ],
+   [
+    29,
+    28
+   ],
+   [
+    29,
+    28
+   ]
+  ],
+  "final": {
+   "declarer": "Béla",
+   "contract": "Piros betli",
+   "trump": -1
+  },
+  "kmult": [
+   {},
+   {},
+   {}
+  ],
+  "tricks_in_text": 3,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Béla",
+      2
+     ],
+     [
+      "Dénes",
+      5
+     ],
+     [
+      "Albert",
+      25
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Dénes",
+      9
+     ],
+     [
+      "Albert",
+      11
+     ],
+     [
+      "Béla",
+      10
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Albert",
+      16
+     ],
+     [
+      "Béla",
+      18
+     ],
+     [
+      "Dénes",
+      15
+     ]
+    ],
+    "winner": "Béla"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": -20,
+   "per_opponent": [
+    10,
+    10
+   ],
+   "rows": [
+    {
+     "k": "betli",
+     "v": 10,
+     "win": false,
+     "delta": -10
+    }
+   ]
+  },
+  "book_net": 10,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Dénes",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 3
+   },
+   {
+    "player": "Albert",
+    "contract": "40-100 ulti",
+    "ci": 9,
+    "trump": 2
+   },
+   {
+    "player": "Béla",
+    "contract": "Piros betli",
+    "ci": 15,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "4": {
+  "example": 4,
+  "issues": [
+   "a végső vállalás a szöveg szerint 'Piros 40-100 ulti', a lépések szerint 'Piros ulti'",
+   "6. ütés: Béla '' -> piros VIII (kétértelmű)",
+   "10. ütés: a szöveg szerint Béla hív, a szabályok szerint Albert"
+  ],
+  "tricks_played": 9,
+  "dealer": "Csaba",
+  "order": [
+   "Dénes",
+   "Albert",
+   "Béla"
+  ],
+  "initial": {
+   "Dénes": [
+    9,
+    10,
+    16,
+    21,
+    22,
+    23,
+    25,
+    27,
+    30,
+    31
+   ],
+   "Albert": [
+    0,
+    4,
+    5,
+    6,
+    7,
+    8,
+    13,
+    14,
+    24,
+    28
+   ],
+   "Béla": [
+    1,
+    2,
+    3,
+    11,
+    12,
+    15,
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  "talon_rows": [
+   [
+    29,
+    26
+   ],
+   [
+    10,
+    9
+   ],
+   [
+    28,
+    24
+   ]
+  ],
+  "final": {
+   "declarer": "Albert",
+   "contract": "Piros ulti",
+   "trump": 0
+  },
+  "kmult": [
+   {
+    "parti": 2
+   },
+   {},
+   {
+    "parti": 2
+   }
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Albert",
+      14
+     ],
+     [
+      "Béla",
+      11
+     ],
+     [
+      "Dénes",
+      31
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Béla",
+      20
+     ],
+     [
+      "Dénes",
+      21
+     ],
+     [
+      "Albert",
+      4
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Albert",
+      13
+     ],
+     [
+      "Béla",
+      15
+     ],
+     [
+      "Dénes",
+      23
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Béla",
+      18
+     ],
+     [
+      "Dénes",
+      22
+     ],
+     [
+      "Albert",
+      5
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Albert",
+      10
+     ],
+     [
+      "Béla",
+      12
+     ],
+     [
+      "Dénes",
+      27
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Béla",
+      1
+     ],
+     [
+      "Dénes",
+      16
+     ],
+     [
+      "Albert",
+      6
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Albert",
+      7
+     ],
+     [
+      "Béla",
+      2
+     ],
+     [
+      "Dénes",
+      26
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Albert",
+      9
+     ],
+     [
+      "Béla",
+      3
+     ],
+     [
+      "Dénes",
+      25
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Béla",
+      19
+     ],
+     [
+      "Dénes",
+      29
+     ],
+     [
+      "Albert",
+      0
+     ]
+    ],
+    "winner": "Albert"
+   }
+  ],
+  "status": "részleges",
+  "steps": [
+   {
+    "player": "Dénes",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 2
+   },
+   {
+    "player": "Albert",
+    "contract": "Piros ulti",
+    "ci": 14,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "5": {
+  "example": 5,
+  "issues": [],
+  "tricks_played": 10,
+  "dealer": "Albert",
+  "order": [
+   "Béla",
+   "Csaba",
+   "Dénes"
+  ],
+  "initial": {
+   "Béla": [
+    3,
+    6,
+    9,
+    13,
+    17,
+    20,
+    22,
+    24,
+    27,
+    29
+   ],
+   "Csaba": [
+    1,
+    5,
+    7,
+    8,
+    12,
+    16,
+    18,
+    19,
+    21,
+    26
+   ],
+   "Dénes": [
+    0,
+    2,
+    4,
+    11,
+    14,
+    15,
+    23,
+    25,
+    30,
+    31
+   ]
+  },
+  "talon_rows": [
+   [
+    28,
+    10
+   ],
+   [
+    10,
+    22
+   ],
+   [
+    4,
+    2
+   ]
+  ],
+  "final": {
+   "declarer": "Dénes",
+   "contract": "Piros parti",
+   "trump": 0
+  },
+  "kmult": [
+   {
+    "parti": 2
+   },
+   {
+    "parti": 2
+   },
+   {}
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Dénes",
+      15
+     ],
+     [
+      "Béla",
+      13
+     ],
+     [
+      "Csaba",
+      8
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Dénes",
+      11
+     ],
+     [
+      "Béla",
+      9
+     ],
+     [
+      "Csaba",
+      12
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Dénes",
+      10
+     ],
+     [
+      "Béla",
+      6
+     ],
+     [
+      "Csaba",
+      7
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Csaba",
+      21
+     ],
+     [
+      "Dénes",
+      22
+     ],
+     [
+      "Béla",
+      17
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Dénes",
+      14
+     ],
+     [
+      "Béla",
+      3
+     ],
+     [
+      "Csaba",
+      1
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Béla",
+      29
+     ],
+     [
+      "Csaba",
+      26
+     ],
+     [
+      "Dénes",
+      30
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Dénes",
+      31
+     ],
+     [
+      "Béla",
+      24
+     ],
+     [
+      "Csaba",
+      5
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Csaba",
+      18
+     ],
+     [
+      "Dénes",
+      23
+     ],
+     [
+      "Béla",
+      20
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Dénes",
+      25
+     ],
+     [
+      "Béla",
+      27
+     ],
+     [
+      "Csaba",
+      19
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Béla",
+      28
+     ],
+     [
+      "Csaba",
+      16
+     ],
+     [
+      "Dénes",
+      0
+     ]
+    ],
+    "winner": "Dénes"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": 0,
+   "per_opponent": [
+    0,
+    0
+   ],
+   "rows": [
+    {
+     "k": "parti",
+     "v": 2,
+     "win": false,
+     "delta": -2
+    },
+    {
+     "k": null,
+     "v": 0,
+     "win": true,
+     "delta": 4
+    }
+   ]
+  },
+  "book_net": 0,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Béla",
+    "contract": "Parti",
+    "ci": 0,
+    "trump": 3
+   },
+   {
+    "player": "Dénes",
+    "contract": "Piros parti",
+    "ci": 1,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "6": {
+  "example": 6,
+  "issues": [
+   "a végső felvevő a szöveg szerint Dénes, a licit-lépések szerint Albert",
+   "a végső vállalás a szöveg szerint 'Ulti', a lépések szerint 'Piros ulti'",
+   "7. ütés: Dénes 'szlap' -> makk VII (kétértelmű)",
+   "8. ütés: Dénes 'sz]lap' -> makk IX (kétértelmű)",
+   "9. ütés: Dénes 'szlap' -> makk felső (kétértelmű)"
+  ],
+  "tricks_played": 10,
+  "dealer": "Béla",
+  "order": [
+   "Csaba",
+   "Dénes",
+   "Albert"
+  ],
+  "initial": {
+   "Csaba": [
+    6,
+    7,
+    10,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    23
+   ],
+   "Dénes": [
+    19,
+    20,
+    21,
+    22,
+    24,
+    26,
+    27,
+    29,
+    30,
+    31
+   ],
+   "Albert": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    8,
+    9,
+    11,
+    13
+   ]
+  },
+  "talon_rows": [
+   [
+    28,
+    25
+   ],
+   [
+    28,
+    25
+   ],
+   [
+    28,
+    25
+   ],
+   [
+    28,
+    25
+   ]
+  ],
+  "final": {
+   "declarer": "Albert",
+   "contract": "Piros ulti",
+   "trump": 0
+  },
+  "kmult": [
+   {
+    "parti": 2
+   },
+   {
+    "parti": 2
+   },
+   {}
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Albert",
+      13
+     ],
+     [
+      "Csaba",
+      14
+     ],
+     [
+      "Dénes",
+      31
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Csaba",
+      23
+     ],
+     [
+      "Dénes",
+      21
+     ],
+     [
+      "Albert",
+      1
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Albert",
+      9
+     ],
+     [
+      "Csaba",
+      10
+     ],
+     [
+      "Dénes",
+      19
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Csaba",
+      18
+     ],
+     [
+      "Dénes",
+      22
+     ],
+     [
+      "Albert",
+      2
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Albert",
+      8
+     ],
+     [
+      "Csaba",
+      12
+     ],
+     [
+      "Dénes",
+      27
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Csaba",
+      17
+     ],
+     [
+      "Dénes",
+      20
+     ],
+     [
+      "Albert",
+      4
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Albert",
+      11
+     ],
+     [
+      "Csaba",
+      15
+     ],
+     [
+      "Dénes",
+      24
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Csaba",
+      16
+     ],
+     [
+      "Dénes",
+      26
+     ],
+     [
+      "Albert",
+      3
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Albert",
+      5
+     ],
+     [
+      "Csaba",
+      6
+     ],
+     [
+      "Dénes",
+      29
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Csaba",
+      7
+     ],
+     [
+      "Dénes",
+      30
+     ],
+     [
+      "Albert",
+      0
+     ]
+    ],
+    "winner": "Csaba"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": -48,
+   "per_opponent": [
+    24,
+    24
+   ],
+   "rows": [
+    {
+     "k": "parti",
+     "v": 2,
+     "win": false,
+     "delta": -2
+    },
+    {
+     "k": "ulti",
+     "v": 8,
+     "win": false,
+     "delta": -16
+    },
+    {
+     "k": null,
+     "v": 0,
+     "win": false,
+     "delta": -4
+    }
+   ]
+  },
+  "book_net": 24,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Csaba",
+    "contract": "Parti",
+    "ci": 0,
+    "trump": 2
+   },
+   {
+    "player": "Dénes",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 3
+   },
+   {
+    "player": "Albert",
+    "contract": "Piros ulti",
+    "ci": 14,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "7": {
+  "example": 7,
+  "issues": [
+   "4. ütés: Béla '' -> piros VII (kétértelmű)",
+   "7. ütés: Dénes 'M' -> makk alsó (kétértelmű)",
+   "9. ütés: Dénes 'szlap1' -> makk felső (kétértelmű)"
+  ],
+  "tricks_played": 10,
+  "dealer": "Csaba",
+  "order": [
+   "Dénes",
+   "Albert",
+   "Béla"
+  ],
+  "initial": {
+   "Dénes": [
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30
+   ],
+   "Albert": [
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    11,
+    13,
+    15,
+    31
+   ],
+   "Béla": [
+    0,
+    1,
+    2,
+    7,
+    10,
+    12,
+    14,
+    16,
+    17,
+    18
+   ]
+  },
+  "talon_rows": [
+   [
+    29,
+    20
+   ],
+   [
+    26,
+    20
+   ],
+   [
+    26,
+    20
+   ]
+  ],
+  "final": {
+   "declarer": "Albert",
+   "contract": "Piros 40-100",
+   "trump": 0
+  },
+  "kmult": [
+   {},
+   {},
+   {}
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Albert",
+      15
+     ],
+     [
+      "Béla",
+      10
+     ],
+     [
+      "Dénes",
+      24
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Albert",
+      11
+     ],
+     [
+      "Béla",
+      12
+     ],
+     [
+      "Dénes",
+      25
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Albert",
+      13
+     ],
+     [
+      "Béla",
+      14
+     ],
+     [
+      "Dénes",
+      23
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Béla",
+      0
+     ],
+     [
+      "Dénes",
+      21
+     ],
+     [
+      "Albert",
+      4
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Albert",
+      9
+     ],
+     [
+      "Béla",
+      1
+     ],
+     [
+      "Dénes",
+      19
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Béla",
+      17
+     ],
+     [
+      "Dénes",
+      22
+     ],
+     [
+      "Albert",
+      5
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Albert",
+      8
+     ],
+     [
+      "Béla",
+      2
+     ],
+     [
+      "Dénes",
+      28
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Béla",
+      16
+     ],
+     [
+      "Dénes",
+      27
+     ],
+     [
+      "Albert",
+      3
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Albert",
+      31
+     ],
+     [
+      "Béla",
+      7
+     ],
+     [
+      "Dénes",
+      29
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Béla",
+      18
+     ],
+     [
+      "Dénes",
+      30
+     ],
+     [
+      "Albert",
+      6
+     ]
+    ],
+    "winner": "Albert"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": -16,
+   "per_opponent": [
+    8,
+    8
+   ],
+   "rows": [
+    {
+     "k": "c40",
+     "v": 8,
+     "win": false,
+     "delta": -8
+    }
+   ]
+  },
+  "book_net": null,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Dénes",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 3
+   },
+   {
+    "player": "Albert",
+    "contract": "Piros 40-100",
+    "ci": 10,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "4/5"
+ },
+ "15": {
+  "example": 15,
+  "issues": [
+   "1. ütés: a szöveg szerint Csaba hív, a szabályok szerint Albert"
+  ],
+  "tricks_played": 0,
+  "dealer": "Béla",
+  "order": [
+   "Csaba",
+   "Dénes",
+   "Albert"
+  ],
+  "initial": {
+   "Csaba": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17,
+    20
+   ],
+   "Dénes": [
+    18,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+   ],
+   "Albert": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    19,
+    21,
+    23
+   ]
+  },
+  "talon_rows": [
+   [
+    4,
+    16
+   ],
+   [
+    4,
+    20
+   ],
+   [
+    20,
+    18
+   ],
+   [
+    20,
+    18
+   ]
+  ],
+  "final": {
+   "declarer": "Albert",
+   "contract": "Piros 40-100 ulti durchmars",
+   "trump": 0
+  },
+  "kmult": [
+   {},
+   {},
+   {}
+  ],
+  "tricks_in_text": 3,
+  "tricks": [],
+  "status": "licit-csak",
+  "steps": [
+   {
+    "player": "Csaba",
+    "contract": "40-100 ulti",
+    "ci": 9,
+    "trump": 1
+   },
+   {
+    "player": "Dénes",
+    "contract": "Terített betli",
+    "ci": 41,
+    "trump": -1
+   },
+   {
+    "player": "Albert",
+    "contract": "Piros 40-100 ulti durchmars",
+    "ci": 60,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "16": {
+  "example": 16,
+  "issues": [],
+  "tricks_played": 10,
+  "dealer": "Béla",
+  "order": [
+   "Csaba",
+   "Dénes",
+   "Albert"
+  ],
+  "initial": {
+   "Csaba": [
+    5,
+    10,
+    12,
+    13,
+    17,
+    21,
+    22,
+    24,
+    25,
+    30
+   ],
+   "Dénes": [
+    1,
+    2,
+    7,
+    8,
+    9,
+    14,
+    16,
+    20,
+    26,
+    28
+   ],
+   "Albert": [
+    0,
+    3,
+    11,
+    15,
+    18,
+    19,
+    23,
+    27,
+    29,
+    31
+   ]
+  },
+  "talon_rows": [
+   [
+    6,
+    4
+   ],
+   [
+    30,
+    17
+   ],
+   [
+    18,
+    17
+   ]
+  ],
+  "final": {
+   "declarer": "Albert",
+   "contract": "Piros 20-100",
+   "trump": 0
+  },
+  "kmult": [
+   {},
+   {},
+   {}
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Albert",
+      31
+     ],
+     [
+      "Csaba",
+      24
+     ],
+     [
+      "Dénes",
+      26
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Albert",
+      27
+     ],
+     [
+      "Csaba",
+      25
+     ],
+     [
+      "Dénes",
+      28
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Albert",
+      30
+     ],
+     [
+      "Csaba",
+      4
+     ],
+     [
+      "Dénes",
+      7
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Dénes",
+      14
+     ],
+     [
+      "Albert",
+      15
+     ],
+     [
+      "Csaba",
+      12
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Albert",
+      29
+     ],
+     [
+      "Csaba",
+      5
+     ],
+     [
+      "Dénes",
+      1
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Csaba",
+      13
+     ],
+     [
+      "Dénes",
+      8
+     ],
+     [
+      "Albert",
+      11
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Albert",
+      23
+     ],
+     [
+      "Csaba",
+      21
+     ],
+     [
+      "Dénes",
+      16
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Albert",
+      19
+     ],
+     [
+      "Csaba",
+      22
+     ],
+     [
+      "Dénes",
+      20
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Albert",
+      3
+     ],
+     [
+      "Csaba",
+      6
+     ],
+     [
+      "Dénes",
+      2
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Albert",
+      0
+     ],
+     [
+      "Csaba",
+      10
+     ],
+     [
+      "Dénes",
+      9
+     ]
+    ],
+    "winner": "Albert"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": 32,
+   "per_opponent": [
+    -16,
+    -16
+   ],
+   "rows": [
+    {
+     "k": "c20",
+     "v": 12,
+     "win": true,
+     "delta": 12
+    },
+    {
+     "k": null,
+     "v": 0,
+     "win": true,
+     "delta": 4
+    }
+   ]
+  },
+  "book_net": -16,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Csaba",
+    "contract": "Parti",
+    "ci": 0,
+    "trump": 3
+   },
+   {
+    "player": "Albert",
+    "contract": "Piros 20-100",
+    "ci": 21,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "17": {
+  "example": 17,
+  "status": "hiba",
+  "issues": [
+   "a licit-lépések nem nyerhetők ki"
+  ]
+ },
+ "18": {
+  "example": 18,
+  "issues": [],
+  "tricks_played": 3,
+  "dealer": "Béla",
+  "order": [
+   "Csaba",
+   "Dénes",
+   "Albert"
+  ],
+  "initial": {
+   "Csaba": [
+    1,
+    2,
+    8,
+    9,
+    12,
+    14,
+    15,
+    16,
+    22,
+    24
+   ],
+   "Dénes": [
+    0,
+    3,
+    4,
+    5,
+    7,
+    17,
+    19,
+    20,
+    21,
+    23
+   ],
+   "Albert": [
+    6,
+    10,
+    11,
+    13,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31
+   ]
+  },
+  "talon_rows": [
+   [
+    26,
+    18
+   ],
+   [
+    26,
+    24
+   ],
+   [
+    26,
+    24
+   ]
+  ],
+  "final": {
+   "declarer": "Dénes",
+   "contract": "Piros 4 ász ulti",
+   "trump": 0
+  },
+  "kmult": [
+   {
+    "asz4": 4
+   },
+   {},
+   {
+    "asz4": 4
+   }
+  ],
+  "tricks_in_text": 3,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Dénes",
+      3
+     ],
+     [
+      "Albert",
+      6
+     ],
+     [
+      "Csaba",
+      1
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Dénes",
+      7
+     ],
+     [
+      "Albert",
+      10
+     ],
+     [
+      "Csaba",
+      2
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Dénes",
+      17
+     ],
+     [
+      "Albert",
+      31
+     ],
+     [
+      "Csaba",
+      22
+     ]
+    ],
+    "winner": "Csaba"
+   }
+  ],
+  "status": "részleges",
+  "steps": [
+   {
+    "player": "Csaba",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 1
+   },
+   {
+    "player": "Dénes",
+    "contract": "Piros 4 ász ulti",
+    "ci": 33,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "19": {
+  "example": 19,
+  "issues": [
+   "3. lépés: Dénes bemondása (Betli) nem magasabb az előzőnél"
+  ],
+  "tricks_played": 0,
+  "dealer": "Albert",
+  "order": [
+   "Béla",
+   "Csaba",
+   "Dénes"
+  ],
+  "initial": {
+   "Béla": [
+    1,
+    3,
+    6,
+    7,
+    12,
+    14,
+    19,
+    23,
+    29,
+    31
+   ],
+   "Csaba": [
+    8,
+    9,
+    10,
+    11,
+    13,
+    15,
+    16,
+    18,
+    20,
+    21
+   ],
+   "Dénes": [
+    0,
+    2,
+    5,
+    17,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30
+   ]
+  },
+  "talon_rows": [
+   [
+    4,
+    22
+   ],
+   [
+    29,
+    12
+   ],
+   [
+    29,
+    20
+   ],
+   [
+    2,
+    20
+   ],
+   [
+    14,
+    20
+   ]
+  ],
+  "status": "hiba",
+  "steps": [
+   {
+    "player": "Béla",
+    "contract": "Piros parti",
+    "ci": 1,
+    "trump": 0
+   },
+   {
+    "player": "Csaba",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 1
+   },
+   {
+    "player": "Dénes",
+    "contract": "Betli",
+    "ci": 5,
+    "trump": -1
+   },
+   {
+    "player": "Béla",
+    "contract": "Piros 4 ász terített durchmars",
+    "ci": 67,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "20": {
+  "example": 20,
+  "issues": [
+   "2. lépés: Albert bemondása (Durchmars) nem magasabb az előzőnél"
+  ],
+  "tricks_played": 0,
+  "dealer": "Béla",
+  "order": [
+   "Csaba",
+   "Dénes",
+   "Albert"
+  ],
+  "initial": {
+   "Csaba": [
+    0,
+    1,
+    2,
+    5,
+    6,
+    8,
+    13,
+    14,
+    18,
+    22
+   ],
+   "Dénes": [
+    9,
+    12,
+    16,
+    17,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+   ],
+   "Albert": [
+    3,
+    4,
+    7,
+    11,
+    15,
+    19,
+    21,
+    23,
+    24,
+    25
+   ]
+  },
+  "talon_rows": [
+   [
+    10,
+    20
+   ],
+   [
+    20,
+    18
+   ],
+   [
+    25,
+    24
+   ],
+   [
+    12,
+    9
+   ],
+   [
+    4,
+    9
+   ]
+  ],
+  "status": "hiba",
+  "steps": [
+   {
+    "player": "Csaba",
+    "contract": "Piros ulti",
+    "ci": 14,
+    "trump": 0
+   },
+   {
+    "player": "Albert",
+    "contract": "Durchmars",
+    "ci": 7,
+    "trump": 2
+   },
+   {
+    "player": "Dénes",
+    "contract": "Terített betli",
+    "ci": 41,
+    "trump": -1
+   },
+   {
+    "player": "Albert",
+    "contract": "Piros 20-100 durchmars",
+    "ci": 54,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "4/5"
+ },
+ "21": {
+  "example": 21,
+  "issues": [
+   "a végső vállalás a szöveg szerint 'Piros 40-100 ulti', a lépések szerint 'Piros ulti'"
+  ],
+  "tricks_played": 10,
+  "dealer": "Béla",
+  "order": [
+   "Csaba",
+   "Dénes",
+   "Albert"
+  ],
+  "initial": {
+   "Csaba": [
+    9,
+    10,
+    11,
+    14,
+    16,
+    17,
+    19,
+    20,
+    22,
+    23
+   ],
+   "Dénes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    18,
+    24,
+    26,
+    31
+   ],
+   "Albert": [
+    6,
+    7,
+    8,
+    12,
+    13,
+    15,
+    25,
+    27,
+    28,
+    30
+   ]
+  },
+  "talon_rows": [
+   [
+    29,
+    21
+   ],
+   [
+    29,
+    10
+   ],
+   [
+    10,
+    18
+   ]
+  ],
+  "final": {
+   "declarer": "Dénes",
+   "contract": "Piros ulti",
+   "trump": 0
+  },
+  "kmult": [
+   {
+    "parti": 2
+   },
+   {},
+   {
+    "parti": 2
+   }
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Dénes",
+      5
+     ],
+     [
+      "Albert",
+      6
+     ],
+     [
+      "Csaba",
+      23
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Albert",
+      15
+     ],
+     [
+      "Csaba",
+      9
+     ],
+     [
+      "Dénes",
+      1
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Dénes",
+      31
+     ],
+     [
+      "Albert",
+      25
+     ],
+     [
+      "Csaba",
+      16
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Dénes",
+      29
+     ],
+     [
+      "Albert",
+      27
+     ],
+     [
+      "Csaba",
+      11
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Albert",
+      8
+     ],
+     [
+      "Csaba",
+      14
+     ],
+     [
+      "Dénes",
+      2
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Dénes",
+      26
+     ],
+     [
+      "Albert",
+      28
+     ],
+     [
+      "Csaba",
+      19
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Albert",
+      12
+     ],
+     [
+      "Csaba",
+      22
+     ],
+     [
+      "Dénes",
+      3
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Dénes",
+      24
+     ],
+     [
+      "Albert",
+      30
+     ],
+     [
+      "Csaba",
+      21
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Albert",
+      13
+     ],
+     [
+      "Csaba",
+      20
+     ],
+     [
+      "Dénes",
+      4
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Dénes",
+      0
+     ],
+     [
+      "Albert",
+      7
+     ],
+     [
+      "Csaba",
+      17
+     ]
+    ],
+    "winner": "Albert"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": -40,
+   "per_opponent": [
+    20,
+    20
+   ],
+   "rows": [
+    {
+     "k": "parti",
+     "v": 2,
+     "win": false,
+     "delta": -2
+    },
+    {
+     "k": "ulti",
+     "v": 8,
+     "win": false,
+     "delta": -16
+    }
+   ]
+  },
+  "book_net": 20,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Csaba",
+    "contract": "40-100 ulti",
+    "ci": 9,
+    "trump": 2
+   },
+   {
+    "player": "Dénes",
+    "contract": "Piros ulti",
+    "ci": 14,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "22": {
+  "example": 22,
+  "issues": [
+   "8. ütés: Albert 'szlap' -> zöld felső (kétértelmű)"
+  ],
+  "tricks_played": 10,
+  "dealer": "Csaba",
+  "order": [
+   "Dénes",
+   "Albert",
+   "Béla"
+  ],
+  "initial": {
+   "Dénes": [
+    3,
+    7,
+    8,
+    11,
+    15,
+    16,
+    18,
+    20,
+    23,
+    29
+   ],
+   "Albert": [
+    17,
+    19,
+    21,
+    22,
+    24,
+    25,
+    27,
+    28,
+    30,
+    31
+   ],
+   "Béla": [
+    0,
+    1,
+    4,
+    5,
+    6,
+    9,
+    10,
+    12,
+    13,
+    14
+   ]
+  },
+  "talon_rows": [
+   [
+    2,
+    26
+   ],
+   [
+    20,
+    18
+   ],
+   [
+    20,
+    18
+   ],
+   [
+    20,
+    18
+   ]
+  ],
+  "final": {
+   "declarer": "Béla",
+   "contract": "Piros ulti",
+   "trump": 0
+  },
+  "kmult": [
+   {
+    "parti": 2,
+    "ulti": 2
+   },
+   {
+    "parti": 2,
+    "ulti": 2
+   },
+   {}
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Béla",
+      14
+     ],
+     [
+      "Dénes",
+      11
+     ],
+     [
+      "Albert",
+      31
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Dénes",
+      26
+     ],
+     [
+      "Albert",
+      28
+     ],
+     [
+      "Béla",
+      1
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Béla",
+      13
+     ],
+     [
+      "Dénes",
+      15
+     ],
+     [
+      "Albert",
+      27
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Dénes",
+      29
+     ],
+     [
+      "Albert",
+      30
+     ],
+     [
+      "Béla",
+      4
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Béla",
+      12
+     ],
+     [
+      "Dénes",
+      8
+     ],
+     [
+      "Albert",
+      24
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Béla",
+      10
+     ],
+     [
+      "Dénes",
+      2
+     ],
+     [
+      "Albert",
+      19
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Dénes",
+      23
+     ],
+     [
+      "Albert",
+      17
+     ],
+     [
+      "Béla",
+      5
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Béla",
+      9
+     ],
+     [
+      "Dénes",
+      3
+     ],
+     [
+      "Albert",
+      21
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Dénes",
+      16
+     ],
+     [
+      "Albert",
+      22
+     ],
+     [
+      "Béla",
+      6
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Béla",
+      0
+     ],
+     [
+      "Dénes",
+      7
+     ],
+     [
+      "Albert",
+      25
+     ]
+    ],
+    "winner": "Dénes"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": -64,
+   "per_opponent": [
+    32,
+    32
+   ],
+   "rows": [
+    {
+     "k": "parti",
+     "v": 2,
+     "win": false,
+     "delta": -2
+    },
+    {
+     "k": "ulti",
+     "v": 8,
+     "win": false,
+     "delta": -16
+    },
+    {
+     "k": null,
+     "v": 0,
+     "win": false,
+     "delta": -4
+    }
+   ]
+  },
+  "book_net": 32,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Dénes",
+    "contract": "Parti",
+    "ci": 0,
+    "trump": 1
+   },
+   {
+    "player": "Albert",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 3
+   },
+   {
+    "player": "Béla",
+    "contract": "Piros ulti",
+    "ci": 14,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "3/3"
+ },
+ "24": {
+  "example": 24,
+  "issues": [
+   "1. ütés: Béla nem következik"
+  ],
+  "tricks_played": 0,
+  "dealer": "Dénes",
+  "order": [
+   "Albert",
+   "Béla",
+   "Csaba"
+  ],
+  "initial": {
+   "Albert": [
+    0,
+    2,
+    7,
+    11,
+    19,
+    20,
+    23,
+    24,
+    25,
+    26
+   ],
+   "Béla": [
+    1,
+    4,
+    5,
+    10,
+    17,
+    21,
+    22,
+    28,
+    29,
+    30
+   ],
+   "Csaba": [
+    3,
+    6,
+    8,
+    9,
+    12,
+    13,
+    14,
+    15,
+    27,
+    31
+   ]
+  },
+  "talon_rows": [
+   [
+    18,
+    16
+   ],
+   [
+    26,
+    25
+   ],
+   [
+    26,
+    25
+   ],
+   [
+    7,
+    23
+   ],
+   [
+    12,
+    9
+   ]
+  ],
+  "final": {
+   "declarer": "Csaba",
+   "contract": "Piros 4 ász 20-100 terített durchmars",
+   "trump": 0
+  },
+  "kmult": [
+   {},
+   {},
+   {}
+  ],
+  "tricks_in_text": 3,
+  "tricks": [],
+  "status": "licit-csak",
+  "steps": [
+   {
+    "player": "Albert",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 2
+   },
+   {
+    "player": "Csaba",
+    "contract": "40-100 ulti",
+    "ci": 9,
+    "trump": 1
+   },
+   {
+    "player": "Albert",
+    "contract": "Terített betli",
+    "ci": 41,
+    "trump": -1
+   },
+   {
+    "player": "Csaba",
+    "contract": "Piros 4 ász 20-100 terített durchmars",
+    "ci": 75,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "25": {
+  "example": 25,
+  "issues": [
+   "1. ütés: Albert 'PfaM—T' -> piros felső (kétértelmű)",
+   "2. ütés: Csaba nem következik"
+  ],
+  "tricks_played": 1,
+  "dealer": "Béla",
+  "order": [
+   "Csaba",
+   "Dénes",
+   "Albert"
+  ],
+  "initial": {
+   "Csaba": [
+    0,
+    1,
+    2,
+    3,
+    6,
+    7,
+    23,
+    27,
+    29,
+    31
+   ],
+   "Dénes": [
+    4,
+    8,
+    9,
+    10,
+    11,
+    14,
+    24,
+    25,
+    26,
+    30
+   ],
+   "Albert": [
+    5,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    28
+   ]
+  },
+  "talon_rows": [
+   [
+    13,
+    12
+   ],
+   [
+    13,
+    12
+   ],
+   [
+    4,
+    12
+   ],
+   [
+    28,
+    12
+   ],
+   [
+    28,
+    12
+   ]
+  ],
+  "final": {
+   "declarer": "Csaba",
+   "contract": "Piros ulti durchmars",
+   "trump": 0
+  },
+  "kmult": [
+   {},
+   {},
+   {}
+  ],
+  "tricks_in_text": 4,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Csaba",
+      7
+     ],
+     [
+      "Dénes",
+      11
+     ],
+     [
+      "Albert",
+      5
+     ]
+    ],
+    "winner": "Csaba"
+   }
+  ],
+  "status": "részleges",
+  "steps": [
+   {
+    "player": "Csaba",
+    "contract": "Piros parti",
+    "ci": 1,
+    "trump": 0
+   },
+   {
+    "player": "Dénes",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 1
+   },
+   {
+    "player": "Albert",
+    "contract": "40-100 ulti",
+    "ci": 9,
+    "trump": 2
+   },
+   {
+    "player": "Csaba",
+    "contract": "Piros ulti durchmars",
+    "ci": 47,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "26": {
+  "example": 26,
+  "status": "hiba",
+  "issues": [
+   "a licit-lépések nem nyerhetők ki"
+  ]
+ },
+ "27": {
+  "example": 27,
+  "issues": [
+   "1. ütés: a szöveg szerint Csaba hív, a szabályok szerint Béla"
+  ],
+  "tricks_played": 0,
+  "dealer": "Dénes",
+  "order": [
+   "Albert",
+   "Béla",
+   "Csaba"
+  ],
+  "initial": {
+   "Albert": [
+    2,
+    4,
+    7,
+    16,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+   ],
+   "Béla": [
+    8,
+    11,
+    12,
+    13,
+    15,
+    18,
+    19,
+    22,
+    23,
+    31
+   ],
+   "Csaba": [
+    0,
+    1,
+    3,
+    5,
+    9,
+    10,
+    14,
+    17,
+    20,
+    21
+   ]
+  },
+  "talon_rows": [
+   [
+    6,
+    30
+   ],
+   [
+    30,
+    16
+   ],
+   [
+    30,
+    16
+   ]
+  ],
+  "final": {
+   "declarer": "Béla",
+   "contract": "4 ász Ulti",
+   "trump": 1
+  },
+  "kmult": [
+   {
+    "asz4": 2
+   },
+   {},
+   {
+    "asz4": 2
+   }
+  ],
+  "tricks_in_text": 3,
+  "tricks": [],
+  "status": "licit-csak",
+  "steps": [
+   {
+    "player": "Albert",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 3
+   },
+   {
+    "player": "Béla",
+    "contract": "4 ász Ulti",
+    "ci": 12,
+    "trump": 1
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "28": {
+  "example": 28,
+  "status": "hiba",
+  "issues": [
+   "a licit-lépések nem nyerhetők ki"
+  ]
+ },
+ "29": {
+  "example": 29,
+  "status": "hiba",
+  "issues": [
+   "a licit-lépések nem nyerhetők ki"
+  ]
+ },
+ "30": {
+  "example": 30,
+  "issues": [
+   "5. ütés: Béla '28' -> zöld VIII (kétértelmű)"
+  ],
+  "tricks_played": 10,
+  "dealer": "Dénes",
+  "order": [
+   "Albert",
+   "Béla",
+   "Csaba"
+  ],
+  "initial": {
+   "Albert": [
+    0,
+    2,
+    14,
+    15,
+    19,
+    21,
+    22,
+    23,
+    26,
+    28
+   ],
+   "Béla": [
+    8,
+    16,
+    17,
+    18,
+    20,
+    24,
+    25,
+    27,
+    29,
+    30
+   ],
+   "Csaba": [
+    1,
+    3,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    13,
+    31
+   ]
+  },
+  "talon_rows": [
+   [
+    4,
+    12
+   ],
+   [
+    28,
+    26
+   ],
+   [
+    28,
+    26
+   ]
+  ],
+  "final": {
+   "declarer": "Csaba",
+   "contract": "Piros 40-100",
+   "trump": 0
+  },
+  "kmult": [
+   {
+    "c40": 2
+   },
+   {
+    "c40": 2
+   },
+   {}
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Csaba",
+      13
+     ],
+     [
+      "Albert",
+      14
+     ],
+     [
+      "Béla",
+      8
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Albert",
+      23
+     ],
+     [
+      "Béla",
+      16
+     ],
+     [
+      "Csaba",
+      1
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Csaba",
+      10
+     ],
+     [
+      "Albert",
+      12
+     ],
+     [
+      "Béla",
+      27
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Albert",
+      21
+     ],
+     [
+      "Béla",
+      18
+     ],
+     [
+      "Csaba",
+      5
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Csaba",
+      9
+     ],
+     [
+      "Albert",
+      15
+     ],
+     [
+      "Béla",
+      17
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Albert",
+      22
+     ],
+     [
+      "Béla",
+      20
+     ],
+     [
+      "Csaba",
+      6
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Csaba",
+      7
+     ],
+     [
+      "Albert",
+      2
+     ],
+     [
+      "Béla",
+      25
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Csaba",
+      31
+     ],
+     [
+      "Albert",
+      4
+     ],
+     [
+      "Béla",
+      29
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Albert",
+      19
+     ],
+     [
+      "Béla",
+      30
+     ],
+     [
+      "Csaba",
+      3
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Csaba",
+      11
+     ],
+     [
+      "Albert",
+      0
+     ],
+     [
+      "Béla",
+      24
+     ]
+    ],
+    "winner": "Albert"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": -40,
+   "per_opponent": [
+    20,
+    20
+   ],
+   "rows": [
+    {
+     "k": "c40",
+     "v": 8,
+     "win": false,
+     "delta": -8
+    },
+    {
+     "k": null,
+     "v": 0,
+     "win": false,
+     "delta": -4
+    }
+   ]
+  },
+  "book_net": 20,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Albert",
+    "contract": "40-100",
+    "ci": 2,
+    "trump": 2
+   },
+   {
+    "player": "Csaba",
+    "contract": "Piros 40-100",
+    "ci": 10,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "8": {
+  "example": 8,
+  "issues": [],
+  "tricks_played": 10,
+  "dealer": "Albert",
+  "order": [
+   "Béla",
+   "Csaba",
+   "Dénes"
+  ],
+  "initial": {
+   "Béla": [
+    1,
+    3,
+    13,
+    16,
+    20,
+    21,
+    22,
+    28,
+    29,
+    31
+   ],
+   "Csaba": [
+    8,
+    9,
+    11,
+    14,
+    15,
+    17,
+    18,
+    24,
+    25,
+    26
+   ],
+   "Dénes": [
+    0,
+    5,
+    6,
+    7,
+    10,
+    12,
+    19,
+    23,
+    27,
+    30
+   ]
+  },
+  "talon_rows": [
+   [
+    4,
+    2
+   ],
+   [
+    29,
+    28
+   ],
+   [
+    18,
+    17
+   ],
+   [
+    12,
+    10
+   ]
+  ],
+  "final": {
+   "declarer": "Dénes",
+   "contract": "Piros 40-100 ulti",
+   "trump": 0
+  },
+  "kmult": [
+   {
+    "ulti": 2,
+    "c40": 2
+   },
+   {
+    "ulti": 2,
+    "c40": 2
+   },
+   {}
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Dénes",
+      6
+     ],
+     [
+      "Béla",
+      3
+     ],
+     [
+      "Csaba",
+      15
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Béla",
+      20
+     ],
+     [
+      "Csaba",
+      24
+     ],
+     [
+      "Dénes",
+      23
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Dénes",
+      30
+     ],
+     [
+      "Béla",
+      31
+     ],
+     [
+      "Csaba",
+      25
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Béla",
+      13
+     ],
+     [
+      "Csaba",
+      14
+     ],
+     [
+      "Dénes",
+      5
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Dénes",
+      19
+     ],
+     [
+      "Béla",
+      16
+     ],
+     [
+      "Csaba",
+      26
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Dénes",
+      18
+     ],
+     [
+      "Béla",
+      21
+     ],
+     [
+      "Csaba",
+      11
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Béla",
+      22
+     ],
+     [
+      "Csaba",
+      8
+     ],
+     [
+      "Dénes",
+      17
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Béla",
+      1
+     ],
+     [
+      "Csaba",
+      9
+     ],
+     [
+      "Dénes",
+      7
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Dénes",
+      27
+     ],
+     [
+      "Béla",
+      2
+     ],
+     [
+      "Csaba",
+      28
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Béla",
+      4
+     ],
+     [
+      "Csaba",
+      29
+     ],
+     [
+      "Dénes",
+      0
+     ]
+    ],
+    "winner": "Béla"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": -80,
+   "per_opponent": [
+    40,
+    40
+   ],
+   "rows": [
+    {
+     "k": "c40",
+     "v": 8,
+     "win": false,
+     "delta": -8
+    },
+    {
+     "k": "ulti",
+     "v": 8,
+     "win": false,
+     "delta": -16
+    }
+   ]
+  },
+  "book_net": 40,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Béla",
+    "contract": "Parti",
+    "ci": 0,
+    "trump": 2
+   },
+   {
+    "player": "Csaba",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 1
+   },
+   {
+    "player": "Dénes",
+    "contract": "Piros 40-100 ulti",
+    "ci": 31,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "4/5"
+ },
+ "9": {
+  "example": 9,
+  "issues": [
+   "4. ütés: Csaba 'PT' -> piros VII (kétértelmű)",
+   "9. ütés: Albert 'szlap' -> makk felső (kétértelmű)"
+  ],
+  "tricks_played": 10,
+  "dealer": "Dénes",
+  "order": [
+   "Albert",
+   "Béla",
+   "Csaba"
+  ],
+  "initial": {
+   "Albert": [
+    1,
+    3,
+    4,
+    6,
+    7,
+    25,
+    26,
+    28,
+    29,
+    30
+   ],
+   "Béla": [
+    11,
+    12,
+    15,
+    17,
+    19,
+    21,
+    22,
+    24,
+    27,
+    31
+   ],
+   "Csaba": [
+    0,
+    5,
+    8,
+    9,
+    13,
+    14,
+    16,
+    18,
+    20,
+    23
+   ]
+  },
+  "talon_rows": [
+   [
+    2,
+    10
+   ],
+   [
+    2,
+    10
+   ],
+   [
+    2,
+    24
+   ]
+  ],
+  "final": {
+   "declarer": "Béla",
+   "contract": "40-100",
+   "trump": 2
+  },
+  "kmult": [
+   {
+    "c40": 2
+   },
+   {},
+   {
+    "c40": 2
+   }
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Béla",
+      15
+     ],
+     [
+      "Csaba",
+      8
+     ],
+     [
+      "Albert",
+      25
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Béla",
+      11
+     ],
+     [
+      "Csaba",
+      9
+     ],
+     [
+      "Albert",
+      26
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Béla",
+      12
+     ],
+     [
+      "Csaba",
+      13
+     ],
+     [
+      "Albert",
+      7
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Csaba",
+      0
+     ],
+     [
+      "Albert",
+      4
+     ],
+     [
+      "Béla",
+      17
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Béla",
+      10
+     ],
+     [
+      "Csaba",
+      14
+     ],
+     [
+      "Albert",
+      3
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Csaba",
+      5
+     ],
+     [
+      "Albert",
+      6
+     ],
+     [
+      "Béla",
+      21
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Béla",
+      31
+     ],
+     [
+      "Csaba",
+      20
+     ],
+     [
+      "Albert",
+      28
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Csaba",
+      18
+     ],
+     [
+      "Albert",
+      1
+     ],
+     [
+      "Béla",
+      19
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Béla",
+      27
+     ],
+     [
+      "Csaba",
+      16
+     ],
+     [
+      "Albert",
+      29
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Csaba",
+      23
+     ],
+     [
+      "Albert",
+      30
+     ],
+     [
+      "Béla",
+      22
+     ]
+    ],
+    "winner": "Csaba"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": -16,
+   "per_opponent": [
+    8,
+    8
+   ],
+   "rows": [
+    {
+     "k": "c40",
+     "v": 4,
+     "win": false,
+     "delta": -4
+    }
+   ]
+  },
+  "book_net": 8,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Albert",
+    "contract": "Piros parti",
+    "ci": 1,
+    "trump": 0
+   },
+   {
+    "player": "Béla",
+    "contract": "40-100",
+    "ci": 2,
+    "trump": 2
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "10": {
+  "example": 10,
+  "issues": [],
+  "tricks_played": 10,
+  "dealer": "Albert",
+  "order": [
+   "Béla",
+   "Csaba",
+   "Dénes"
+  ],
+  "initial": {
+   "Béla": [
+    8,
+    9,
+    10,
+    11,
+    14,
+    24,
+    25,
+    28,
+    29,
+    31
+   ],
+   "Csaba": [
+    0,
+    1,
+    3,
+    5,
+    12,
+    13,
+    16,
+    19,
+    23,
+    30
+   ],
+   "Dénes": [
+    2,
+    4,
+    7,
+    15,
+    17,
+    18,
+    20,
+    21,
+    26,
+    27
+   ]
+  },
+  "talon_rows": [
+   [
+    6,
+    22
+   ],
+   [
+    28,
+    22
+   ],
+   [
+    28,
+    12
+   ]
+  ],
+  "final": {
+   "declarer": "Csaba",
+   "contract": "Piros ulti",
+   "trump": 0
+  },
+  "kmult": [
+   {},
+   {},
+   {}
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Csaba",
+      5
+     ],
+     [
+      "Dénes",
+      7
+     ],
+     [
+      "Béla",
+      6
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Dénes",
+      21
+     ],
+     [
+      "Béla",
+      8
+     ],
+     [
+      "Csaba",
+      23
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Csaba",
+      13
+     ],
+     [
+      "Dénes",
+      15
+     ],
+     [
+      "Béla",
+      11
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Dénes",
+      20
+     ],
+     [
+      "Béla",
+      9
+     ],
+     [
+      "Csaba",
+      19
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Csaba",
+      1
+     ],
+     [
+      "Dénes",
+      2
+     ],
+     [
+      "Béla",
+      31
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Dénes",
+      18
+     ],
+     [
+      "Béla",
+      24
+     ],
+     [
+      "Csaba",
+      22
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Csaba",
+      3
+     ],
+     [
+      "Dénes",
+      4
+     ],
+     [
+      "Béla",
+      10
+     ]
+    ],
+    "winner": "Csaba"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Csaba",
+      30
+     ],
+     [
+      "Dénes",
+      27
+     ],
+     [
+      "Béla",
+      25
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Dénes",
+      17
+     ],
+     [
+      "Béla",
+      29
+     ],
+     [
+      "Csaba",
+      16
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Dénes",
+      26
+     ],
+     [
+      "Béla",
+      14
+     ],
+     [
+      "Csaba",
+      0
+     ]
+    ],
+    "winner": "Csaba"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": 12,
+   "per_opponent": [
+    -6,
+    -6
+   ],
+   "rows": [
+    {
+     "k": "parti",
+     "v": 2,
+     "win": false,
+     "delta": -2
+    },
+    {
+     "k": "ulti",
+     "v": 8,
+     "win": true,
+     "delta": 8
+    }
+   ]
+  },
+  "book_net": -6,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Béla",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 1
+   },
+   {
+    "player": "Csaba",
+    "contract": "Piros ulti",
+    "ci": 14,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "11": {
+  "example": 11,
+  "issues": [],
+  "tricks_played": 10,
+  "dealer": "Csaba",
+  "order": [
+   "Dénes",
+   "Albert",
+   "Béla"
+  ],
+  "initial": {
+   "Dénes": [
+    2,
+    5,
+    6,
+    8,
+    17,
+    18,
+    22,
+    24,
+    28,
+    30
+   ],
+   "Albert": [
+    1,
+    4,
+    7,
+    9,
+    13,
+    14,
+    16,
+    21,
+    25,
+    26
+   ],
+   "Béla": [
+    0,
+    3,
+    11,
+    15,
+    19,
+    20,
+    23,
+    27,
+    29,
+    31
+   ]
+  },
+  "talon_rows": [
+   [
+    12,
+    10
+   ],
+   [
+    30,
+    22
+   ],
+   [
+    22,
+    20
+   ]
+  ],
+  "final": {
+   "declarer": "Béla",
+   "contract": "Piros 20-100",
+   "trump": 0
+  },
+  "kmult": [
+   {},
+   {},
+   {}
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Béla",
+      31
+     ],
+     [
+      "Dénes",
+      24
+     ],
+     [
+      "Albert",
+      25
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Béla",
+      27
+     ],
+     [
+      "Dénes",
+      28
+     ],
+     [
+      "Albert",
+      26
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Béla",
+      30
+     ],
+     [
+      "Dénes",
+      2
+     ],
+     [
+      "Albert",
+      4
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Albert",
+      14
+     ],
+     [
+      "Béla",
+      15
+     ],
+     [
+      "Dénes",
+      8
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Béla",
+      29
+     ],
+     [
+      "Dénes",
+      5
+     ],
+     [
+      "Albert",
+      7
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Albert",
+      13
+     ],
+     [
+      "Béla",
+      11
+     ],
+     [
+      "Dénes",
+      10
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Béla",
+      23
+     ],
+     [
+      "Dénes",
+      17
+     ],
+     [
+      "Albert",
+      16
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Béla",
+      19
+     ],
+     [
+      "Dénes",
+      18
+     ],
+     [
+      "Albert",
+      21
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Béla",
+      3
+     ],
+     [
+      "Dénes",
+      6
+     ],
+     [
+      "Albert",
+      1
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Béla",
+      0
+     ],
+     [
+      "Dénes",
+      12
+     ],
+     [
+      "Albert",
+      9
+     ]
+    ],
+    "winner": "Béla"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": 32,
+   "per_opponent": [
+    -16,
+    -16
+   ],
+   "rows": [
+    {
+     "k": "c20",
+     "v": 12,
+     "win": true,
+     "delta": 12
+    },
+    {
+     "k": null,
+     "v": 0,
+     "win": true,
+     "delta": 4
+    }
+   ]
+  },
+  "book_net": -16,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Dénes",
+    "contract": "Parti",
+    "ci": 0,
+    "trump": 3
+   },
+   {
+    "player": "Béla",
+    "contract": "Piros 20-100",
+    "ci": 21,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "12": {
+  "example": 12,
+  "issues": [
+   "1. ütés: a szöveg szerint Csaba hív, a szabályok szerint Albert"
+  ],
+  "tricks_played": 0,
+  "dealer": "Béla",
+  "order": [
+   "Csaba",
+   "Dénes",
+   "Albert"
+  ],
+  "initial": {
+   "Csaba": [
+    10,
+    11,
+    13,
+    14,
+    24,
+    25,
+    26,
+    27,
+    30,
+    31
+   ],
+   "Dénes": [
+    5,
+    15,
+    16,
+    18,
+    19,
+    21,
+    22,
+    23,
+    28,
+    29
+   ],
+   "Albert": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    17
+   ]
+  },
+  "talon_rows": [
+   [
+    12,
+    20
+   ],
+   [
+    12,
+    20
+   ],
+   [
+    29,
+    28
+   ],
+   [
+    29,
+    28
+   ]
+  ],
+  "final": {
+   "declarer": "Albert",
+   "contract": "Terített betli",
+   "trump": -1
+  },
+  "kmult": [
+   {},
+   {},
+   {}
+  ],
+  "tricks_in_text": 4,
+  "tricks": [],
+  "status": "licit-csak",
+  "steps": [
+   {
+    "player": "Csaba",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 3
+   },
+   {
+    "player": "Dénes",
+    "contract": "40-100 ulti",
+    "ci": 9,
+    "trump": 2
+   },
+   {
+    "player": "Albert",
+    "contract": "Terített betli",
+    "ci": 41,
+    "trump": -1
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "13": {
+  "example": 13,
+  "issues": [],
+  "tricks_played": 10,
+  "dealer": "Csaba",
+  "order": [
+   "Dénes",
+   "Albert",
+   "Béla"
+  ],
+  "initial": {
+   "Dénes": [
+    0,
+    1,
+    3,
+    6,
+    10,
+    12,
+    21,
+    23,
+    26,
+    31
+   ],
+   "Albert": [
+    4,
+    8,
+    9,
+    14,
+    15,
+    16,
+    17,
+    19,
+    22,
+    29
+   ],
+   "Béla": [
+    2,
+    5,
+    7,
+    11,
+    13,
+    18,
+    20,
+    24,
+    25,
+    28
+   ]
+  },
+  "talon_rows": [
+   [
+    27,
+    30
+   ],
+   [
+    12,
+    10
+   ],
+   [
+    29,
+    17
+   ],
+   [
+    21,
+    17
+   ]
+  ],
+  "final": {
+   "declarer": "Dénes",
+   "contract": "Piros ulti",
+   "trump": 0
+  },
+  "kmult": [
+   {},
+   {
+    "ulti": 4
+   },
+   {
+    "ulti": 4
+   }
+  ],
+  "tricks_in_text": 10,
+  "tricks": [
+   {
+    "n": 1,
+    "plays": [
+     [
+      "Dénes",
+      31
+     ],
+     [
+      "Albert",
+      4
+     ],
+     [
+      "Béla",
+      24
+     ]
+    ],
+    "winner": "Albert"
+   },
+   {
+    "n": 2,
+    "plays": [
+     [
+      "Albert",
+      16
+     ],
+     [
+      "Béla",
+      20
+     ],
+     [
+      "Dénes",
+      23
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 3,
+    "plays": [
+     [
+      "Dénes",
+      27
+     ],
+     [
+      "Albert",
+      8
+     ],
+     [
+      "Béla",
+      25
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 4,
+    "plays": [
+     [
+      "Dénes",
+      30
+     ],
+     [
+      "Albert",
+      9
+     ],
+     [
+      "Béla",
+      28
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 5,
+    "plays": [
+     [
+      "Dénes",
+      29
+     ],
+     [
+      "Albert",
+      10
+     ],
+     [
+      "Béla",
+      2
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 6,
+    "plays": [
+     [
+      "Béla",
+      13
+     ],
+     [
+      "Dénes",
+      1
+     ],
+     [
+      "Albert",
+      12
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 7,
+    "plays": [
+     [
+      "Dénes",
+      26
+     ],
+     [
+      "Albert",
+      15
+     ],
+     [
+      "Béla",
+      5
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 8,
+    "plays": [
+     [
+      "Béla",
+      11
+     ],
+     [
+      "Dénes",
+      3
+     ],
+     [
+      "Albert",
+      14
+     ]
+    ],
+    "winner": "Dénes"
+   },
+   {
+    "n": 9,
+    "plays": [
+     [
+      "Dénes",
+      6
+     ],
+     [
+      "Albert",
+      19
+     ],
+     [
+      "Béla",
+      7
+     ]
+    ],
+    "winner": "Béla"
+   },
+   {
+    "n": 10,
+    "plays": [
+     [
+      "Béla",
+      18
+     ],
+     [
+      "Dénes",
+      0
+     ],
+     [
+      "Albert",
+      22
+     ]
+    ],
+    "winner": "Dénes"
+   }
+  ],
+  "engine": {
+   "declarer_net_total": 68,
+   "per_opponent": [
+    -34,
+    -34
+   ],
+   "rows": [
+    {
+     "k": "parti",
+     "v": 2,
+     "win": true,
+     "delta": 2
+    },
+    {
+     "k": "ulti",
+     "v": 8,
+     "win": true,
+     "delta": 8
+    }
+   ]
+  },
+  "book_net": -34,
+  "match": true,
+  "status": "teljes",
+  "steps": [
+   {
+    "player": "Dénes",
+    "contract": "Piros parti",
+    "ci": 1,
+    "trump": 0
+   },
+   {
+    "player": "Albert",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 1
+   },
+   {
+    "player": "Dénes",
+    "contract": "Piros ulti",
+    "ci": 14,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ },
+ "14": {
+  "example": 14,
+  "issues": [
+   "1. ütés: Csaba 'Pf7M—T' -> piros VII (kétértelmű)",
+   "1. ütés: Dénes 'Tal' -> tök alsó szabálytalan"
+  ],
+  "tricks_played": 0,
+  "dealer": "Albert",
+  "order": [
+   "Béla",
+   "Csaba",
+   "Dénes"
+  ],
+  "initial": {
+   "Béla": [
+    1,
+    8,
+    9,
+    10,
+    11,
+    15,
+    25,
+    26,
+    28,
+    30
+   ],
+   "Csaba": [
+    0,
+    5,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "Dénes": [
+    3,
+    4,
+    6,
+    7,
+    12,
+    13,
+    14,
+    24,
+    27,
+    31
+   ]
+  },
+  "talon_rows": [
+   [
+    2,
+    29
+   ],
+   [
+    2,
+    1
+   ],
+   [
+    2,
+    1
+   ]
+  ],
+  "final": {
+   "declarer": "Csaba",
+   "contract": "Terített betli",
+   "trump": -1
+  },
+  "kmult": [
+   {},
+   {},
+   {}
+  ],
+  "tricks_in_text": 3,
+  "tricks": [],
+  "status": "licit-csak",
+  "steps": [
+   {
+    "player": "Béla",
+    "contract": "Ulti",
+    "ci": 4,
+    "trump": 1
+   },
+   {
+    "player": "Csaba",
+    "contract": "Terített betli",
+    "ci": 41,
+    "trump": 0
+   }
+  ],
+  "steps_votes": "5/5"
+ }
+}

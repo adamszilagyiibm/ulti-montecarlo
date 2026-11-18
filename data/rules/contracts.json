@@ -1,0 +1,456 @@
+[
+ {
+  "name": "Parti",
+  "val": 1,
+  "comps": {
+   "parti": 1
+  },
+  "kind": "trump",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "Piros parti",
+  "val": 2,
+  "comps": {
+   "parti": 2
+  },
+  "kind": "trump",
+  "red": true,
+  "open": false
+ },
+ {
+  "name": "40-100",
+  "val": 4,
+  "comps": {
+   "c40": 4
+  },
+  "kind": "trump",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "Ulti",
+  "val": 5,
+  "comps": {
+   "parti": 1,
+   "ulti": 4
+  },
+  "kind": "trump",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "Betli",
+  "val": 5,
+  "comps": {
+   "betli": 5
+  },
+  "kind": "betli",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "Durchmars",
+  "val": 6,
+  "comps": {
+   "durch": 6
+  },
+  "kind": "trump",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "Szín nélküli durchmars",
+  "val": 6,
+  "comps": {
+   "durch": 6
+  },
+  "kind": "durch",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "40-100 ulti",
+  "val": 8,
+  "comps": {
+   "c40": 4,
+   "ulti": 4
+  },
+  "kind": "trump",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "20-100",
+  "val": 8,
+  "comps": {
+   "c20": 8
+  },
+  "kind": "trump",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "Piros 40-100",
+  "val": 8,
+  "comps": {
+   "c40": 8
+  },
+  "kind": "trump",
+  "red": true,
+  "open": false
+ },
+ {
+  "name": "Piros ulti",
+  "val": 10,
+  "comps": {
+   "parti": 2,
+   "ulti": 8
+  },
+  "kind": "trump",
+  "red": true,
+  "open": false
+ },
+ {
+  "name": "40-100 durchmars",
+  "val": 10,
+  "comps": {
+   "c40": 4,
+   "durch": 6
+  },
+  "kind": "trump",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "Ulti durchmars",
+  "val": 10,
+  "comps": {
+   "ulti": 4,
+   "durch": 6
+  },
+  "kind": "trump",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "Piros betli",
+  "val": 10,
+  "comps": {
+   "betli": 10
+  },
+  "kind": "betli",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "20-100 ulti",
+  "val": 12,
+  "comps": {
+   "c20": 8,
+   "ulti": 4
+  },
+  "kind": "trump",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "Piros szín nélküli durchmars",
+  "val": 12,
+  "comps": {
+   "durch": 12
+  },
+  "kind": "durch",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "Piros durchmars",
+  "val": 12,
+  "comps": {
+   "durch": 12
+  },
+  "kind": "trump",
+  "red": true,
+  "open": false
+ },
+ {
+  "name": "Terített durchmars",
+  "val": 12,
+  "comps": {
+   "durch": 12
+  },
+  "kind": "trump",
+  "red": false,
+  "open": true
+ },
+ {
+  "name": "40-100 ulti durchmars",
+  "val": 14,
+  "comps": {
+   "c40": 4,
+   "ulti": 4,
+   "durch": 6
+  },
+  "kind": "trump",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "20-100 durchmars",
+  "val": 14,
+  "comps": {
+   "c20": 8,
+   "durch": 6
+  },
+  "kind": "trump",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "40-100 terített durchmars",
+  "val": 16,
+  "comps": {
+   "c40": 4,
+   "durch": 12
+  },
+  "kind": "trump",
+  "red": false,
+  "open": true
+ },
+ {
+  "name": "Ulti terített durchmars",
+  "val": 16,
+  "comps": {
+   "ulti": 4,
+   "durch": 12
+  },
+  "kind": "trump",
+  "red": false,
+  "open": true
+ },
+ {
+  "name": "Piros 40-100 ulti",
+  "val": 16,
+  "comps": {
+   "c40": 8,
+   "ulti": 8
+  },
+  "kind": "trump",
+  "red": true,
+  "open": false
+ },
+ {
+  "name": "Piros 20-100",
+  "val": 16,
+  "comps": {
+   "c20": 16
+  },
+  "kind": "trump",
+  "red": true,
+  "open": false
+ },
+ {
+  "name": "20-100 ulti durchmars",
+  "val": 18,
+  "comps": {
+   "c20": 8,
+   "ulti": 4,
+   "durch": 6
+  },
+  "kind": "trump",
+  "red": false,
+  "open": false
+ },
+ {
+  "name": "40-100 ulti terített durchmars",
+  "val": 20,
+  "comps": {
+   "c40": 4,
+   "ulti": 4,
+   "durch": 12
+  },
+  "kind": "trump",
+  "red": false,
+  "open": true
+ },
+ {
+  "name": "20-100 terített durchmars",
+  "val": 20,
+  "comps": {
+   "c20": 8,
+   "durch": 12
+  },
+  "kind": "trump",
+  "red": false,
+  "open": true
+ },
+ {
+  "name": "Piros 40-100 durchmars",
+  "val": 20,
+  "comps": {
+   "c40": 8,
+   "durch": 12
+  },
+  "kind": "trump",
+  "red": true,
+  "open": false
+ },
+ {
+  "name": "Piros ulti durchmars",
+  "val": 20,
+  "comps": {
+   "ulti": 8,
+   "durch": 12
+  },
+  "kind": "trump",
+  "red": true,
+  "open": false
+ },
+ {
+  "name": "Terített betli",
+  "val": 20,
+  "comps": {
+   "betli": 20
+  },
+  "kind": "betli",
+  "red": false,
+  "open": true
+ },
+ {
+  "name": "20-100 ulti terített durchmars",
+  "val": 24,
+  "comps": {
+   "c20": 8,
+   "ulti": 4,
+   "durch": 12
+  },
+  "kind": "trump",
+  "red": false,
+  "open": true
+ },
+ {
+  "name": "Piros 20-100 ulti",
+  "val": 24,
+  "comps": {
+   "c20": 16,
+   "ulti": 8
+  },
+  "kind": "trump",
+  "red": true,
+  "open": false
+ },
+ {
+  "name": "Szín nélküli terített durchmars",
+  "val": 24,
+  "comps": {
+   "durch": 24
+  },
+  "kind": "durch",
+  "red": false,
+  "open": true
+ },
+ {
+  "name": "Piros terített durchmars",
+  "val": 24,
+  "comps": {
+   "durch": 24
+  },
+  "kind": "trump",
+  "red": true,
+  "open": true
+ },
+ {
+  "name": "Piros 40-100 ulti durchmars",
+  "val": 28,
+  "comps": {
+   "c40": 8,
+   "ulti": 8,
+   "durch": 12
+  },
+  "kind": "trump",
+  "red": true,
+  "open": false
+ },
+ {
+  "name": "Piros 20-100 durchmars",
+  "val": 28,
+  "comps": {
+   "c20": 16,
+   "durch": 12
+  },
+  "kind": "trump",
+  "red": true,
+  "open": false
+ },
+ {
+  "name": "Piros 40-100 terített durchmars",
+  "val": 32,
+  "comps": {
+   "c40": 8,
+   "durch": 24
+  },
+  "kind": "trump",
+  "red": true,
+  "open": true
+ },
+ {
+  "name": "Piros ulti terített durchmars",
+  "val": 32,
+  "comps": {
+   "ulti": 8,
+   "durch": 24
+  },
+  "kind": "trump",
+  "red": true,
+  "open": true
+ },
+ {
+  "name": "Piros 20-100 ulti durchmars",
+  "val": 36,
+  "comps": {
+   "c20": 16,
+   "ulti": 8,
+   "durch": 12
+  },
+  "kind": "trump",
+  "red": true,
+  "open": false
+ },
+ {
+  "name": "Piros 40-100 ulti terített durchmars",
+  "val": 40,
+  "comps": {
+   "c40": 8,
+   "ulti": 8,
+   "durch": 24
+  },
+  "kind": "trump",
+  "red": true,
+  "open": true
+ },
+ {
+  "name": "Piros 20-100 terített durchmars",
+  "val": 40,
+  "comps": {
+   "c20": 16,
+   "durch": 24
+  },
+  "kind": "trump",
+  "red": true,
+  "open": true
+ },
+ {
+  "name": "Piros 20-100 ulti terített durchmars",
+  "val": 48,
+  "comps": {
+   "c20": 16,
+   "ulti": 8,
+   "durch": 24
+  },
+  "kind": "trump",
+  "red": true,
+  "open": true
+ }
+]

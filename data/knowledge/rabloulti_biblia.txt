@@ -1,0 +1,815 @@
+Ez az írás Jánoska Antal, Levente József és Zsigri Gyula Rablóulti című könyvének kivonatolt változata. Gépelt, nem szkennelt, így a képek nem kerültek át ebbe a verzióba, a példaleosztásokat szavakban ismertetem. Főleg a rablóulti szabályait és a játék módját tárgyaló részeket válogattam ki, a játék eredetét és egyéb kultúrtörténeti érdekességeket elhagytam. A szöveget némely helyen önkényesen átjavítottam, főleg az eredeti magyartalansága miatt, ilyen javítás például, hogy az elosztás szót mindig leosztásra írtam át, elosztani a zsákmányt vagy a társadalmi közvagyont szokás. Bocs a szerzőktől.
+
+A rablóulti szabályai:
+
+A rablóulti neve a játék jellegzetes vonásaira utal. Egyrészt az ulti (ultimó) az utolsó ütés elvitelét jelenti, mely a játék egyik feladata/megakadályozása lehet. A rablás pedig nem egyfajta hazárd fosztogatásra vonatkozik, hanem a talon és a felvételi jog egymástól történő elrablását jelenti. Összeszokott társaságok és az ultiklubok jól begyakorolt szabályok szerint játszanak. Új társaságba ülve azonban – a későbbi vitákat elkerülve – célszerű az ulti szabályaiban a játék kezdete előtt megegyezni.
+A rablóultit három vagy négy személy játszhatja. Ha négyen ülnek az asztalnál, egy adott játékban csak hárman vesznek részt. Az osztó kimarad, személye jobbra tartással osztásonként változik.
+A rablóulti komplex ütéses játék. A résztvevők egy partiban akár többféle vállalkozás teljesítését is célul tűzhetik ki. A játék minden mozzanata jobbra tartással folyik, tehát az óramutató járásával ellentétesen.
+Lejátszásnál a lapok saját színükben képesek a náluk gyengébbeket megütni, az aduszín viszont üt más színeket is. A lapok hierarchiája: VII, VIII, IX, alsó, felső, király, X és ász. Tehát a leggyengébb lap a VII, a legerősebb az ász. Az adu nélküli játékokban ez a sorrend megváltozik az alábbiak szerint: VII, VIII, IX, X, alsó, felső, király, ász. A X rangban átkerül a IX és az alsó közé. Ütést szerez az a játékos, aki a hívott színben vagy aduszínben a legrangosabb kártyát tette ki. Az ütést szerző játékosé lesz a jog, hogy a következő ütéshez lapot hívjon.
+Ütések – összesen tíz – a lejátszásban szerezhetők. Minden ütésbe a kihívott lapra azonos színű, és ha van ilyen, rangban legmagasabb kártyát kell tenni. Ez a színadási és felülütési kötelezettség. Ha nincs a hívott lappal azonos színű kártyánk, adut kell tenni. Ha ez sincs, tetszés szerinti lap dobható. Amikor a hívott színre az előttünk ülő adut rakott, a hívott szín bármelyik kártyáját az ütésbe adhatjuk. Színhiány esetén adut kell tenni – szem előtt tartva a felülütési kötelezettséget. Ha nincs a kezünkben sem a hívott színből, sem az aduból, bármelyik kártya az ütésbe adható. Fontos szabály az ultiban, hogy a színadási és felülütési kényszer elmulasztása renonszvétség!
+
+
+
+
+
+Pontértéke az ász és X lapoknak van. Minden ütésben elvitt X és ász 10-10 pontot ér. Ha a parti megnyerése a cél, az utolsó ütés elviteléért is 10 pont jár. Így összesen 90 pont szerezhető. Ha valakinek a kezében azonos színű felső és király pár van – sok helyen ma is mariázsnak nevezik ezt –, első lapjának ütésbe adásakor bejelentheti. A bemondás aduszínben 40 pontot, más színekben 20 pontot ér. Aki megfeledkezik a bemondás közléséről, az elszámolásnál erre már nem tarthat igényt.
+A licittáblázatban szándékosan alkalmaztuk az ott olvasható, általánosan elterjedt szóhasználatot. A játékfokozatoknál a piros jelző esetenként a bemondás rangját vagy aduszínét jelzi. A terített kifejezés pedig mindenkor egyértelműen a vállalkozás rangját jelenti. Nem használjuk a „re” előtagot, mert az utóbbi időben a leírások két értelemben, egymásnak ellentmondva is használták. Az újításokat nem fogadta be a játékos-társadalom.
+A rablóultit kezdetektől fogva szigorú és következetes renonszszabályokkal kell játszani. Így szabálytalan játék esetén egyik felet sem érheti sérelem. Éppen ezért kimondhatjuk, hogy a rablóultiban minden renonsz, ami szabálytalan. A renonszot vétő játékos szó nélkül fizeti mindkét játékostársának az aktuális partiban bemondott vállalások díját.
+
+
+A játék célja
+
+Az egyik játékos, akit a továbbiakban felvevőnek nevezünk, egyedül játszik két ellenfelével szemben. A felvevő szerepe a licitálás során dől el, bemondott vállalásait igyekszik teljesíteni meghatározott jutalompontokért. Ellenfelei érdekközösséget alkotva céljainak elérését próbálják meggátolni. A felvevő két ellenfelétől nyerhet pontokat, veszteségét nekik fizeti külön-külön.
+A licittáblázatban felsoroltak közül lehet választani különféle nehézségű és díjazású vállalkozásokat.
+
+Ezeknek a céloknak az alaptípusai:
+Partinyerés: ütésekben több pont teljesítése az ellenfeleknél;
+Magasabb rangú változatai a 40-100 és a 20-100;
+Ultimó: az utolsó ütés elvitele a bejelentett szín VII lapjával;
+Betli: egyetlen ütést sem szerezni;
+Durchmars: minden ütés elvitele.
+
+A rablóultiban összetett vállalásokra is van lehetőség, melyekkel az alapismeretek leírása után foglalkozunk részletesen. A játékban két vállalás előzetes bejelentés nélkül is teljesíthető. Ezek a „csendes 100” és a „csendes ultimó”. Értékük a bemondott vállalások fele.
+A felvevő vállalását az ellenfelek bármelyike kontra bemondásával támadhatja. A kontrázás tulajdonképpen azt jelenti, hogy bemondója a felvevő megnevezett céljának megbuktatására vállalkozik, s ezzel kétszeresére emeli az aktuális játék díját. Kontrára a felvevő rekontrával válaszolhat négyszeres díjazásért. Lehetséges kontrafokozatok még az ellenfelek részéről a szubkontra (8x), a felvevő részéről a hirskontra (16x), megint az ellenfelektől a mordkontra (32x). A társasági rablóultiban a legmagasabb kontrafokozat a „fedáksári”, mely hatvannégyszeresére emeli az alapdíjat. Az esetleges kontrahatárban a játék elkezdése előtt kell megállapodni! Versenyjátékban a legmagasabb fokozat a rekontra.
+Egyes játékokban a kontrázás az ellenfelek részéről közösen számít, néhány játékban viszont külön-külön kell bejelenteni.
+
+A játék fázisai
+
+Helyválasztás
+Mint azt tapasztalni fogjuk, az ultijátékosok különböző képességűek, így nem lényegtelen, hogy a résztvevők milyen sorrendben foglalnak helyet a játékasztalnál. Az összeszokott társaságok a játékot a helyválasztás ceremóniájával kezdik. Ilyenkor laphúzással döntik el az ülési rendet, egyben az első osztó személyét is kijelölik. (A piros vagy a legmagasabb kártyát húzó oszt, vagy neki osztanak.)
+
+Osztás
+A mindenkori osztó a kártyacsomag alapos megkeverése után kötelezően elemelteti azt a tőle balra ülő játékossal. Így elkerülhető a gyanúja is, hogy az osztó számára kedvező lapokat keverjen a kártyacsomag aljára, és így jogtalan előnyhöz jusson. A keverést és az osztást úgy kell végezni, hogy a lapok képes oldala ne váljon láthatóvá. Természetesen ez vonatkozik a játék minden fázisára.
+Emelés után az osztó 7 lapot ad a tőle jobbra ülőnek, majd 5-5 lapot a másik játékosnak és magának. A második körben mindenki még 5-5 kártyát kap. A kiinduló helyzetben az első játékosnak 12, a többieknek 10 lapjuk lesz.
+Meg kell ismételni az osztást, amikor nem sikerült, megfelelő számú lapot adni a játékosoknak; ha bármelyik kártya képes oldala láthatóvá vált az osztás során; ha elmaradt az emelés. Helyi szokás lehet, hogy ilyenkor az osztó büntetést fizet.
+
+Licitálás
+Aki elsőként kapott kártyát az osztótól – 12 lap van a kezében – kötelezően felvevő szerepet vállal. Kártyái rendezése után felméri a lapjában rejlő lehetőségeket. Két, tetszése szerinti kártyát képükkel lefelé fordítva talonként helyez az asztal közepére és bemondja vállalását. Ha passzt mond, ezzel arra vállalkozik, hogy a bejelentett aduszínnel megnyeri a partit. A piros passz bemondója ugyanerre vállalkozik piros aduszínnel.
+Először a felvevőtől jobbra ülő, majd a továbbiakban minden sorra kerülő játékos két lehetőség közül választhat:
+•	Felveszi a talont, és újabb két lap letétele után a korábban elhangzottnál pontszámban értékesebb vállalkozást mond;
+•	Passzol, azaz nem akar felvevő lenni.
+
+Azt, aki a licitálásban szabálytalan vállalást mond – például a korábban elhangzottnál kisebb értékű vagy azzal azonos pontszámú vállalást jelent be –, figyelmeztetni kell tévedésére.
+A játék szellemében természetesen mindenkinek érdeke, hogy felvevőként vagy ellenfélként minél értékesebb vállalásokat teljesítve/megbuktatva nyereséggel fejezzen be egy-egy partit. Éppen ezért a felvevő szerepköre a licitálás során többször is változhat. Minden játékos saját belátása szerint vehet részt a licitálásban.
+Ha egy talon után ketten passzoltak, véget ér a licitálás. Felvevő lesz az a játékos, aki utolsóként nyilatkozott, illetve a talont az asztalra tette.
+Itt kell szólnunk az úgynevezett „önrablásról”. Egy játékos két társának passzolása után visszaveheti saját talonját azzal a feltétellel, hogy az általa bemondottnál magasabb rangú vállalkozást kell mondania. Helyi szokás lehet, hogy az önrablást nem engedik meg.
+Különleges taktikai eset, amikor egy játékos passzol, viszont később ismét beavatkozik a licitálásba, ha ismét rá kerül sor. Házi szabály lehet ennek a magatartásnak a tiltása, legtöbb helyen azonban elfogadják.
+Ha a licitálás befejeződött, a talon lapjait félre kell tenni és a játék végéig így megőrizni. A talont a lejátszás fázisában egyik játékos sem nézheti meg. A talonba letett ász és X az ellenfelek ütésének számít.
+
+Lejátszás
+A licitálásban kialakultak a szerepkörök: ki lesz a felvevő, és kik lesznek ellenfelei. Az első ütéshez a felvevő fog lapot hívni. Ezzel egy időben köteles bemondani az adu színét, esetleges bemondásait (20, 40). Első lapjuk kiadásakor az ellenfelek is nyilatkozhatnak bemondásaikról, kontrázási szándékukról. A kontrázásra a felvevő rekontrával válaszolhat. Újabb keletű szokás, hogy meg is határozzák a kontrafokozat magasságát a rekontrával. Az első ütés elvitele után további bemondásokra nincs lehetőség.
+Az ütésbe kerülő lapokat szigorú rendet tartva kell kitenni. A hívott lapra a jobbra ülő, majd a játékos rakhatja ki kártyáját. A lapkiadási sorrend elvétése renonsz!
+Mint már leírtuk, a lejátszásnál színadási és felülütési kötelezettség van. Ennek elmulasztása renonsz, a játék azonnal véget ér. Aki ütést szerzett, képükkel lefelé fordítva maga elé helyezi az elvitt lapokat. Célszerű ezeket a kártyákat úgy kezelni, hogy vitás esetekben az ütésbe tett lapok ellenőrizhetők legyenek. Egyes társaságok megengedik, hogy a legutóbbi vagy minden ütés tartalma visszanézhető legyen. Nem helyeseljük ezt a gyakorlatot, hiszen egy közepes képességű játékostól is elvárható, hogy az ütésbe került adulapok számát és a fontosabb kártyák sorsát figyelemmel kísérje.
+Ha játék közben nyilvánvalóvá vált, hogy a felvevő célja teljesült vagy elbukott, közös megegyezéssel a lapok összedobhatók, és készülhetünk a következő játékra.
+
+Elszámolás
+Az utolsó ütés elvitele után a játékosok közösen állapítják meg a végeredményt, és elszámolnak egymással. A felvevő két ellenfelétől kapja a jutalmat teljesített vállalkozásai szerinti értékben, és fizet mindkettőjüknek, ha veszített.
+Versenyeken a játékosok megszerzett pontjait pontozólapra vezetik. Az adatok helyességéért a kijelölt jegyzőkönyvvezető felel. A 15-24 osztásból álló sorozat végeredményét a játékosok aláírásukkal hitelesítik.
+Most vegyük sorra a rablóultiban lehetséges vállalkozásokat, azok jelentéstartalmát és pontértékét.
+
+A vállalások
+
+Egyszerű játék (parti, passz)
+Csak az első felvevő vállalkozhat arra, hogy bemondásaival és ütéseiben több pontot visz el, mint ellenfelei. Ő mondja be az adu színét.
+
+Díjazása: 
+
+
+
+Pontegyenlőség ebben a játékban nem lehetséges, hiszen a tízesek és ászok elvitelével 40-40 pont szerezhető, a bemondások 20-at vagy 40-et érnek és az utolsó ütés elviteléért 10 pont jár.
+A parti kontrája közös, kihat a kontrázó partnerére is.
+Piros passzt (második passzt) csak az első vagy a második felvevő mondhat. Ekkor hasonló játékcélok mellett az adu színe piros lesz.
+Ritka pillanat a rablóultiban, de vitára adhat okot, amikor valamelyik fél csak 40 és 20 bemondásokkal szerzett pontot, de ütést nem tudott elvinni a lejátszásnál. 90 ponttal így is a másik fél nyert. Csak bemondásokkal játszmát nyerni nem lehet!
+A felvevő játékos jogosult – amennyiben egyéb vállalás nem történt – a parti kétszeres díjának megfizetése mellett a lapokat eldobni. Az ellenfelek ezt a tényt kötelesek elfogadni. Az úgynevezett „játékfeladás” joga a piros szín bemondóját is megilleti. A versenyeken jól bevált gyakorlat, hogy a vállalás nélküli „sima” partit piros színben sem játsszák le.
+Ultimó bemondásánál külön számolják el a parti díját.
+Egyszerű partiban mindkét fél részéről cél lehet a 100 ütéspont elérése, azaz „csendesen” történő teljesítése. A csendes 100 díjazása egyszerű színekben 2 pont, piros színben 4 pont. Ultimó szintén teljesíthető akár a felvevő, akár ellenfelei részéről. Ennek díja egyszerű színekben 2, piros aduval 4 pont. Az ultimót csendesen el is lehet bukni!
+
+Példajáték
+Tekintettel arra, hogy egyedül maradtunk a licitálásban, lapunk értékesebb vállalkozás bemondására alkalmatlan. Arra viszont jó, hogy kis szerencsével megnyerjünk egy partit piros aduszínnel. Zöld 20-at tudunk bejelenteni, két ászunk és talán a tök X ütésnek tűnik. Ha utóbbit el is viszik, megüthetjük az ellenfelek makk ászát vagy tízesét. Az utolsó ütéssel biztosíthatjuk a győzelmet. Egyetlen veszélyt csak az a balszerencsés körülmény jelenthet, ha az ellenfelek tök 20-at mondanak be és elviszik a tök X-ünket.
+
+
+
+40-100
+A 40-100 bemondója arra vállalkozik, hogy a kezében lévő 40 bemondással ütéseiben 100 pontot visz el. Ellenkező esetben a vállalás elbukott. Az ellenfelek ütéseikben összesen három tízes értékű lapot szerezhetnek.
+
+A 40-100 értéke bemondva:
+
+
+
+Bemondás nélkül, csendesen:
+
+
+
+A 40-100 kontrája közös, kihat a kontrázó partnerére is. Nem tekinthető renonsznak, ha kényszerhelyzetben, 40 nélkül – aduszín felső-király pár birtoklása nélkül – vállalja a felvevő. Ilyenkor az ellenfelek egyike, akinél az aduszín felső vagy király lapja van, megkontrázza a 40-100-at.
+A 40-100 vállalásánál a játszmát külön nem díjazzák, mivel a vállalkozás itt maga a parti megnyerése. 20 bemondására egyik félnek sincs lehetősége.
+
+
+
+20-100
+A 20-100 bemondója arra vállalkozik, hogy a kezében lévő 20 bemondással együtt ütéseiben 100 pontot visz el. Az ellenfelek legfeljebb egy 10 pontos kártyát vihetnek el ütéseikben.
+
+A 20-100 értéke bemondva:
+
+
+
+Bemondás nélkül, csendesen:
+
+
+
+A 20-100 kontrája közös, kihat a kontrázó partnerére is. Nem tekinthető renonsznak, ha kényszerhelyzetben, 20 nélkül vállalja a felvevő. A 20-100 vállalásánál a játszmát nem díjazzák, mivel a vállalás itt maga a parti. 20 és 40 bemondására nincs lehetőség.
+20-100 játéknál aduszínben csendes ultimó bármelyik fél részéről teljesíthető.
+
+
+
+Vállalkozásunknak két veszélyes pontja van. Egyik az ellenfelek 3-0 aduelosztása, illetve a tök X-zel történő ütés pillanata. Utóbbi egyenlőtlen színelosztásnál elviheti az ütésbe csempészett makk X-et vagy makk ászt.
+
+Ultimó
+
+Az ultimó bemondója arra vállal kötelezettséget, hogy a kezében lévő, általa megnevezett adu VII-ével a tizedik, tehát utolsó ütést elviszi. Ha az utolsó ütésbe más adu is kerül, vagy a bemondó már előbb kényszerül az adu VII-est ütésbe tenni, vállalkozása elbukott. Külön feladat az ultimó bemondásakor a parti megnyerése a fentebb leírt pontokért.
+
+Az ultimó értéke bemondott vállalással:
+
+
+
+Bemondás nélkül, csendesen:
+
+
+
+Csendes ultimót bármelyik fél teljesíthet. Érvényes ez a szabály akkor is, ha 40-100, 20-100 vagy durchmars lett bemondva.
+Az ultimó kontrája közös, kihat a kontrázó partnerére is.
+Licitáláskor az ultimó pontértékéhez a játszmát (partit) is hozzáadják, mivel csak így érhető el, hogy a 40-100 vállalkozáshoz képest az ulti nagyobb értéket képviseljen. A pontérték táblázatban ezért általában az ulti pontértékét 4+1, illetve piros színnél 8+2 alakban jelölik.
+
+Az ultimó elbukásakor a díjazás:
+
+
+
+Csendes ultimó elbukásakor a díjazás:
+
+
+
+A felvevő tulajdonképpen „buktatási különdíjat” fizet ellenfeleinek, melynek összege azonos az ultimóéval. Csendes ultimónál a bemondott vállalkozások értékének felével kell számolni.
+Ha a parti megnyeréséért folyó játékban (passz, piros passz, 40-100, 20-100) a védők egyikének fogták el a csendes ultimóját, mindketten tartoznak a bukás díját a felvevőnek megfizetni. Több helyen viszont az a szokás, hogy a csendes ultimót elbukó játékos fizet mindkét játékostársának. Utóbbi gyakorlatot nem helyeseljük, hiszen az ellenfelek érdekközösségét ennél a szituációnál sem kell felbontani. Ha teljesült az ultimó, jutalmat kapnak mindketten a felvevőtől, amennyiben elbukott, mindketten fizetnek neki.
+
+Az ultimó kontrája az ellenfelek részéről közös, kontra és rekontra esetén, a vállalkozás teljesítésekor a bemondót illető díjazás:
+
+
+
+Kontrázott, illetve rekontrázott ultinál a vállalás elbukásakor a védőket megillető díjazás:
+
+
+
+Házi szabály lehet, hogy nem alkalmazzák a „buktatási különdíjat”.
+
+
+
+Öt aduval biztosnak látszik vállalkozásunk sikere. Az ellenfelek 3-0 aduleosztása sem jelent veszélyt, hiszen azonnal ütésbe kényszeríthetjük ezeket a zöld ász, X, és király kihívásával. A parti megnyerése is várható, hacsak nem mondanak be tök és makk 20-at az ellenfelek. Rutinmunka ez, semmi különös.
+
+Betli
+A betli bemondója arra vállalkozik, hogy egyetlen ütést sem visz el, azaz ellenfelei mindent ütnek. Ha a felvevő akár egyetlen ütés elvitelére kényszerül, vállalása elbukott.
+
+A betlijáték fokozatai:
+
+
+
+A betli játék szabályai
+Nincs aduszín. A lapok ütőértékének sorrendje: Ász, Király, Felső, Alsó, X, IX, VIII, VII
+A betli fokozatának nevét a felvevőnek be kell mondani. Terített betli esetében az első ütés elvitele után nyílt lapokkal folyik a játék.
+A betli kontrája egyéni. Az egyik játékos kontrája a másik játékosra nem kötelező. Terített betlinél a kontra és rekontra bejelentéseknek meg kell előzniük a kiterítést.
+
+
+
+Ez egy nehezen buktatható terített betli. A piros királyt hívjuk. Csak akkor ütünk, ha az ellenfelek elérik: a makk VII hívásakor a másik védőnél ne legyen a színből. Ekkor a felvevő kénytelen ütni a VIII-sal. Terített betlit ritkán kontráznak az ellenfelek. Ha most mégis megteszik, azonnal rekontrával kell válaszolni.
+Megjegyezzük, hogy ha nagy ritkán sikerül ilyen lapot kialakítani, igen komoly esélye van az ellenfelek nagyobb bemondásának. Náluk van az összes ász, és a piros sorozat hat lapja.
+
+Durchmars
+A durchmars bemondója arra vállalkozik, hogy az összes ütést elviszi, tehát ellenfelei egyet sem ütnek.
+
+A durchmarsjáték változatai
+
+Színbemondásos változat és pontértékei:
+
+
+
+Színbemondásos durchmars esetén a lapok rangjának sorrendje: Ász, X, Király, Felső, Alsó, IX, VIII, VII
+
+Szín nélküli durchmars (királyos durchmars) változat és pontértékei:
+
+
+
+Szín nélküli durchmars bemondásakor nincs aduszín. A piros jelző ekkor nem aduszínt, hanem csupán a bemondás rangját jelöli. A lapok rangjának sorrendje: Ász, Király, Felső, Alsó, X, IX, VIII, VII.
+A durchmars fokozatának nevét a felvevőnek be kell mondani.
+Összetett vállalás a szín nélküli durchmars esetében nincs.
+A durchmarsot gyakran csendesen teljesíti a felvevő, de ezért külön díjazás nem jár. (Helyi szokás lehet, hogy jutalmazzák a csendes durchmarsot.) Terített durchmars bemondásakor az első ütés elvitele után nyílt lapokkal folyik tovább a játék. Színbemondásos durchmarsjátékban csendes ultimó teljesíthető mindkét fél részéről, bár ezt a szabályt nem minden társaság fogadja el.
+A szín nélküli durchmars kontrája egyéni, a színben vállalt durchmars viszont közös, kihat a kontrázó partnerére is, mivel ott egyéb vállalások bemondása is lehetséges.
+
+
+
+Ebből a lapból csak „olcsó” durchmars mondható, hiszen három ponton is a lapelosztás fogja eldönteni vállalkozásunk sorsát. A piros X elvitelére a felső és az alsó lehet veszélyes, a tök alsóra pedig a felső. A zöld IX-et csak a 4-0 színelosztásnál üthetik meg. Célszerű a zöldeket egymás után kihívni, aztán a többi szín ászát és királyát, váltogatva a színeket. Balszerencsés lapelosztásnál bizony ez a durchmars bukásra van ítélve – talán meg is kontrázzák.
+
+Renonszszabályok
+
+Összetett vállalások
+A rablóulti szabályai egyszerre többféle vállalás teljesítésére kínálnak lehetőséget. Ezek nehézségi fokát és jutalmazását a licitsorban jól követhetjük. Az összetett vállalások a következők:
+
+40-100 + ultimó vagy + durchmars
+40-100 + ultimó vagy + durchmars piros színben
+20-100 + ultimó vagy + durchmars
+20-100 + ultimó vagy + durchmars piros színben
+
+A durchmars minden kombinációban terített is lehet.
+Az összetett vállalásokban is a bejelentett célok teljesítése a felvevő feladata. 20-100-at és 40-100-at ultimóval együtt, de durchmarssal is lehet mondani csakúgy, mint ultimót durchmarssal vagy 100 pontos vállalást durchmarssal. Minden kombinált vállalást a korábban leírtak szerint kell értelmezni. Az összetett vállalások pontértéke a licittáblázatban olvasható.
+Például licitsorban legmagasabb rangú piros 20-100 ultimó terített durchmars bemondója arra vállalkozik, hogy tök, makk, vagy zöld színű felső-király párral a kezében, piros aduszínnel az első lap kihívása után minden ütést elvisz terítve úgy, hogy az utolsót a piros VII fogja megütni.
+Gyakran előfordul, hogy az összetett vállalások csak részben teljesülnek. Fenti példánkra visszatérve, a felvevő megnyeri a 20-100-at és az ultimót, de elbukja a durchmarsot, mivel az ellenfelek egy ütést elvittek. Ilyenkor egyenleget kell számolni a teljesített és bukott vállalkozások értékéből, és a különbözetet fizetik/nyerik a játékosok. Az egyenleg 0 is lehet, azaz senki sem fizet. Pl. a felvevő a piros 40-100 ultimóból utóbbit teljesíti, viszont a 40-100-at elbukja. Jár neki 8 pont, viszont veszített 8 pontot, az egyenleg tehát 0. Ilyenkor hangzik el a „pénz az ablakban” mondás.
+
+
+
+Ebben az összetett vállalkozásban az ultimóval nem nagyon lehet gondunk, annál inkább a durchmarssal és a 20-100-zal. A makk tízes helyzete fog dönteni a kilencedik ütésben – ha nem dobták ütésbe korábban. A piros szín 4-0 elosztása viszont súlyos „balesethez” vezethet, mert minden vállalkozásunkat elveszíthetjük.
+
+Kontrák
+
+A kontrázás, rekontrázás fogalmát korábban definiáltuk. Láttuk azt is, hogy egyes vállalásoknál az ellenfelek részéről közösen számít a kontra, másoknál egyéni, tehát külön-külön kell bejelenteniük a játékosoknak. Lássuk, mikor érdemes kontrázni a felvevő vállalását.
+A parti megnyerése szempontjából érdekes lehet, ha partnerünk 20-at vagy 40-et mondott. Nálunk is van 20, így két ütőlap birtokában joggal kontrázhatjuk meg a játékot. 40-100-at és 20-100-at is csak megfelelő laperővel, kellő számú aduval és ütőlappal, esetleg színhiánnyal célszerű kontrázni.
+Az ultimó kontrázása 3-4 aduval és néhány ütőlappal lehet indokolt.
+Az összetett vállalások kontrázását játékelemenként kell bejelenteni. Pl. a 20-100-ultimó-durchmars vállalásból külön lehet kontrázni bármelyiket, tehát az ultimót, a 20-100-at és a durchmarsot is. Aki vette a bátorságot, hogy kontrázza a 20-100-at vagy az ultimót, egyben a durchmars megbuktatását is kilátásba helyezi, de nem minden esetben kontrázza meg.
+A kontrázásra a felvevő rekontrával válaszolhat. Ez minden esetben egyéni döntés. A felvevő bízik lapjaiban, a számára kedvező lapelosztásban. A rekontra leggyakoribb esete az, amikor a felvevő nem mondta be a lapjában rejlő magasabb rangú játékformát, és így könnyedén teljesíti a rekontrázott kisebb vállalást. (Ez nem a legsportszerűbb játék.)
+Fontos körülmény a licitálás fázisa, amikor lapok cserélődnek a játékosok között. Aki részt vett a licitálásban, valamennyire tájékozódhatott a felvevő lapjairól. Sejtheti a vállalkozás gyenge pontjait (ha van ilyen), esetleg ő is adott kedvező vagy „kellemetlen” kártyákat.
+A védőknek minden esetben kontrázniuk kell a felvevő kényszervállalkozását, így a király-felső pár nélkül mondott 20-100-at vagy 40-100-at, az aduszín VII-ese nélkül vállalt ultimót. Ezt persze az a védő teheti meg, akinek kezében van a vállalás kulcslap.
+Előfordul, hogy a felvevő az első lap kihívásakor nem jelenti be vállalásának aduszínét. Ekkor a védők bármelyike megkontrázza az összes bemondást. A lejátszásra már nem kerül sor, a felvevőnek fizetnie kell.
+Egy apró megfigyelés: a kontrázott vállalások nagyobb részét az ellenfelek meg is nyerik. Kivétel talán a betli, melyben fokozott jelentősége lehet a lapelosztásnak és a védők ellenjátékának.
+Korábban említettük, hogy a kezdetektől fogva célszerű követni a szigorú renonszszabályok elvét. Nem tételezünk fel a játékosok részéről szándékos szabálytalanságot, inkább figyelmetlenségre vezethető vissza a renonsz elkövetése. Egy szabálytalanság akkor válik renonsszá, ha ezt valamelyik játékos bejelenti!
+
+Renonsz
+
+A leggyakoribb szabálytalanságok:
+Osztásnál:
+•	Keverés után nem volt emelés
+•	Nem sikerült megfelelő számban kiosztani a kártyákat
+•	Osztás közben láthatóvá vált a lap
+Büntetés ilyenkor nincs, az osztást meg kell ismételni.
+
+Licitálásnál:
+•	A korábban elhangzottnál alacsonyabb rangú vállalás bemondása
+•	Nem megfelelő számú kártya került a talonba
+Társai figyelmeztetésére a játékos korrigálhatja hibáját.
+•	Képes felére fordul, azaz láthatóvá válik a talonba rakott kártya
+A vétkes megfizeti az utoljára bemondott vállalás díját mindkét játékostársának.
+Az összes többi, itt felsorolt szabálytalanság elkövetésekor azonnal véget ér a játék. A vétkes vita nélkül köteles megfizetni mindkét társának az aktuális játékban bemondott vállalkozások értékét.
+
+Lejátszásnál:
+•	40-100 és 20-100 vállalásán kívüli partikban 20 vagy 40 jogtalan bemondása (nincs kézben a felső-király pár)
+•	20 vagy 40 bemondása az ellenfelek részéről 20-100 vagy 40-100 játéknál
+•	Az aduszín bemondásának elmulasztása
+•	Színadási- vagy felülütési kötelezettség elmulasztása
+•	Jogtalan lapkihívás (nem a legutóbbi ütést megszerző játékos hív ki lapot a következő ütéshez)
+•	Az ütésbe tett kártyák nem megfelelő sorrendben való lerakása
+•	Egynél több kártya ütésbe adása
+
+A lejátszásnál legyen általános szabály, hogy az asztalt ért lapot nem lehet visszavenni és másikra cserélni! Az ütéseket úgy kell elhelyezni, hogy vitás esetekben visszanézhetők, ellenőrizhetők legyenek. Ennek a színvetés és felülütési kényszer elmulasztásának megállapításában lehet szerepe.
+A renonszszabályok érdekessége, hogy a felvevő vállalkozhat 40-100-ra, ha nincs nála az aduszín felső-király párja, vagy ultimóra, ha hiányzik kezéből az aduszín VII lapja. Ezek nem vonnak maguk után büntetést. Vállalását ellenfelei úgyis megkontrázzák. A felvevő általában kényszerhelyzetben, veszteségeinek csökkentése érdekében mond ilyen „badarságokat”. A felvevő igyekszik minél „olcsóbban” kikeveredni az ilyen licitálásból. A licitsor sajátosságai miatt kényszerhelyzetbe kerülhet, hiszen pl. piros passz után legalább 40-100-at vagy ultimót kell mondania.
+
+Gondolatok a rablóultiról
+
+…És most lássunk néhány konkrét intelmet és tanácsot
+
+•	A parti megnyeréséért 4 aduval, 2-3 ütőlappal, esetleg 20 vagy 40 birtokában már jó eséllyel indulunk. A nehezebben teljesíthető 40-100 és 20-100 ennél komolyabb kártyákat igényel. 4-6 ütőlapot ászokkal és tízesekkel, színhiánnyal. Amikor nem érezzük magunkat elég erősnek ezek bemondott vállalására, csendesen kísérelhetjük meg a 100 pont elérését. A lejátszás közben látjuk az ellenfelek ütőlap- és aduszín elosztását, így alkalmazkodhatunk a körülményekhez. Mindemellett számtalan esetben lesz részünk meglepetésben, amikor egy nem várt ütésbe 10 pontos kártyát dobnak.
+•	Az ultimót 4-5 adu és néhány ütőlap birtokában indokolt bemondani. Kivételesen 3 aduval is teljesíthető, ha nagy erejű kísérőlapokkal, és egy színből legalább 3 vagy 4 lappal (úgynevezett hosszú hajtó színnel) rendelkezünk. Ekkor a vállalás teljesítése nagyban függ attól, hogy az ellenfeleknél milyen a lapok elosztása.
+•	Az ultimó teljesítése érdekében az ellenfeleknél lévő aduk begyűjtésével, illetve „kihajtásával” járhatunk eredménnyel. 5 vagy 6 adu már biztos sikert sejtet, 4 aduval vállalt ultimó néhány ütőlappal, egy jó hajtószínnel és szerencsés lapelosztással megnyerhető. Fontos körülmény – és ez minden vállalásnál igaz lehet – a kedvező lapelosztás. 4 adulappal mondott ultimónkat az ellenfelek legvalószínűbb 2-2 adus leosztása aligha fogja megzavarni. Gondunk lehet a 3-1 vagy 4-0 leosztással. Bár utóbbi ritka esemény, de előfordulhat, tehát gondolnunk kell rá.
+•	Ultimó bemondásánál másodlagos cél a parti megnyerése. Kellő számú aduval, de ütőlapok nélkül az ellenfelek esélyesek a partinyerésre, olykor kontrával, vagy éppen csendes 100-zal. Utóbbi esetben 0 pont lesz az egyenleg, hiszen a teljesített ultimó 4 pontját elviszi a kontra parti 2, és a csendes 100 2 pontja.
+•	40-100 és 20-100 teljesítése erősebb lapot feltételez. Mint leírtuk, a 40-100 sikeréhez az ellenfelek legfeljebb 3, míg 20-100 bemondásánál csak egyetlen 10 pontos lapot vihetnek el az ütéseikben.
+•	40-100-ra 4 vagy több aduval – köztük ásszal és tízessel –, továbbá 2-3 ütőlappal és egy színhiánnyal vállalkozhatunk. A 20-100 bemondása csak akkor indokolt, ha kezünkben legalább 4-5 biztos ütőértékű adu, esetleg egy ász, valamint a 20 mellett az azonos színből, ásszal fedezett tízes van. Ne feledjük, hogy ezeknél a vállalásoknál az utolsó ütés értéke 10 pont.
+•	Betli vállalásánál lapjaink többsége alacsony rangú VII, VIII, IX, X, alsó kártyák egyszínű sorozata. A hiányzó lapok lesznek ránk veszélyesek, hiszen ezeket eszünk kénytelenek átütni a lejátszásnál. Induló lapnak megtarthatunk egy felsőt vagy királyt. A betlik állandó főszereplője a lapleosztás. Ez a körülmény, illetve az ellenfelek jó összjátéka sok betlit buktatott meg. Terített betli bemondásakor – ez a legmagasabb rangú és legértékesebb ilyen típusú vállalás – Terített betli bemondásakor – ez a legmagasabb rangú és legértékesebb ilyen típusú vállalás – tulajdonképpen az induló lapon kívül összefüggő, hibátlan színsorozatokkal kell rendelkeznünk. Az első ütés elvitele után a játékosok nyitott kártyákkal közösen állapítják meg a vállalás megbuktatásának lehetőségét.
+•	Durchmars vállalásánál sok ütőlappal, összefüggő, magas színsorozatokkal kell rendelkeznünk. Fontos szempont a durchmarsok minősége, hiszen a vállalásokban megkülönböztetjük az Ász-X-Király, illetve az Ász-Király-Felső lapok hierarchiáját. A durchmars sok ütőlappal, 4-5 lapos színsorozatokkal vállalható. A sorozatból hiányzó fontos – király vagy felső – lap, illetve a színleosztás fogja eldönteni a vállalkozás sorsát. Ha az Ász és X lehívása közben ütésbe kerül a Király, kedvező volt a lapleosztás. Amennyiben az ellenfeleknél 3-0, 3-1 vagy 4-0 a kockázatos színű lapok leosztása, és a kulcslap nem egyedül van az egyik játékosnál, a durchmars sorsa megpecsételődött.
+•	A terített vállalásoknál olykor nem árt barátságot kötni a szerencsével sem. Például, amikor két lap hiányzik a sorozatból, és azon múlik a durchmars sikere, hogy a hiányzó két kártya egy kézben van-e. Ha egy kézben van a két lap, meg kell élnünk nem csak vállalásunk bukását, de a kontrázás okozta pénzügyi veszteséget is, melyet adott esetben két helyre kell fizetnünk.
+
+Játék ellenfélként
+
+•	Az ellenfelek figyelmes játéka elsősorban a parti (40-100 és 20-100 is) és a kontrázott vállalások megbuktatása érdekében hozhat sikereket.
+•	Partinyerés szempontjából nem szabad megfeledkezni a kézben lévő 20 vagy 40 bemondásról. Ha alkalom nyílik rá a lejátszásnál, partnerünk ütésébe 10 pontos lapot dobhatunk. Egy-egy ilyen kártya sors gyakran a parti megnyerését, illetve a 40-100 és 20-100 megbuktatását jelentheti. Az ultimók gyakori vesztét okozza a jó összjáték, amikor alkalmazkodunk partnerünk viselkedéséhez, és kedvező színhívással növeljük a bemondás megbuktatásának esélyét. Cél itt, hogy megtaláljuk partnerünk hajtószínét, s egyben a felvevő színhiányát, lapjának gyenge pontjait.
+•	Betli. Az ellenfelek célja a betlinél az, hogy a felvevőt egyetlen ütés elvitelére kényszerítsék. Gyakorlott játékosoknak is gondot okozhat a betli lejátszása. Legfontosabb körülmény itt a felülütési kényszer. A legszebb betli buktatás, amikor a felvevő színével egyező magas lapok kihívásával képes lesz partnerünk színteleníteni, azaz eldobálja azokat a kártyákat kezéből, melyek ütés elvitelére kényszerítenék. Ha a mutatott színből kifogy, akár egy VIII lappal is üthet a felvevő, hiába volt remek kártyája. Különös jelentőséggel bír ez akkor, amikor a betli kontrája, rekontrája hangzott el.
+•	Durchmarsnál a legtöbbször nincs lehetőség ellenjátékra, hiszen minden a felvevő laperején, illetve a színek és ütőlapok egyenlő vagy egyenlőtlen elosztásán múlik. Csupán az ütésbe került lapok minőségéből kell következtetnünk a felvevő vállalásának gyenge lapjaira, és ennek megfelelően kell az utolsó ütésekhez megtartanunk a fontosnak ítélt kártyákat. A felvevő minden fortélyt be fog vetni a figyelem elterelésére. Egyszínű lapokat fog egymás után hívni, vagy ütésenként keveri a színeket. A durchmarsok leggyakrabban az utolsó ütésekben buknak meg, amikor fény derül a szerencsés lapleosztásra, illetve az ellenfelek egyikének kedvező laptartására.
+•	A terített vállalások jellegzetessége, hogy az első ütés elvitele után a játékosok az asztalon képükkel felfelé fordítva helyezik el lapjaikat. Az ellenfelek dolga ekkor az lesz, hogy megkeressék a vállalás buktathatóságát – ha egyáltalán van erre lehetőség. A jó ultijátékosnak egy pillanat alatt fel kell mérnie a látottakat: betlinél mely lapok dobhatók el partnerünkkel, durchmarsnál lesznek- következményei a lapleosztásnak. Ehhez kell tapasztalatokat szerezni sok-sok gyakorlással és játékkal.
+Sokszor fogjuk megélni azokat a pillanatokat, amikor két játékostársunk vad tusába keveredik a felvételi jog elnyeréséért. Fájdalmas látvány lesz, amint egymás lapját javítgatják fel, hogy a legbátrabb végül is 40 pontos vállalkozása gond nélkül teljesüljön. Tehetetlen bámészkodásunk untató perceit pénzügyi veszteség zárja le.
+
+Egyszerű és összetett vállalások listája
+A vállalás neve
+Díjazás
+Passz (makk–zöld-tök)
+1
+Piros passz
+2
+40-100 (makk–zöld-tök)
+4
+Ulti (makk–zöld-tök)
+4 + 1
+Betli
+5
+Durchmars (makk–zöld-tök) – Ász, X vagy szín nélküli Ász, Király
+6
+40-100 ulti (makk–zöld-tök)
+8
+20-100 (makk–zöld-tök)
+8
+Piros 40-100
+8
+Piros ulti
+8 + 2
+40-100 + durchmars (makk–zöld-tök)
+10
+Ulti + durchmars (makk–zöld-tök)
+10
+Piros betli
+10
+Ulti + 20-100 (makk–zöld-tök)
+12
+Szín nélküli durchmars – Ász-Király
+12
+Piros durchmars – Ász, X
+12
+Terített durchmars (makk–zöld-tök) – Ász, X
+12
+40-100 + ulti+ durchmars (makk–zöld-tök)
+14
+20-100 + durchmars (makk–zöld-tök)
+14
+40-100 + terített durchmars (makk–zöld-tök)
+16
+Ulti + terített durchmars (makk–zöld-tök)
+16
+Piros 40-100 + ulti
+16
+20-100 + ulti + durchmars (makk–zöld-tök)
+18
+40-100 + ulti +terített durchmars (makk–zöld-tök)
+20
+20-100 + terített durchmars (makk–zöld-tök)
+20
+Piros 40-100 + durchmars
+20
+Piros ulti + durchmars
+20
+Terített betli
+20
+20-100 + ulti + terített durchmars (makk–zöld-tök)
+24
+Piros 20-100 + ulti
+24
+Szín nélküli terített durchmars – Ász, Király
+24
+Piros terített durchmars – Ász, X
+24
+Piros 40-100 + ulti + durchmars
+28
+Piros 20-100 + durchmars
+28
+Piros 40-100 + terített durchmars
+32
+Piros ulti + terített durchmars
+32
+Piros 20-100 + ulti + durchmars
+36
+Piros 40-100 + ulti + terített durchmars
+40
+Piros 20-100 + terített durchmars
+40
+Piros 20-100 + ulti + terített durchmars
+48
+
+
+Játszmalap (minta)
+
+1. játékos
+2. játékos
+3. játékos
+Felvevő
+Pont
+01. osztás
+20
+20*
+-10
+-10
+-10
+-10
+1
+10
+02. osztás
+-6
+14
+-6
+-16*
+12
+2
+3
+6
+03. osztás
+-2
+12
+-2
+-18
+4
+6*
+3
+2
+04. osztás
+-10
+2*
+20
+2
+-10
+-4
+2
+10
+05. osztás
+48
+50
+-24
+-22*
+-24
+-28
+1
+24
+06. osztás
+-8
+42
+16
+-6
+-8
+-36*
+2
+8
+07. osztás
+
+*
+
+
+
+
+
+
+08. osztás
+
+
+
+*
+
+
+
+
+09. osztás
+
+
+
+
+
+*
+
+
+10. osztás
+
+*
+
+
+
+
+
+
+11. osztás
+
+
+
+*
+
+
+
+
+12. osztás
+
+
+
+
+
+*
+
+
+13. osztás
+
+*
+
+
+
+
+
+
+14. osztás
+
+
+
+*
+
+
+
+
+15 osztás.
+
+
+
+
+
+*
+
+
+16. osztás
+
+*
+
+
+
+
+
+
+17. osztás
+
+
+
+*
+
+
+
+
+18. osztás
+
+
+
+
+
+*
+
+
+19. osztás
+
+*
+
+
+
+
+
+
+20. osztás
+
+
+
+*
+
+
+
+
+21. osztás
+
+
+
+
+
+*
+
+
+22. osztás
+
+*
+
+
+
+
+
+
+23. osztás
+
+
+
+*
+
+
+
+
+24. osztás
+
+
+
+
+
+*
+
+
+Helyezés
+
+
+
+
+Aláírások
+
+
+
+
+
+Magyarázat a játszmalaphoz
+A rovatok kitöltése értelemszerűen történik. Minden játékos neve alatt a bal oldali oszlopba az aktuális partiban elért eredmény, a jobb oldali oszlopba pedig az összesített pontszám kerül. Minden sor jobb oldali adatainak egyenlege 0 lesz.
+A korrekt, követhető eredmény jegyzésére célszerű a „felvevő” és „pont” oszlopokat is használni. Előbbibe az aktuális partiban felvevőként szereplő játékos számát, utóbbiba a játékban megszerzett pontokat írja a jegyzőkönyvvezető.
+A * jelöli az osztó személyét. Az eredményeket minden játékos aláírásával hitelesíti.
+
+Rablóulti kislexikon
+
+Adu: egy adott játékban a felvevő által megnevezett szín, melynek lapjai színhiány esetén minden más színű kártyát képesek megütni. Adu nélküli játékok a rablóultiban a betli, és a szín nélküli durchmars.
+
+Aduzás: a lejátszás során a felvevő sorozatos aduhívásai, melyekkel egyrészt elveszi az ellenfelek kis aduit, másrészt összeütteti az ellenfelek magas lapjait, nehogy azok külön-külön üssenek. Néha az ellenjátékosoknak is érdeke lehetne az aduzás.
+
+Alsó: a magyar kártya egyik alakos lapja. Rangsorban a Felső és a X között van. Sorozatjelzését a lapfelezőhöz közel helyezték el.
+
+Ász (disznó): a magyar kártya egyik alakos lapja. Rajzolata kártyatípusonként eltér. A magyar kártya ász lapjain az évszakokat jelképező allegóriák kaptak helyet. Lásd még tavasz, nyár, ősz, tél.
+
+Ászos betli: bemondója a betlit úgy vállalja, hogy Ász birtokában is teljesíti. Helyi változat. Díjazása 13, terítve 26 egység.
+
+Átütés: nagyobb és kisebb értékű lap birtokában a kisebbel ütni annak reményében, hogy a nagyobb lappal később még lesz ütési lehetőség.
+
+Bab: kis ütőértékű kártya neve tréfásan Pl.: babok nem ütnek = kis lapok nem ütnek.
+
+Babra megy a játék: kis tétben játszani. Fordítottja: nem babra megy a játék = nagy a tét.
+
+Belátással / körültekintéssel játszik: Tréfás mondás arra a játékosra, aki belenéz más lapjába.
+
+Bemondás (vállalás, figura): a szabályok által megengedett, illetve előírt közlések, információk. A bemondások fajtái: 1. lapösszefüggések bejelentése (20 és 40), 2. teljesíthető vállalások, figurák (parti, 40-100, 20-100, ultimó, betli, durchmars, és az összetett bemondások), illetve azok kontrázása, ellenzése. A rablóultiversenyeken a beszélgetés, a játszma menetével kapcsolatos információk közlése súlyos szabálytalanságnak, renonsznak minősül. Társasági játékban nem ennyire szigorú a fecsegés megítélése.
+
+Betli: számos kártyajáték, többek között a rablóulti egyik figurája. Bemondója arra vállalkozik, hogy a játszma során egyetlen ütést sem visz el. Díjazása 5 egység (ekkor az első ütés után nyílt lapokkal folyik tovább a játék). Betli vállalásánál nincs adu, a kártyalapok ütősorrendje: Ász, Király, Felső, Alsó, X, IX, VIII, VII.
+
+Blatt: a kártyalap németből átvett, népies neve. Veri a blattot = kártyázik.
+
+Bukás: ha a felvevő elveszti a játszmát, illetve vállalását. Ez bekövetkezhet objektív okokból, vagy ügyes ellenjáték következtében. Ez utóbbi eset a buktatás, az ellenjátékosok elsőrendű célja. A bukásnak természetesen anyagi vagy pontozási következményei vannak. A rablóultiban az elbukott bemondás után mindkét ellenfél számára ki kell fizetni annak díját.
+
+Buktatás (megbuktatás): az ellenjátékosok megakadályozzák a felvevőt bemondásának teljesítésében. Ulti buktatásakor a felvevő az ulti pontszámával megegyező buktatási különdíjat is fizet mindkét ellenfelének.
+
+Buktatási különdíj: a bemondott vagy csendes ultimó elbukója fizeti. Ha a felvevő bukott csendes ultimót, két ellenfelének fizet, ha az ellenfelek bármelyike, akkor ketten fizetnek a felvevőnek buktatási különdíjat. Házi szabály lehet, hogy mindig a csendes ultimó elbukója fizet mindkét játékostársának.
+
+Csendesen (csendben): kártyás kifejezés, bemondás nélkül teljesíteni valamilyen vállalást. A rablóultiban csendesen teljesített figurák lehetnek a csendes ulti, a csendes 100 és a csendes durchmars. Ez utóbbi helyi szokás. Értékük a bemondott vállalások díjának fele.
+
+Dobás: a rablóultiban azt nevezik dobásnak, amikor egy játékos nem tud eleget tenni színadási kötelezettségének, és egy ütésbe, mivel nincs aduja, a hívás színétől eltérő, tetszése szerinti lapot rak. Az aktuális vállalástól függően ez lehet 10 pontos lap, magas vagy alacsony rangú kártya.
+
+Durchmars: több kártyajáték, így a rablóulti egyik lehetséges vállalása. Bemondója arra vállalkozik, hogy a játszma során valamennyi ütést elviszi, vagyis ellenfelei egyet sem ütnek. Díjazása 6 egység, piros színben 12 egység, terítve 12, illetve 24 egység. A rablóulti szín nélküli durchmars vállalásánál nincs adu, a lapok ütősorrendje pedig: Ász, Király, Felső, Alsó, X, IX, VIII, VII; díjazása 6, illetve 12 egység, terítve 24 egység.
+
+Egyszerű játszma (parti, passz): a rablóultiban a licitálás legalacsonyabb fokozata. A felvevő részéről a játszma megnyerését célul kitűző vállalkozás. Ha nem volt más bemondás, és a játékos csendesen sem teljesített figurát, díjazása olcsó színben 1 egység, pirosban 2 egység. Az egyszerű partit a felvevő nem köteles lejátszani. Az alapdíj kétszeresének megfizetése mellett eldobhatja kártyáit. A parti díját ultimó bemondásánál külön számolják el.
+
+Ellenjátékos (ellenfél, védő): a rablóultiban a felvevő ellenfelei. Az ellenjátékosoknak lejátszási stratégiája, taktikája és technikája az ellenjáték. Az ellenjátékos elterjedtebb elnevezése a védő.
+
+Emelés: kötelező művelet, mely az osztást közvetlenül megelőzi. Az osztó a megkevert kártyacsomagot a bal oldalán ülő játékos elé helyezi az asztalra. Ő egy mozdulattal tetszőleges számú lapot emel a csomag tetejéről, majd ezt külön halomként a maradék kártyák mellé teszi. Az osztó a nála maradt csomagot ennek tetejére helyezve egyesíti a lapokat. Kézből emeltetni a kártyacsomagot illetlenség.
+
+„Fedáksári”: a rablóultiban indokolatlanul magas kontrázási fokozat, az alapdíj hatvannégyszeres értéke. A névadó a XX. század első harmadának legendás hírű operett-primadonnája, Fedák Sári (1879-1955) volt. Versenyjátékban ezt a kontrafokozatot nem használják.
+
+Felső: a magyar kártya egyik alakos lapja. Rangsorban a Király és az Alsó között van. Sorozatjelzése a lap felső szegélyénél helyezkedik el. Régies neve a filkó.
+
+Felülütés: egyes kártyajátékokban, így a rablóultiban kötelező a kihívott lapra azonos színben magasabb rangú lapot tenni, ha van ilyen a játékos birtokában. Alacsonyabb rangú kártya csak akkor rakható, ha nincs a kézben az előttünk kirakottnál magasabb. A felülütést szokás überelésnek is mondani a német über (=felül) szóból.
+
+Felvevő: az a játékos, aki a licitálás során a legmagasabb értékű játékot, bemondást vállalta. A rablóultiban a felvevő egyedül játszik az ellenpár, azaz a védők ellen. Tőlük kapja nyereségeit, mindkettőjüknek külön fizet, ha veszít.
+
+Félkezes ulti: a rablóulti egyik társasági változata. A licitálásnál a játékosok csak az első 5 lapot nézik meg, és ennek megfelelően teszik meg vállalásukat, illetve kontrájukat. Díjazása a 10 lapból tett vállalások duplája. A tíz lap felvétele után folytatódik a licitálás.
+
+Figura: 1. a magyar kártya bármely alakos lapja; 2. rablóultiban a vállalások, bemondások neve.
+
+Hazavinni: ütést szerezni.
+
+Házi szabály (helyi vagy társasági szokás): a kártyajátékok szabályainak helyi, területi, kisebb közösségekben érvényesülő változata. A kártyajátékok általános érvényű szabályai a játék elterjedésével több változáson mehetnek át. Előfordul, hogy egyes szabályokat, megkötéseket másként értelmeznek és használnak. A játék megkezdése előtt, különösen, ha idegen is csatlakozik a társasághoz, az eltérő házi szabályokat egyeztetni kell.
+
+Hirskontra: a szubkontra ellenzése, kontrázása; az ellenjátékos szubkontrájával szemben a felvevő játékos jelenti be az eredeti játékszándék fenntartását. Díjazása: az alapdíj tizenhatszorosa. A hirskontrát versenyjátékban nem használják.
+
+Hívás: az ütéses kártyajátékokban egy ütéshez az első lap kijátszása. Az első ütéshez való hívás az indító kijátszás. A hívásra az előző ütést megszerző játékos jogosult.
+
+Hívó: az a játékos, aki egy ütéshez az első lapot kijátssza.
+
+Hosszú szín: egy kézben valamelyik színből sok lap; például egy színből 4 vagy több kártya. Különösen értékes a hosszú szín, ha „feje” is van, azaz Ász vagy Ász és X van birtokunkban. A hosszú szín velejárója más színből a „szingli” lap vagy színhiány.
+
+20: bemondás több kártyajátékban. Jelentéstartalma a rablóultiban: nem aduszínű Király-Felső pár egy kézben. Mivel az aduszínen kívül még három szín van, egy játszmában maximum három 20 bemondás lehetséges. 20-at bemondani az első kártya ütésbe adásakor kell. Ütéspontok számolásakor értéke 20 pont. A rablóultiban fontos bemondás a 20-100, melynek vállalása esetén, már a licitáláskor kiderül a húsz jelenléte. A lejátszás elején nem kell külön bejelenteni.
+
+20-100: a rablóulti egyik figurája. Bemondója arra vállalkozik, hogy nem adu színű Király-Felső párral kezében összesen 100 pontot visz el az ütésekben. Díjazása olcsó színben 8 egység, pirosban 16 egység. 20-100 játék esetén a játszmát külön nem díjazzák. Nem tekinthető renonsznak, ha a játékos 20 nélkül mond 20-100-at.
+
+Indulás: a lejátszás fázisában az első lap kijátszása az első ütéshez. A rablóultiban mindig a felvevő indul. Az indulás sok esetben az egész játszma sorsát eldöntheti, a vállalt figura teljesítését vagy bukását.
+
+Játék: több játszmából (osztásból) álló sorozat. Versenyeken ezek száma 15, 18, 24, 30 lehet.
+
+Játszma: a rablóulti alapegysége, tulajdonképpen az egy osztásban történt események. A játék több játszmából áll.
+
+Kenés: rablóultiban 10 pontos lapot tenni a partner ütésébe.
+
+Kényszerdobás: kényszerhelyzetben a játékos valamelyik, biztos ütést jelentő lapjának ütésbe adása.
+
+Keverés: a kártyacsomag lapjainak véletlenszerű sorrendbe állítása, a kártyajátékok szerencsetényezőjének jelentős eleme. Szabályos keverés során egyetlen lap sem válhat láthatóvá. Keverés után a csomagot emeltetni kell, így megakadályozva a keverő játékos esetleges kísérletét az alsó lapok manipulálására. A kártyacsomag legalsó lapját sem az osztó, sem a játékosok nem ismerhetik.
+
+Kibic (gibic): a játék külső szemlélője. Az aktív játékosok mellett álló/ülő néző, aki gyakran illetéktelen megjegyzéseivel akár a parti eredményét is befolyásolhatja. A kibic szellemileg buzgón részt vesz a játékban, és együtt érez azzal, akinek a széke mellett megtelepedett. A tevékeny kibicet játszóvendégnek is hívják.
+
+Kijátszás: lejátszás közben egy kártyalap ütésbe adása. A kifejezés gyakran az első lap kihívására vonatkozik.
+
+Kocsi-ló: tréfás mondás, amikor egy játékos a felvevő által bemondott minden vállalást megkontráz.
+
+Komplex ütéses kártyajátékok: olyan ütéses játékok, melyekben akár többféle cél is vállalható. Az ütés pontértéke a benne hazavitt lapok minőségétől függ. Ennek megfelelően a komplex ütéses kártyajátékokban főképp az ütések minőségét, és nem a mennyiségét díjazzák. A rablóulti komplex ütéses kártyajáték.
+
+Kontra: latin eredetű szó, jelentése: ellen, ellene. A kártyajátékokban: ellenzés, az alapdíj kétszeresre emelésének bejelentése a védők részéről. Egyben azt is jelenti, hogy a kontra bemondója vállalja a felvevő bemondásának / bemondásainak megbuktatását.
+
+Kontrázás (ellenzés, drágítás): a játszma megnyerésének, illetve a felvevő által bemondott vállalások megbuktatására bejelentett ellenzés. A kontrafokozatok díjazása mindig az előzőnek a kétszerese, azaz kontra az alapdíj kétszerese, rekontra a négyszerese, szubkontra a nyolcszorosa, hirskontra a tizenhatszorosa, mordkontra a harmincnégyszerese, „fedáksári” a hatvannégyszerese. Versenyjátékokban csak kontra és rekontra van. (Kontrahatár.)
+
+Körpassz: olyan eset a rablóultiban, amikor a licitálás során egyik játékos sem mond be semmit. Ilyenkor egyes helyeken az első passzoló játékos kontrával fizet egy egyszerű játszmát lejátszás nélkül, majd új osztás következik, míg más helyeken egyszerű játszmát játszanak. Helyi szokás, hogy a piros aduszínű egyszerű partit sem játsszák le.
+
+Lejátszás: a rablóultiban a licitálást követő játékszakasz.
+
+Leosztás (parti): 1. Osztás. 2. A játékban az osztás után kialakult lapeloszlás.
+
+Licit: a rablóultiban versengés a felvételi jog megszerzéséért, melyben kötöttség nélkül minden játékos részt vehet.
+
+Licitálás: latin eredetű szó, alapjelentése árverés, ráígérés, felülígérés. A rablóultiban versengés a felvételi jog elnyeréséért. A talon felvétele és a rablás felhasználásával egyre magasabb vállalás, illetve összetett vállalás bemondása.
+
+Licitaprózás: azonos díjazású vállalásoknál az egyszerű bemondás rontja az összetett vállalást. Házi szabály.
+
+Lopás: ütésszerzési mód adujáték esetén. Ha egy játékos nem tud eleget tenni a hívásnál a színre szín adás kötelezettségének, akkor adut kell tennie. Ezt lopásnak, egy következő játékos nagyobb adukijátszását felüllopásnak nevezik. A lopással való ütésszerzésre az a szabály ad módot, amely szerint az aduszín bármely lapja magasabb rangú a másik három szín bármely lapjánál.
+
+Magas lap: egy szín még játékban lévő, legnagyobb lapja.
+
+Magyar kártya: 32 lapos, német sorozatjelű kártya, a rablóulti játékeszköze. Ma ez az egyedüli német sorozatjelű kártya Magyarországon.
+
+Makk: a német sorozatjelű kártyák egyik színjele. Magyar neve a német Eichel tükörfordítása, rajza a tölgyfa termését utánozza.
+
+Memórialicit: a licitálásnál a soron következő vállalást a talon letétele után csak passz szóval jelzik. Így pl. a licitsorban negyedik passz ultimó, az ötödik betli, a hatodik durchmars bemondását jelenti. Helyi változat.
+
+Mordkontra: a hirskontra ellenzése, kontrázása. A vállalás alapdíját harminckétszeresére emeli. Versenyjátékban nem használják.
+
+40: bemondás a rablóultiban: aduszínből van egy kézben a Király-Felső pár. Bemondani az első kártya ütésbe adásakor kell. Számoláskor az értéke 40 pont. A rablóultiban a 40-100 és ezzel kombinált vállalások alapvető eleme.
+
+40-100: a rablóulti egyik figurája. Bemondója arra vállalkozik, hogy az aduszín Király-Felső párjával a kezében összesen 100 pontot visz el ütéseiben. Díjazása olcsó színben 4 egység, pirosban 8 egység. 40-100 játék esetén a játszmát külön nem díjazzák. Nem tekinthető renonsznak, ha a játékos 40 nélkül mond 40-100-at.
+
+Négy Ász: négy Ász elvitele az ütésekben. Díjazása bemondva 4, csendesen 2 pont. Házi szabály, versenyeken nem használják.
+
+Négy tízes: négy tízes elvitele az ütésekben. Díjazása bemondva 4, csendesen 2 pont. Házi szabály, versenyeken nem használják.
+
+Német sorozatjelű kártya: a német befolyású földrajzi területeken elterjedt kártyatípusok megkülönböztető elnevezése. Színei a piros, zöld, tök, makk. A különböző színek elnevezései nem teljesen fedik a német neveken, egyrészt hibás fordításból adódóan, másrészt a nevek még a német nyelvterületeken belül is változtak. Így a grün, azaz zöld színt Laub (=lomb, levél), vagy Gras (=fő) néven is ismerik. Ugyanígy a rot, vagyis piros színt Herznek (=szív) is nevezik, míg a Schellen (=csengő) téves fordítás eredményeképpen lett magyarul tök. Egyedül az Eicheln (=makk) neve egyértelmű. A játékszokások változásával a kártyák száma 48 lapról 36-ra, illetve 32-re csökkent.
+
+Nyár (Sommer): a magyar kártya tök Ász lapjának felirata. Az inkább Ausztriában gyártott változaton sarlós nőalak, a magyar változaton kaszálás közben pihenő férfialak látható.
+
+Olcsó szín: a rablóultiban a tök, zöld és makk színek neve.
+
+Osztás: a rablóulti egy játszmájának kezdő szakasza, a kártyacsomag lapjainak szétosztása a játékosok között. Az osztás kötelező szabálya meghatározza az osztó kijelölésének módját, az emeltetés mikéntjét, a kiosztott lapok számát és az esetleges talonképzést.
+
+Osztó: az a játékos, aki a kártyacsomag lapjait szétosztja a játékosok között. Személye jobbra tartással osztásonként változik. Négy személy részvételénél az osztó kimarad a játékból.
+
+Önrablás: a rablóultiban a felvevő két passzt követően visszaveszi a talont, és a korábban elhangzottnál magasabb, drágább vállalást mond.
+
+Ősz (Herbst): a magyar kártya zöld ász lapjának felirata. Az osztrák típuson két szüretelő férfialak, a magyar változaton mustot kóstoló férfi rajza látható.
+
+Passz: a francia passe vagy a német Pass (=menet, vonulás, leadás, átadás) szóból. A rablóultiban akkor passzol a játékos, ha a licitálásban nem kíván részt venni. Másik jelentése szerint passzként említik az egyszerű játszmát, a partinyerés vállalását.
+
+Piros: a német sorozatjelű kártyák egyik színjele. A magyar név a német rot tükörfordítása, bár a XX. század második felében gyakran használták a Herz (=szív) elnevezést is. A piros sorozatjel ábrája szív alakú rajz, általában egyik fele sötétebb tónussal megfestve. A rablóultiban külön szerep jut a piros színnek, minden pirosban aduszínnel vállalt figura az olcsó színekének a dupláját éri. Betlinél és durchmarsnál a piros nem aduszínt, hanem a vállalás rangját jelentheti.
+
+Piros betli: a rablóulti egyik figurája. Bemondója arra vállalkozik, hogy a lejátszásban egy ütést sem visz el. Díjazása 10 egység. Újabban – nem kis zavart okozva az ultisok körében – rebetlinek is nevezik.
+
+Piros szín nélküli durchmars: A rablóulti egyik figurája. Bemondója arra vállalkozik, hogy az összes ütést hazaviszi. Díjazása 12 egység.
+
+Rablás: a rablóultiban a talon lerakása után annak újbóli felvétele egy másik játékos által. A rablás a korábban elhangzottnál magasabb díjazású vállalás bemondásának kötelezettségével jár.
+
+Ráütés: helyi szokás, amikor a rablóultiban a kártyalapok kiosztása előtt az emelésnél a játékos ráüthet a csomagra. Ekkor az emeletlen csomagból osztják ki a lapokat nem ötösével, hanem tízesével. Versenyjátékban a ráütést nem használják, itt minden osztásnál kötelező az emelés.
+
+Rebetli: a rablóulti egyik figurája. Bemondója arra vállalkozik, hogy egy ütést sem visz haza. Díjazása 10 egység. A játékosok körében a rebetli jelentéstartalma zavart okoz, hiszen sokan a terített betli szinonimájaként értelmezik.
+
+Redurchmars (Piros szín nélküli durchmars): A rablóulti egyik figurája. Bemondója arra vállalkozik, hogy az összes ütést hazaviszi. Díjazása 12 egység. A játék fejlődésével elavulttá vált figura, mert akinek biztos lapja van hozzá, az a magasabb díjazású terített durchmarsot játssza meg. A játékosok körében a redurchmars fogalma ma is zavart okoz, sokan azonosítják a terített durchmarssal.
+
+Rekontra: jelentése: az eredeti játékcél megerősítése a bejelentett ellenjátékkal, azaz kontrával szemben. Díjazása az alapdíj négyszeres összege. Csak akkor mondható, ha az egyik ellenjátékos kontrázta a vállalkozást.
+
+Renonsz: szabályellenes játék. Az adott játszmát érvénytelenítő tévedés, mely nem tekinthető csalásnak. A rablóultiban a következők tekinthetők renonsznak: színvetés; a felülütés elmulasztása; elvitt és letakart ütés megnézése; az ellenfél ütésének elvitele; jogtalan laphívás; több lap ütésbe helyezése egyszerre; durchmarsnál 40-100, vagy 20-100, 40 vagy 20 jelentése; laphívás, ha az előző ütéshez még valaki nem adott lapot; a talon megnézése játék közben; a játszma eredményét befolyásoló célzás, megjegyzés és egyéb jelzés; hosszan gondolkodó partner után figura megkontrázása. A vétkes az érvényes bemondás(ok) díját fizeti mindkét játékostársának. A versenyeken szigorú renonszszabályokkal játszanak, a társasági játék megtűri a kisebb, nem szándékos szabálytalanságokat.
+
+Repülő (suhogó): az utolsó előtti ütés elvitele az adu VIII-al. A trurlhoz hasonló különleges házi szabály. Csak kevés helyen alkalmazott bemondási lehetőség, versenyeken nem használják. Díjazása 4, pirosban 8 egység. A vállalt, de elbukott repülő értéke a normál vállalás duplája. (Buktatási különdíj.)
+
+Sorozatjel (szín, színjel): a magyar kártya lapcsoportjait megkülönböztető szimbólumok: piros, tök, zöld, makk.
+
+Szingli: az a helyzet, amikor a játékos kezében csak egy lap van valamelyik színből.
+
+Színhiány: valamelyik szín hiánya egy játékos lapjaiból.
+
+Színre szín adása: lejátszási kötelezettség a rablóultiban. A játékos a kihívott lapra köteles azzal azonos színű kártyát rakni. A hívott szín hiányában adut kell az ütésbe adni. Ha ez sincs a játékos kezében, tetszése szerinti kártya rakható.
+
+Szubkontra: a rekontra ellenzése. Mindig az ellenjátékos mondja be, és csak akkor van rá lehetősége, ha előtte rekontra hangzott el a felvevő részéről. Az alapdíjat a nyolcszorosára emeli. Versenyjátékban nem használják.
+
+Talon: kártyaletét, a lejátszás során kimaradó kártyák, melyeket képpel lefelé helyeznek az asztalra. A rablóultit kétlapos talonnal játsszák, a talon lapjai az elszámolásnál az ellenfelek ütéseihez számítanak.
+
+Tavasz (Frühling): a magyar kártya piros ász lapjának felirata. A kártyaképek mindkét változatában fiatal nőalakot ábrázolnak.
+
+Tél (Winter): a makk ász felirata a magyar kártyán. A bécsi kártya makk ászán idős asszony látható rőzsével a hátán, a pesti változaton férfialak melegszik a tűz mellé kuporodva.
+
+Terítés: a lapok lerakása az asztalra képükkel felfelé fordítva. A rablóultiban a betli és a durchmars bemondva megjátszható változatai. A terített vállalás bemondója nagyobb díjazásért arra vállalkozik, hogy az első ütés elvitele után nyitott lapokkal, terítve folytatódjon a játszma.
+
+Terített betli: vállalás a rablóultiban. Bemondója úgy játszik betlit, hogy az első ütés elvitele után lapjait kiteríti az asztalra. Díjazása 20 egység.
+
+Terített durchmars: figura a rablóultiban. Bemondója úgy játszik durchmarsot, hogy az első ütés elvitele után lapjait az asztalra teríti. Díjazása 24 egység.
+
+Tök: a német sorozatjelű kártyák egyik színjele. A németben eredetileg Schellen (=csengő) elnevezésű színjel nem tisztázott körülmények között kapta magyar nevét.
+
+Tökfilkó: a tök felső tréfás neve.
+
+Trul (trull, tuli, a tous les trois-ból): az adu Ász, X és VII elvitelét jelenti. Házi szabály, versenyeken nem használják. Díjazása bemondva 2 egység.
+
+Ulti: komplex ütéses kártyajátékcsalád, nevét a latin ultimus (=utolsó) szóból nyerte. Az ulti típusú játékok közismert eleme az utolsó ütés adu VII-sel történő elvitele. Magyarországon több változatát – rabló-, színlicites, félkezes – változatát játsszák, számtalan helyi játékszabállyal.
+
+Ultimó: a rablóulti egyik jellegzetes vállalása. Bemondója arra vállalkozik, hogy az utolsó ütést az adu VII-sel viszi el. Díjazása: bemondva olcsó színben 4 egység, csendesen 2 egység; pirosban bemondva 8, csendesen 4 egység.
+
+Ütés: az asztalra kihívott lapra minden játékos egy kártyát tehet. Ezt a három lapot nevezik ütésnek, melyet a legrangosabb kártya kiadója vihet el, s megszerzi a jogot, hogy a következő ütéshez lapot hívjon ki.
+
+Ütőlap: az a kártya, amellyel el lehet vinni egy ütést. Egy lap rangjának meghatározója az egy színsorozaton belüli értéksorrend. Adus játékban Ász – X – Király stb., ha nincs szín a játszmában, akkor Ász – Király – Felső, stb. a rangsor.

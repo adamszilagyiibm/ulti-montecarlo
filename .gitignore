@@ -1,0 +1,21 @@
+# Titkok és helyi fájlok SOHA nem kerülnek verziókezelésbe
+.env
+*.key
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.bak
+
+# a Kovács Endre-könyv nyers anyaga (szerzői jogvédett, nem publikálható)
+raw/
+
+# FIGYELEM: a data/knowledge/ a könyv feldolgozott szövegét tartalmazza. A repót privátan tartsd (vagy: python tools/make_export.py --no-book).
+
+# futásidejű munkamappa (liga-generációk, részeredmények)
+work/
+
+# generált átadási csomag (tools/make_export.py)
+export/
+export.zip

@@ -1,0 +1,1474 @@
+{
+ "summary": {
+  "ruleset": "book",
+  "cases": 59,
+  "same": 9,
+  "invalid": 2,
+  "evaluated": 48,
+  "verdicts": {
+   "motor": 11,
+   "könyv": 15,
+   "nem eldönthető": 22
+  },
+  "mean_diff": -1.03,
+  "mean_diff_significant": -2.08,
+  "by_kind": {
+   "bid": {
+    "n": 32,
+    "mean_diff": -0.03
+   },
+   "disc": {
+    "n": 16,
+    "mean_diff": -3.04
+   }
+  },
+  "significant": [
+   "16.1",
+   "11.1",
+   "2.1",
+   "15.1",
+   "19.0",
+   "25.0",
+   "12.2",
+   "10.0",
+   "14.1",
+   "22.1",
+   "20.2",
+   "3.2",
+   "5.1",
+   "2.0",
+   "24.1",
+   "13.1",
+   "3.1",
+   "27.1",
+   "6.1",
+   "6.2",
+   "25.1",
+   "3.0",
+   "10.1",
+   "16.0",
+   "11.0",
+   "22.0"
+  ],
+  "top5": [
+   "16.1",
+   "11.1",
+   "2.1",
+   "15.1",
+   "19.0"
+  ]
+ },
+ "cases": [
+  {
+   "example": 1,
+   "step": 0,
+   "player": "Béla",
+   "book": "Ulti",
+   "book_trump": 1,
+   "book_disc": [
+    24,
+    25
+   ],
+   "engine": "Ulti",
+   "engine_trump": 1,
+   "engine_disc": [
+    24,
+    25
+   ],
+   "kind": "disc",
+   "status": "same"
+  },
+  {
+   "example": 1,
+   "step": 1,
+   "player": "Csaba",
+   "book": "Piros ulti",
+   "book_trump": 0,
+   "book_disc": [
+    13,
+    20
+   ],
+   "engine": "Terített betli",
+   "engine_trump": -1,
+   "engine_disc": [
+    13,
+    20
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 25.68,
+   "engine_mean": 21.85,
+   "diff": -3.83,
+   "ci_half": 6.01,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 2,
+   "step": 0,
+   "player": "Csaba",
+   "book": "40-100 ulti",
+   "book_trump": 2,
+   "book_disc": [
+    10,
+    12
+   ],
+   "engine": "Ulti",
+   "engine_trump": 1,
+   "engine_disc": [
+    0,
+    16
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 7.94,
+   "engine_mean": -5.99,
+   "diff": -13.93,
+   "ci_half": 4.57,
+   "verdict": "könyv"
+  },
+  {
+   "example": 2,
+   "step": 1,
+   "player": "Albert",
+   "book": "Piros 20-100",
+   "book_trump": 0,
+   "book_disc": [
+    10,
+    12
+   ],
+   "engine": "40-100 durchmars",
+   "engine_trump": 3,
+   "engine_disc": [
+    10,
+    12
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 43.78,
+   "engine_mean": -11.95,
+   "diff": -55.73,
+   "ci_half": 2.49,
+   "verdict": "könyv"
+  },
+  {
+   "example": 3,
+   "step": 0,
+   "player": "Dénes",
+   "book": "Ulti",
+   "book_trump": 3,
+   "book_disc": [
+    17,
+    20
+   ],
+   "engine": "Ulti",
+   "engine_trump": 3,
+   "engine_disc": [
+    9,
+    12
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 4.94,
+   "engine_mean": -0.62,
+   "diff": -5.56,
+   "ci_half": 3.5,
+   "verdict": "könyv"
+  },
+  {
+   "example": 3,
+   "step": 1,
+   "player": "Albert",
+   "book": "40-100 ulti",
+   "book_trump": 2,
+   "book_disc": [
+    28,
+    29
+   ],
+   "engine": "40-100 ulti",
+   "engine_trump": 2,
+   "engine_disc": [
+    11,
+    14
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 5.12,
+   "engine_mean": -7.42,
+   "diff": -12.54,
+   "ci_half": 7.03,
+   "verdict": "könyv"
+  },
+  {
+   "example": 3,
+   "step": 2,
+   "player": "Béla",
+   "book": "Piros betli",
+   "book_trump": 0,
+   "book_disc": [
+    28,
+    29
+   ],
+   "engine": "Piros ulti",
+   "engine_trump": 0,
+   "engine_disc": [
+    18,
+    28
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -6.79,
+   "engine_mean": 9.38,
+   "diff": 16.17,
+   "ci_half": 5.97,
+   "verdict": "motor"
+  },
+  {
+   "example": 4,
+   "step": 0,
+   "player": "Dénes",
+   "book": "Ulti",
+   "book_trump": 2,
+   "book_disc": [
+    9,
+    10
+   ],
+   "engine": "4 ász 40-100",
+   "engine_trump": 3,
+   "engine_disc": [
+    9,
+    10
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 8.51,
+   "engine_mean": 7.08,
+   "diff": -1.43,
+   "ci_half": 4.98,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 4,
+   "step": 1,
+   "player": "Albert",
+   "book": "Piros ulti",
+   "book_trump": 0,
+   "book_disc": [
+    24,
+    28
+   ],
+   "engine": "Piros 40-100",
+   "engine_trump": 0,
+   "engine_disc": [
+    24,
+    28
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 9.47,
+   "engine_mean": 11.73,
+   "diff": 2.26,
+   "ci_half": 3.23,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 5,
+   "step": 0,
+   "player": "Béla",
+   "book": "Parti",
+   "book_trump": 3,
+   "book_disc": [
+    10,
+    22
+   ],
+   "engine": "Parti",
+   "engine_trump": 3,
+   "engine_disc": [
+    3,
+    6
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -4.36,
+   "engine_mean": -9.49,
+   "diff": -5.13,
+   "ci_half": 6.73,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 5,
+   "step": 1,
+   "player": "Dénes",
+   "book": "Piros parti",
+   "book_trump": 0,
+   "book_disc": [
+    2,
+    4
+   ],
+   "engine": "Piros parti",
+   "engine_trump": 0,
+   "engine_disc": [
+    10,
+    25
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -3.91,
+   "engine_mean": -19.8,
+   "diff": -15.9,
+   "ci_half": 6.03,
+   "verdict": "könyv"
+  },
+  {
+   "example": 6,
+   "step": 0,
+   "player": "Csaba",
+   "book": "Parti",
+   "book_trump": 2,
+   "book_disc": [
+    25,
+    28
+   ],
+   "engine": "4 ász",
+   "engine_trump": 2,
+   "engine_disc": [
+    25,
+    28
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 0.09,
+   "engine_mean": 0.45,
+   "diff": 0.36,
+   "ci_half": 2.76,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 6,
+   "step": 1,
+   "player": "Dénes",
+   "book": "Ulti",
+   "book_trump": 3,
+   "book_disc": [
+    25,
+    28
+   ],
+   "engine": "40-100 ulti",
+   "engine_trump": 3,
+   "engine_disc": [
+    20,
+    21
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 7.46,
+   "engine_mean": -3.22,
+   "diff": -10.69,
+   "ci_half": 8.39,
+   "verdict": "könyv"
+  },
+  {
+   "example": 6,
+   "step": 2,
+   "player": "Albert",
+   "book": "Piros ulti",
+   "book_trump": 0,
+   "book_disc": [
+    25,
+    28
+   ],
+   "engine": "Terített betli",
+   "engine_trump": -1,
+   "engine_disc": [
+    5,
+    28
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 22.4,
+   "engine_mean": 31.02,
+   "diff": 8.62,
+   "ci_half": 5.94,
+   "verdict": "motor"
+  },
+  {
+   "example": 7,
+   "step": 0,
+   "player": "Dénes",
+   "book": "Ulti",
+   "book_trump": 3,
+   "book_disc": [
+    20,
+    26
+   ],
+   "engine": "40-100 ulti",
+   "engine_trump": 3,
+   "engine_disc": [
+    20,
+    21
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 8.56,
+   "engine_mean": 10.57,
+   "diff": 2.01,
+   "ci_half": 5.17,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 7,
+   "step": 1,
+   "player": "Albert",
+   "book": "Piros 40-100",
+   "book_trump": 0,
+   "book_disc": [
+    20,
+    26
+   ],
+   "engine": "Piros 40-100",
+   "engine_trump": 0,
+   "engine_disc": [
+    20,
+    26
+   ],
+   "kind": "disc",
+   "status": "same"
+  },
+  {
+   "example": 8,
+   "step": 0,
+   "player": "Béla",
+   "book": "Parti",
+   "book_trump": 2,
+   "book_disc": [
+    28,
+    29
+   ],
+   "engine": "Parti",
+   "engine_trump": 2,
+   "engine_disc": [
+    13,
+    28
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -0.95,
+   "engine_mean": 1.68,
+   "diff": 2.63,
+   "ci_half": 3.9,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 8,
+   "step": 1,
+   "player": "Csaba",
+   "book": "Ulti",
+   "book_trump": 1,
+   "book_disc": [
+    17,
+    18
+   ],
+   "engine": "Terített betli",
+   "engine_trump": -1,
+   "engine_disc": [
+    15,
+    18
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 2.19,
+   "engine_mean": 6.91,
+   "diff": 4.72,
+   "ci_half": 6.81,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 8,
+   "step": 2,
+   "player": "Dénes",
+   "book": "Piros 40-100 ulti",
+   "book_trump": 0,
+   "book_disc": [
+    10,
+    12
+   ],
+   "engine": "Piros ulti",
+   "engine_trump": 0,
+   "engine_disc": [
+    17,
+    18
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 4.99,
+   "engine_mean": 2.06,
+   "diff": -2.94,
+   "ci_half": 6.07,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 9,
+   "step": 0,
+   "player": "Albert",
+   "book": "Piros parti",
+   "book_trump": 0,
+   "book_disc": [
+    2,
+    10
+   ],
+   "engine": "Piros parti",
+   "engine_trump": 0,
+   "engine_disc": [
+    10,
+    26
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -5.92,
+   "engine_mean": -0.4,
+   "diff": 5.53,
+   "ci_half": 6.0,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 9,
+   "step": 1,
+   "player": "Béla",
+   "book": "40-100",
+   "book_trump": 2,
+   "book_disc": [
+    2,
+    24
+   ],
+   "engine": "40-100",
+   "engine_trump": 2,
+   "engine_disc": [
+    2,
+    10
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -0.21,
+   "engine_mean": 0.42,
+   "diff": 0.63,
+   "ci_half": 2.03,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 10,
+   "step": 0,
+   "player": "Béla",
+   "book": "Ulti",
+   "book_trump": 1,
+   "book_disc": [
+    22,
+    28
+   ],
+   "engine": "Terített betli",
+   "engine_trump": -1,
+   "engine_disc": [
+    6,
+    22
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -0.14,
+   "engine_mean": -24.15,
+   "diff": -24.01,
+   "ci_half": 7.89,
+   "verdict": "könyv"
+  },
+  {
+   "example": 10,
+   "step": 1,
+   "player": "Csaba",
+   "book": "Piros ulti",
+   "book_trump": 0,
+   "book_disc": [
+    12,
+    28
+   ],
+   "engine": "Piros ulti",
+   "engine_trump": 0,
+   "engine_disc": [
+    12,
+    16
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 10.54,
+   "engine_mean": 5.71,
+   "diff": -4.82,
+   "ci_half": 2.47,
+   "verdict": "könyv"
+  },
+  {
+   "example": 11,
+   "step": 0,
+   "player": "Dénes",
+   "book": "Parti",
+   "book_trump": 3,
+   "book_disc": [
+    22,
+    30
+   ],
+   "engine": "Parti",
+   "engine_trump": 3,
+   "engine_disc": [
+    10,
+    12
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -5.66,
+   "engine_mean": -2.14,
+   "diff": 3.52,
+   "ci_half": 2.92,
+   "verdict": "motor"
+  },
+  {
+   "example": 11,
+   "step": 1,
+   "player": "Béla",
+   "book": "Piros 20-100",
+   "book_trump": 0,
+   "book_disc": [
+    20,
+    22
+   ],
+   "engine": "4 ász 40-100",
+   "engine_trump": 3,
+   "engine_disc": [
+    0,
+    3
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -48.0,
+   "engine_mean": 13.98,
+   "diff": 61.98,
+   "ci_half": 3.36,
+   "verdict": "motor"
+  },
+  {
+   "example": 12,
+   "step": 0,
+   "player": "Csaba",
+   "book": "Ulti",
+   "book_trump": 3,
+   "book_disc": [
+    12,
+    20
+   ],
+   "engine": "Ulti",
+   "engine_trump": 3,
+   "engine_disc": [
+    10,
+    12
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -1.46,
+   "engine_mean": -4.5,
+   "diff": -3.05,
+   "ci_half": 4.56,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 12,
+   "step": 1,
+   "player": "Dénes",
+   "book": "40-100 ulti",
+   "book_trump": 2,
+   "book_disc": [
+    28,
+    29
+   ],
+   "engine": "40-100 ulti",
+   "engine_trump": 2,
+   "engine_disc": [
+    5,
+    12
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 11.78,
+   "engine_mean": 6.49,
+   "diff": -5.3,
+   "ci_half": 8.03,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 12,
+   "step": 2,
+   "player": "Albert",
+   "book": "Terített betli",
+   "book_trump": -1,
+   "book_disc": [
+    28,
+    29
+   ],
+   "engine": "Piros ulti",
+   "engine_trump": 0,
+   "engine_disc": [
+    17,
+    28
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 42.85,
+   "engine_mean": 15.62,
+   "diff": -27.22,
+   "ci_half": 4.52,
+   "verdict": "könyv"
+  },
+  {
+   "example": 13,
+   "step": 0,
+   "player": "Dénes",
+   "book": "Piros parti",
+   "book_trump": 0,
+   "book_disc": [
+    10,
+    12
+   ],
+   "engine": "Piros parti",
+   "engine_trump": 0,
+   "engine_disc": [
+    10,
+    12
+   ],
+   "kind": "disc",
+   "status": "same"
+  },
+  {
+   "example": 13,
+   "step": 1,
+   "player": "Albert",
+   "book": "Ulti",
+   "book_trump": 1,
+   "book_disc": [
+    17,
+    29
+   ],
+   "engine": "Terített betli",
+   "engine_trump": -1,
+   "engine_disc": [
+    4,
+    29
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -16.65,
+   "engine_mean": -29.71,
+   "diff": -13.06,
+   "ci_half": 6.69,
+   "verdict": "könyv"
+  },
+  {
+   "example": 14,
+   "step": 0,
+   "player": "Béla",
+   "book": "Ulti",
+   "book_trump": 1,
+   "book_disc": [
+    1,
+    2
+   ],
+   "engine": "40-100",
+   "engine_trump": 3,
+   "engine_disc": [
+    1,
+    2
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 2.43,
+   "engine_mean": 4.51,
+   "diff": 2.08,
+   "ci_half": 3.78,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 14,
+   "step": 1,
+   "player": "Csaba",
+   "book": "Terített betli",
+   "book_trump": 0,
+   "book_disc": [
+    1,
+    2
+   ],
+   "engine": "Terített betli",
+   "engine_trump": -1,
+   "engine_disc": [
+    21,
+    23
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 34.21,
+   "engine_mean": 52.42,
+   "diff": 18.21,
+   "ci_half": 4.11,
+   "verdict": "motor"
+  },
+  {
+   "example": 15,
+   "step": 0,
+   "player": "Csaba",
+   "book": "40-100 ulti",
+   "book_trump": 1,
+   "book_disc": [
+    4,
+    20
+   ],
+   "engine": "40-100 ulti",
+   "engine_trump": 1,
+   "engine_disc": [
+    4,
+    20
+   ],
+   "kind": "disc",
+   "status": "same"
+  },
+  {
+   "example": 15,
+   "step": 1,
+   "player": "Dénes",
+   "book": "Terített betli",
+   "book_trump": -1,
+   "book_disc": [
+    18,
+    20
+   ],
+   "engine": "4 ász 40-100 ulti",
+   "engine_trump": 3,
+   "engine_disc": [
+    4,
+    18
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -47.12,
+   "engine_mean": -7.96,
+   "diff": 39.16,
+   "ci_half": 5.04,
+   "verdict": "motor"
+  },
+  {
+   "example": 15,
+   "step": 2,
+   "player": "Albert",
+   "book": "Piros 40-100 ulti durchmars",
+   "book_trump": 0,
+   "book_disc": [
+    18,
+    20
+   ],
+   "engine": "Piros 40-100 terített durchmars",
+   "engine_trump": 0,
+   "engine_disc": [
+    18,
+    20
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 287.26,
+   "engine_mean": 287.26,
+   "diff": 0.0,
+   "ci_half": 0.0,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 16,
+   "step": 0,
+   "player": "Csaba",
+   "book": "Parti",
+   "book_trump": 3,
+   "book_disc": [
+    17,
+    30
+   ],
+   "engine": "Parti",
+   "engine_trump": 2,
+   "engine_disc": [
+    10,
+    12
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -3.71,
+   "engine_mean": 0.11,
+   "diff": 3.82,
+   "ci_half": 2.5,
+   "verdict": "motor"
+  },
+  {
+   "example": 16,
+   "step": 1,
+   "player": "Albert",
+   "book": "Piros 20-100",
+   "book_trump": 0,
+   "book_disc": [
+    17,
+    18
+   ],
+   "engine": "4 ász 40-100",
+   "engine_trump": 3,
+   "engine_disc": [
+    0,
+    3
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -48.0,
+   "engine_mean": 14.92,
+   "diff": 62.92,
+   "ci_half": 1.93,
+   "verdict": "motor"
+  },
+  {
+   "example": 18,
+   "step": 0,
+   "player": "Csaba",
+   "book": "Ulti",
+   "book_trump": 1,
+   "book_disc": [
+    24,
+    26
+   ],
+   "engine": "Ulti",
+   "engine_trump": 1,
+   "engine_disc": [
+    2,
+    18
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -12.26,
+   "engine_mean": -8.6,
+   "diff": 3.66,
+   "ci_half": 5.95,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 18,
+   "step": 1,
+   "player": "Dénes",
+   "book": "Piros 4 ász ulti",
+   "book_trump": 0,
+   "book_disc": [
+    24,
+    26
+   ],
+   "engine": "Piros 4 ász ulti",
+   "engine_trump": 0,
+   "engine_disc": [
+    24,
+    26
+   ],
+   "kind": "disc",
+   "status": "same"
+  },
+  {
+   "example": 19,
+   "step": 0,
+   "player": "Béla",
+   "book": "Piros parti",
+   "book_trump": 0,
+   "book_disc": [
+    12,
+    29
+   ],
+   "engine": "Piros 4 ász",
+   "engine_trump": 0,
+   "engine_disc": [
+    12,
+    14
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 101.43,
+   "engine_mean": 65.3,
+   "diff": -36.13,
+   "ci_half": 17.95,
+   "verdict": "könyv"
+  },
+  {
+   "example": 19,
+   "step": 1,
+   "player": "Csaba",
+   "book": "Ulti",
+   "book_trump": 1,
+   "book_disc": [
+    20,
+    29
+   ],
+   "engine": "Terített betli",
+   "engine_trump": -1,
+   "engine_disc": [
+    15,
+    29
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 6.52,
+   "engine_mean": 6.68,
+   "diff": 0.16,
+   "ci_half": 8.42,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 19,
+   "step": 2,
+   "player": "Dénes",
+   "book": "Betli",
+   "book_trump": -1,
+   "book_disc": [
+    2,
+    20
+   ],
+   "engine": "40-100 ulti",
+   "engine_trump": 3,
+   "engine_disc": [
+    17,
+    20
+   ],
+   "kind": "bid",
+   "status": "invalid",
+   "reason": "Csak magasabb licitet mondhatsz."
+  },
+  {
+   "example": 20,
+   "step": 0,
+   "player": "Csaba",
+   "book": "Piros ulti",
+   "book_trump": 0,
+   "book_disc": [
+    18,
+    20
+   ],
+   "engine": "Piros parti",
+   "engine_trump": 0,
+   "engine_disc": [
+    18,
+    20
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -1.88,
+   "engine_mean": -0.86,
+   "diff": 1.02,
+   "ci_half": 3.17,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 20,
+   "step": 1,
+   "player": "Albert",
+   "book": "Durchmars",
+   "book_trump": 2,
+   "book_disc": [
+    24,
+    25
+   ],
+   "engine": "4 ász Durchmars",
+   "engine_trump": 2,
+   "engine_disc": [
+    24,
+    25
+   ],
+   "kind": "bid",
+   "status": "invalid",
+   "reason": "Csak magasabb licitet mondhatsz."
+  },
+  {
+   "example": 20,
+   "step": 2,
+   "player": "Dénes",
+   "book": "Terített betli",
+   "book_trump": -1,
+   "book_disc": [
+    9,
+    12
+   ],
+   "engine": "40-100 ulti",
+   "engine_trump": 3,
+   "engine_disc": [
+    9,
+    12
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 38.1,
+   "engine_mean": 20.37,
+   "diff": -17.73,
+   "ci_half": 5.95,
+   "verdict": "könyv"
+  },
+  {
+   "example": 21,
+   "step": 0,
+   "player": "Csaba",
+   "book": "40-100 ulti",
+   "book_trump": 2,
+   "book_disc": [
+    10,
+    29
+   ],
+   "engine": "40-100 ulti",
+   "engine_trump": 2,
+   "engine_disc": [
+    9,
+    29
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 2.84,
+   "engine_mean": 4.74,
+   "diff": 1.9,
+   "ci_half": 3.96,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 21,
+   "step": 1,
+   "player": "Dénes",
+   "book": "Piros ulti",
+   "book_trump": 0,
+   "book_disc": [
+    10,
+    18
+   ],
+   "engine": "Piros ulti",
+   "engine_trump": 0,
+   "engine_disc": [
+    10,
+    18
+   ],
+   "kind": "disc",
+   "status": "same"
+  },
+  {
+   "example": 22,
+   "step": 0,
+   "player": "Dénes",
+   "book": "Parti",
+   "book_trump": 1,
+   "book_disc": [
+    18,
+    20
+   ],
+   "engine": "4 ász",
+   "engine_trump": 2,
+   "engine_disc": [
+    26,
+    29
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 1.83,
+   "engine_mean": 5.1,
+   "diff": 3.28,
+   "ci_half": 3.04,
+   "verdict": "motor"
+  },
+  {
+   "example": 22,
+   "step": 1,
+   "player": "Albert",
+   "book": "Ulti",
+   "book_trump": 3,
+   "book_disc": [
+    18,
+    20
+   ],
+   "engine": "Terített betli",
+   "engine_trump": -1,
+   "engine_disc": [
+    21,
+    31
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": -7.34,
+   "engine_mean": -25.13,
+   "diff": -17.78,
+   "ci_half": 7.79,
+   "verdict": "könyv"
+  },
+  {
+   "example": 22,
+   "step": 2,
+   "player": "Béla",
+   "book": "Piros ulti",
+   "book_trump": 0,
+   "book_disc": [
+    18,
+    20
+   ],
+   "engine": "Piros ulti",
+   "engine_trump": 0,
+   "engine_disc": [
+    10,
+    12
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 1.24,
+   "engine_mean": -1.08,
+   "diff": -2.32,
+   "ci_half": 5.59,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 24,
+   "step": 0,
+   "player": "Albert",
+   "book": "Ulti",
+   "book_trump": 2,
+   "book_disc": [
+    25,
+    26
+   ],
+   "engine": "Ulti",
+   "engine_trump": 2,
+   "engine_disc": [
+    2,
+    26
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 2.36,
+   "engine_mean": 1.49,
+   "diff": -0.87,
+   "ci_half": 3.42,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 24,
+   "step": 1,
+   "player": "Csaba",
+   "book": "40-100 ulti",
+   "book_trump": 1,
+   "book_disc": [
+    25,
+    26
+   ],
+   "engine": "4 ász 40-100 ulti",
+   "engine_trump": 1,
+   "engine_disc": [
+    3,
+    6
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 12.55,
+   "engine_mean": 26.46,
+   "diff": 13.9,
+   "ci_half": 5.44,
+   "verdict": "motor"
+  },
+  {
+   "example": 25,
+   "step": 0,
+   "player": "Csaba",
+   "book": "Piros parti",
+   "book_trump": 0,
+   "book_disc": [
+    12,
+    13
+   ],
+   "engine": "Piros 4 ász ulti",
+   "engine_trump": 0,
+   "engine_disc": [
+    12,
+    13
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 138.72,
+   "engine_mean": 111.14,
+   "diff": -27.58,
+   "ci_half": 22.96,
+   "verdict": "könyv"
+  },
+  {
+   "example": 25,
+   "step": 1,
+   "player": "Dénes",
+   "book": "Ulti",
+   "book_trump": 1,
+   "book_disc": [
+    4,
+    12
+   ],
+   "engine": "Terített betli",
+   "engine_trump": -1,
+   "engine_disc": [
+    4,
+    13
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 22.39,
+   "engine_mean": 30.43,
+   "diff": 8.04,
+   "ci_half": 6.17,
+   "verdict": "motor"
+  },
+  {
+   "example": 25,
+   "step": 2,
+   "player": "Albert",
+   "book": "40-100 ulti",
+   "book_trump": 2,
+   "book_disc": [
+    12,
+    28
+   ],
+   "engine": "40-100 ulti",
+   "engine_trump": 2,
+   "engine_disc": [
+    12,
+    28
+   ],
+   "kind": "disc",
+   "status": "same"
+  },
+  {
+   "example": 27,
+   "step": 0,
+   "player": "Albert",
+   "book": "Ulti",
+   "book_trump": 3,
+   "book_disc": [
+    16,
+    30
+   ],
+   "engine": "40-100 ulti",
+   "engine_trump": 3,
+   "engine_disc": [
+    2,
+    16
+   ],
+   "kind": "bid",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 5.01,
+   "engine_mean": 7.45,
+   "diff": 2.44,
+   "ci_half": 5.03,
+   "verdict": "nem eldönthető"
+  },
+  {
+   "example": 27,
+   "step": 1,
+   "player": "Béla",
+   "book": "4 ász Ulti",
+   "book_trump": 1,
+   "book_disc": [
+    16,
+    30
+   ],
+   "engine": "4 ász Ulti",
+   "engine_trump": 1,
+   "engine_disc": [
+    16,
+    18
+   ],
+   "kind": "disc",
+   "status": "ok",
+   "n": 250,
+   "book_mean": 14.94,
+   "engine_mean": 3.86,
+   "diff": -11.07,
+   "ci_half": 5.33,
+   "verdict": "könyv"
+  },
+  {
+   "example": 30,
+   "step": 0,
+   "player": "Albert",
+   "book": "40-100",
+   "book_trump": 2,
+   "book_disc": [
+    26,
+    28
+   ],
+   "engine": "40-100",
+   "engine_trump": 2,
+   "engine_disc": [
+    26,
+    28
+   ],
+   "kind": "disc",
+   "status": "same"
+  },
+  {
+   "example": 30,
+   "step": 1,
+   "player": "Csaba",
+   "book": "Piros 40-100",
+   "book_trump": 0,
+   "book_disc": [
+    26,
+    28
+   ],
+   "engine": "Piros 40-100",
+   "engine_trump": 0,
+   "engine_disc": [
+    26,
+    28
+   ],
+   "kind": "disc",
+   "status": "same"
+  }
+ ]
+}

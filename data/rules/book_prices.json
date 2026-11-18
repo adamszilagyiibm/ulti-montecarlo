@@ -1,0 +1,550 @@
+{
+ "components": {
+  "parti": 1,
+  "asz4": 4,
+  "c40": 4,
+  "ulti": 4,
+  "c20": 6,
+  "durch": 7,
+  "tdurch": 14
+ },
+ "red_multiplier": 2,
+ "betli": {
+  "betli": 5,
+  "piros betli": 10,
+  "terített betli": 20
+ },
+ "rows": [
+  {
+   "unit": 1,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "parti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 2,
+   "figures": [
+    {
+     "red": true,
+     "comps": [
+      "parti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 4,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "asz4"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "c40"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 6,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "c20"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 7,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "durch"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 8,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "c40",
+      "ulti"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "asz4",
+      "ulti"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "asz4",
+      "c40"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "asz4"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "c40"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 10,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "c20",
+      "asz4"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "c20",
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 11,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "durch",
+      "asz4"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "durch",
+      "c40"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "durch",
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 12,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "asz4",
+      "c40",
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 13,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "durch",
+      "c20"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 14,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "tdurch"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "durch"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "c20",
+      "asz4",
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 15,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "durch",
+      "c40",
+      "ulti"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "durch",
+      "asz4",
+      "ulti"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "durch",
+      "asz4",
+      "c40"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 16,
+   "figures": [
+    {
+     "red": true,
+     "comps": [
+      "asz4",
+      "c40"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "c40",
+      "ulti"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "asz4",
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 17,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "durch",
+      "c20",
+      "ulti"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "durch",
+      "c20",
+      "asz4"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 18,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "tdurch",
+      "asz4"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "tdurch",
+      "c40"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "tdurch",
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 20,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "tdurch",
+      "c20"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 22,
+   "figures": [
+    {
+     "red": false,
+     "comps": [
+      "tdurch",
+      "c40",
+      "ulti"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "tdurch",
+      "asz4",
+      "c40"
+     ]
+    },
+    {
+     "red": false,
+     "comps": [
+      "tdurch",
+      "asz4",
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 24,
+   "figures": [
+    {
+     "red": true,
+     "comps": [
+      "asz4",
+      "c40",
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 26,
+   "figures": [
+    {
+     "red": true,
+     "comps": [
+      "durch",
+      "c20"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 28,
+   "figures": [
+    {
+     "red": true,
+     "comps": [
+      "tdurch"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 30,
+   "figures": [
+    {
+     "red": true,
+     "comps": [
+      "durch",
+      "asz4",
+      "c40"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "durch",
+      "asz4",
+      "ulti"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "durch",
+      "c40",
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 36,
+   "figures": [
+    {
+     "red": true,
+     "comps": [
+      "tdurch",
+      "asz4"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "tdurch",
+      "c40"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "tdurch",
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 40,
+   "figures": [
+    {
+     "red": true,
+     "comps": [
+      "tdurch",
+      "c20"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 44,
+   "figures": [
+    {
+     "red": true,
+     "comps": [
+      "tdurch",
+      "asz4",
+      "c40"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "tdurch",
+      "asz4",
+      "ulti"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "tdurch",
+      "c40",
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 48,
+   "figures": [
+    {
+     "red": true,
+     "comps": [
+      "tdurch",
+      "c20",
+      "ulti"
+     ]
+    },
+    {
+     "red": true,
+     "comps": [
+      "tdurch",
+      "asz4",
+      "c20"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 52,
+   "figures": [
+    {
+     "red": true,
+     "comps": [
+      "tdurch",
+      "asz4",
+      "c40",
+      "ulti"
+     ]
+    }
+   ]
+  },
+  {
+   "unit": 56,
+   "figures": [
+    {
+     "red": true,
+     "comps": [
+      "tdurch",
+      "c20",
+      "asz4",
+      "ulti"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "Kovács Endre: Ultikodex, 85-88. oldal (átírva az oldalképről)"
+}

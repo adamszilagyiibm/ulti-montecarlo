@@ -1,0 +1,431 @@
+{
+ "summary": "NEGATÍV EREDMÉNY: a könyvi tanácsokból képzett 17 jellemző egyik csoportja (és az összes együtt) sem javította mérhetően a pénzt. Az 'all' változat a base-hez képest 3 halmazon összevonva ennyi: -0.03 ± 0.39 (nulla a hibahatáron belül).",
+ "protocol": {
+  "policy": "BookPolicy = LearnedPolicy + 17 könyvi jellemző (book_features.py). Ugyanaz az adat, ugyanaz a tanítás (150k véletlen leosztás + 2 on-policy kör x 40k, eps 0.35), a változatok csak a bekapcsolt jellemzőcsoportban térnek el. A 'base' változat: ugyanez könyvi jellemző nélkül (kontroll).",
+  "metric": "páros pénz/ülés a JS-bot ellen (ugyanaz a leosztás és ülés), majd a változat és a base soronkénti különbsége (ugyanazon a mintán). ± = 95%-os CI fele.",
+  "sets": {
+   "r1": "seed 23000000, 800 leosztás x 3 ülés",
+   "r2": "seed 24000000, 800 x 3",
+   "r3": "seed 25000000, 1200 x 3 (csak all és base)"
+  },
+  "training_seeds": "véletlen adat: 5100000..5250000; on-policy körök: 6100000.. és 6140000.. (a mérés seedjeitől: 23000000+, független)"
+ },
+ "ab_vs_base": {
+  "all": {
+   "r1": [
+    0.225,
+    0.777
+   ],
+   "r2": [
+    0.343,
+    0.641
+   ],
+   "pooled_r1_r2": [
+    0.284,
+    0.504
+   ],
+   "n_rows": 4800,
+   "raw_vs_js_pooled": 2.432
+  },
+  "talon": {
+   "r1": [
+    -0.125,
+    0.699
+   ],
+   "r2": [
+    0.135,
+    0.519
+   ],
+   "pooled_r1_r2": [
+    0.005,
+    0.435
+   ],
+   "n_rows": 4800,
+   "raw_vs_js_pooled": 2.152
+  },
+  "szerkezet": {
+   "r1": [
+    -0.327,
+    0.602
+   ],
+   "r2": [
+    0.006,
+    0.413
+   ],
+   "pooled_r1_r2": [
+    -0.16,
+    0.365
+   ],
+   "n_rows": 4800,
+   "raw_vs_js_pooled": 1.987
+  },
+  "ulti40_20": {
+   "r1": [
+    0.197,
+    0.383
+   ],
+   "r2": [
+    -0.058,
+    0.153
+   ],
+   "pooled_r1_r2": [
+    0.069,
+    0.206
+   ],
+   "n_rows": 4800,
+   "raw_vs_js_pooled": 2.217
+  },
+  "betli": {
+   "r1": [
+    0.237,
+    0.34
+   ],
+   "r2": [
+    0.01,
+    0.236
+   ],
+   "pooled_r1_r2": [
+    0.123,
+    0.207
+   ],
+   "n_rows": 4800,
+   "raw_vs_js_pooled": 2.271
+  },
+  "durch": {
+   "r1": [
+    0.197,
+    0.455
+   ],
+   "r2": [
+    -0.054,
+    0.256
+   ],
+   "pooled_r1_r2": [
+    0.071,
+    0.261
+   ],
+   "n_rows": 4800,
+   "raw_vs_js_pooled": 2.219
+  }
+ },
+ "all_pooled_3_sets": {
+  "mean": -0.028,
+  "ci95": 0.387,
+  "n_rows": 8400,
+  "all_vs_js": [
+   2.567,
+   0.41
+  ],
+  "base_vs_js": [
+   2.595,
+   0.489
+  ]
+ },
+ "saved_policy_vs_js_r1": [
+  2.033,
+  0.774
+ ],
+ "base_vs_js_r1": [
+  2.546,
+  0.952
+ ],
+ "note_saved_policy": "A mentett learned_policy.json (2,03 ± 0,77 a r1-en) és a base (2,55 ± 0,95 ugyanott) különbsége szintén a zajon belül van; a base más szabályú tanítás (több adat, 2 on-policy kör).",
+ "heldout_logloss": {
+  "parti": {
+   "n_train": 13296,
+   "random": [
+    0.2248510965332688,
+    0.22102196750750708
+   ],
+   "onpolicy": [
+    0.4735801762215861,
+    0.47225833598462064
+   ]
+  },
+  "c40": {
+   "n_train": 40087,
+   "random": [
+    0.011142646322119861,
+    0.011127358238963228
+   ],
+   "onpolicy": [
+    0.22165213884438328,
+    0.2307717852910785
+   ]
+  },
+  "c20": {
+   "n_train": 39512,
+   "random": [
+    0.0006967388868467202,
+    0.0006707737501342532
+   ],
+   "onpolicy": [
+    0.0013185510043088172,
+    0.002677312849624963
+   ]
+  },
+  "ulti": {
+   "n_train": 26290,
+   "random": [
+    0.4022832671592762,
+    0.40027956628510747
+   ],
+   "onpolicy": [
+    0.412685100033097,
+    0.4193161074604051
+   ]
+  },
+  "betli": {
+   "n_train": 15309,
+   "random": [
+    0.11650010297735418,
+    0.11557058644671293
+   ],
+   "onpolicy": [
+    0.4004276836842618,
+    0.3937320363370559
+   ]
+  },
+  "durch": {
+   "n_train": 79598,
+   "random": [
+    0.0010946736363120616,
+    0.000980348666169962
+   ],
+   "onpolicy": [
+    0.010416485679961852,
+    0.010011733796928353
+   ]
+  },
+  "sdurch": {
+   "n_train": 15438,
+   "random": [
+    0.005880613574096792,
+    0.0056370405807068345
+   ],
+   "onpolicy": [
+    0.05617589945076179,
+    0.06273229197476238
+   ]
+  },
+  "d_parti": {
+   "n_train": 26592,
+   "random": [
+    0.35423489748152226,
+    0.3540152612011979
+   ],
+   "onpolicy": [
+    1.0159850150018541,
+    1.016328404771986
+   ]
+  },
+  "d_ulti": {
+   "n_train": 52580,
+   "random": [
+    0.5089435957872992,
+    0.5083268956179946
+   ],
+   "onpolicy": [
+    0.7949800121973984,
+    0.7955673711355888
+   ]
+  },
+  "d_betli": {
+   "n_train": 30618,
+   "random": [
+    0.1502480218493834,
+    0.1501758459880031
+   ],
+   "onpolicy": [
+    0.8451510256927153,
+    0.8465311497380134
+   ]
+  },
+  "d_durch": {
+   "n_train": 159196,
+   "random": [
+    0.00218713040410575,
+    0.002213457167008812
+   ],
+   "onpolicy": [
+    0.04913294515337209,
+    0.04942002670889299
+   ]
+  }
+ },
+ "heldout_note": "A modellek teljesülés-előrejelzése nem látott leosztásokon: a (könyvi - base) log-loss különbség ~0 (|Δ| ≤ 0,009), vagyis a könyvi jellemzők a már meglévő 24 jellemző mellett nem tesznek hozzá előrejelző információt.",
+ "sign_check": [
+  {
+   "feature": "disc_red",
+   "model": "parti",
+   "book_expects": "-",
+   "std_weight": -0.023,
+   "agrees": true,
+   "sign_stable_4fold": true,
+   "n": 36608,
+   "mean_feature": 0.393
+  },
+  {
+   "feature": "disc_ax7",
+   "model": "parti",
+   "book_expects": "-",
+   "std_weight": 0.022,
+   "agrees": false,
+   "sign_stable_4fold": false,
+   "n": 36608,
+   "mean_feature": 0.646
+  },
+  {
+   "feature": "disc_low",
+   "model": "parti",
+   "book_expects": "+",
+   "std_weight": 0.032,
+   "agrees": true,
+   "sign_stable_4fold": false,
+   "n": 36608,
+   "mean_feature": 0.989
+  },
+  {
+   "feature": "disc_thin",
+   "model": "parti",
+   "book_expects": "-",
+   "std_weight": -0.013,
+   "agrees": true,
+   "sign_stable_4fold": false,
+   "n": 36608,
+   "mean_feature": 0.906
+  },
+  {
+   "feature": "disc_high",
+   "model": "parti",
+   "book_expects": "-",
+   "std_weight": 0.381,
+   "agrees": false,
+   "sign_stable_4fold": true,
+   "n": 36608,
+   "mean_feature": 0.48
+  },
+  {
+   "feature": "weak_tens",
+   "model": "parti",
+   "book_expects": "-",
+   "std_weight": 0.17,
+   "agrees": false,
+   "sign_stable_4fold": true,
+   "n": 36608,
+   "mean_feature": 0.059
+  },
+  {
+   "feature": "n_suits",
+   "model": "parti",
+   "book_expects": "-",
+   "std_weight": -0.415,
+   "agrees": true,
+   "sign_stable_4fold": true,
+   "n": 36608,
+   "mean_feature": 3.55
+  },
+  {
+   "feature": "two_suiter",
+   "model": "parti",
+   "book_expects": "+",
+   "std_weight": -0.005,
+   "agrees": false,
+   "sign_stable_4fold": false,
+   "n": 36608,
+   "mean_feature": 0.002
+  },
+  {
+   "feature": "tens_kf",
+   "model": "parti",
+   "book_expects": "+",
+   "std_weight": 0.342,
+   "agrees": true,
+   "sign_stable_4fold": true,
+   "n": 36608,
+   "mean_feature": 0.453
+  },
+  {
+   "feature": "ulti4",
+   "model": "ulti",
+   "book_expects": "+",
+   "std_weight": -0.058,
+   "agrees": false,
+   "sign_stable_4fold": false,
+   "n": 35490,
+   "mean_feature": 0.452
+  },
+  {
+   "feature": "ulti5",
+   "model": "ulti",
+   "book_expects": "+",
+   "std_weight": -0.143,
+   "agrees": false,
+   "sign_stable_4fold": true,
+   "n": 35490,
+   "mean_feature": 0.244
+  },
+  {
+   "feature": "c40_core",
+   "model": "c40",
+   "book_expects": "+",
+   "std_weight": 0.325,
+   "agrees": true,
+   "sign_stable_4fold": true,
+   "n": 46182,
+   "mean_feature": 0.071
+  },
+  {
+   "feature": "c20_core",
+   "model": "c20",
+   "book_expects": "+",
+   "std_weight": -0.466,
+   "agrees": false,
+   "sign_stable_4fold": true,
+   "n": 43266,
+   "mean_feature": 0.018
+  },
+  {
+   "feature": "betli_low_run",
+   "model": "betli",
+   "book_expects": "+",
+   "std_weight": -0.083,
+   "agrees": false,
+   "sign_stable_4fold": false,
+   "n": 17922,
+   "mean_feature": 1.825
+  },
+  {
+   "feature": "betli_high_excess",
+   "model": "betli",
+   "book_expects": "-",
+   "std_weight": -0.107,
+   "agrees": true,
+   "sign_stable_4fold": false,
+   "n": 17922,
+   "mean_feature": 2.616
+  },
+  {
+   "feature": "sure_tops",
+   "model": "sdurch",
+   "book_expects": "+",
+   "std_weight": 0.073,
+   "agrees": true,
+   "sign_stable_4fold": false,
+   "n": 17084,
+   "mean_feature": 1.811
+  },
+  {
+   "feature": "durch_sure8",
+   "model": "sdurch",
+   "book_expects": "+",
+   "std_weight": 0.032,
+   "agrees": true,
+   "sign_stable_4fold": false,
+   "n": 17084,
+   "mean_feature": 0.004
+  }
+ ],
+ "sign_note": "A tanult súly előjele a könyv várakozásával 9/17 jellemzőnél egyezik, 8-nál ellentmond. Stabil (mind a 4 részmintán azonos előjel) ÉS egyező: disc_red, n_suits, tens_kf, c40_core (4 db). Stabilan ELLENTMOND: disc_high, weak_tens, ulti5, c20_core. Az ulti4/ulti5 ellentmondása valószínűleg kollinearitás (az n_trump és has_7 alapjellemző már hordozza az információt), de ezt nem bizonyítottam külön. A könyvi előjel-várakozás (exp) az én olvasatom a tanácsokból, nem a könyv explicit állítása.",
+ "conclusion": "A könyvi tanácsok jellemzőként nem javítják a motort a mért erősségen belül. Okok: (1) a tanácsok többsége már benne van az alap 24 jellemzőben (adu-szám, VII, ász/X, színhiány), (2) a megmaradó többlet kicsi, (3) a mérés zaja (±0,3-0,5) nagyobb, mint egy lehetséges apró hatás. A könyv hasznát ezért a tutor (idézetes magyarázat) hozza, nem a motor súlyai. A mentett learned_bookfeat.json az 'all' változat, hogy az eredmény reprodukálható legyen; a learned_policy.json-t NEM váltja le."
+}
